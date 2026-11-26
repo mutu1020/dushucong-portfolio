@@ -40,6 +40,33 @@ const corporate: Reel[] = [
   },
 ];
 
+const dramas: Reel[] = [
+  {
+    id: "03-ai-drama-gufeng-a",
+    title: "AI古风漫剧",
+    src: "/works/films/03-ai-drama-gufeng-a.mp4",
+    poster: "/works/films/03-ai-drama-gufeng-a.jpg",
+    duration: "3:47",
+    span: "md:col-span-7",
+  },
+  {
+    id: "04-ai-drama-shengnan",
+    title: "AI现代剧",
+    src: "/works/films/04-ai-drama-shengnan.mp4",
+    poster: "/works/films/04-ai-drama-shengnan.jpg",
+    duration: "4:20",
+    span: "md:col-span-5 md:mt-14",
+  },
+  {
+    id: "07-ai-drama-weiwandai",
+    title: "AI现代剧",
+    src: "/works/films/07-ai-drama-weiwandai.mp4",
+    poster: "/works/films/07-ai-drama-weiwandai.jpg",
+    duration: "2:12",
+    span: "md:col-span-6 md:col-start-4 md:mt-6",
+  },
+];
+
 const shorts: Reel[] = [
   {
     id: "09-powall-ai-rewrite",
@@ -160,7 +187,11 @@ export function SelectedReels() {
         </div>
       </Group>
       <Group id="ai-drama" label="AI漫剧">
-        <div className="mt-6" />
+        <div className="mt-6 grid grid-cols-1 items-start gap-x-6 gap-y-8 md:grid-cols-12">
+          {dramas.map((item) => (
+            <ReelPlayer key={item.id} film={item} />
+          ))}
+        </div>
       </Group>
     </section>
   );
