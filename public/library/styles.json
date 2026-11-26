@@ -1,0 +1,4894 @@
+[
+ {
+  "id": "A1",
+  "name": "字雨",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · A 字",
+   "长什么样": "话像雨一样落下来，越积越多。",
+   "适合": "被说教、重复的话、压力",
+   "关键词": "字雨、落下、堆积"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/A1_%E5%AD%97%E9%9B%A8.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/A1_%E5%AD%97%E9%9B%A8.md",
+  "bytes": 1980,
+  "sha256": "123981cfe82263fa"
+ },
+ {
+  "id": "B1",
+  "name": "流动的丝线",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · B 粒子",
+   "长什么样": "无数细线跟着看不见的风流动。",
+   "适合": "思绪、情绪在流、平静下来",
+   "关键词": "流动、丝线、风"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B1_%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%9D%E7%BA%BF.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B1_%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%9D%E7%BA%BF.md",
+  "bytes": 1595,
+  "sha256": "03379caca42239f3"
+ },
+ {
+  "id": "C1",
+  "name": "水墨晕开",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · C 线与墨",
+   "长什么样": "墨在宣纸上一团一团晕开。",
+   "适合": "中国感、回忆、哀伤",
+   "关键词": "水墨、晕开、宣纸"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/C1_%E6%B0%B4%E5%A2%A8%E6%99%95%E5%BC%80.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/C1_%E6%B0%B4%E5%A2%A8%E6%99%95%E5%BC%80.md",
+  "bytes": 2113,
+  "sha256": "acebaa23c8f14b15"
+ },
+ {
+  "id": "D1",
+  "name": "雨窗",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · D 光与天气",
+   "长什么样": "玻璃上的雨滴，后面是虚化的夜灯。",
+   "适合": "等待、夜里、想念",
+   "关键词": "雨窗、夜、虚化灯光"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/D1_%E9%9B%A8%E7%AA%97.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/D1_%E9%9B%A8%E7%AA%97.md",
+  "bytes": 2420,
+  "sha256": "278642932484446f"
+ },
+ {
+  "id": "E1",
+  "name": "极简几何",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · E 图形与纸",
+   "长什么样": "圆、方、半圆在纯色上滚、落、长出来。",
+   "适合": "把复杂的事讲清楚",
+   "关键词": "几何、扁平、色块"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/E1_%E6%9E%81%E7%AE%80%E5%87%A0%E4%BD%95.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/E1_%E6%9E%81%E7%AE%80%E5%87%A0%E4%BD%95.md",
+  "bytes": 1735,
+  "sha256": "b8d98fd26e6a189c"
+ },
+ {
+  "id": "F1",
+  "name": "图表生长",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · F 讲解",
+   "长什么样": "柱子一根根长出来，数字跳动，再连成线。",
+   "适合": "讲数据、研究结论",
+   "关键词": "图表、数字、生长"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/F1_%E5%9B%BE%E8%A1%A8%E7%94%9F%E9%95%BF.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/F1_%E5%9B%BE%E8%A1%A8%E7%94%9F%E9%95%BF.md",
+  "bytes": 2454,
+  "sha256": "2d6f2584aeb5ad30"
+ },
+ {
+  "id": "G1",
+  "name": "老胶片",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · G 质感",
+   "长什么样": "颗粒、闪烁、划痕、边上的漏光。",
+   "适合": "回忆、旧时光、整片的统一质感",
+   "关键词": "胶片、颗粒、漏光"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/G1_%E8%80%81%E8%83%B6%E7%89%87.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/G1_%E8%80%81%E8%83%B6%E7%89%87.md",
+  "bytes": 2832,
+  "sha256": "21b5f0dd092282d4"
+ },
+ {
+  "id": "A2",
+  "name": "光标打字",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · A 字",
+   "长什么样": "黑底一个光标，一字一字打，打了又删。",
+   "适合": "说不出口的话、心里的独白",
+   "关键词": "打字、光标、删掉"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/A2_%E5%85%89%E6%A0%87%E6%89%93%E5%AD%97.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/A2_%E5%85%89%E6%A0%87%E6%89%93%E5%AD%97.md",
+  "bytes": 2044,
+  "sha256": "1a37d635f87f92d2"
+ },
+ {
+  "id": "B2",
+  "name": "萤火光尘",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · B 粒子",
+   "长什么样": "暖色光点慢慢往上飘，有远有近。",
+   "适合": "温暖、回忆、找回光",
+   "关键词": "萤火、光尘、暖"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B2_%E8%90%A4%E7%81%AB%E5%85%89%E5%B0%98.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B2_%E8%90%A4%E7%81%AB%E5%85%89%E5%B0%98.md",
+  "bytes": 1714,
+  "sha256": "dde0eb84f0116d3c"
+ },
+ {
+  "id": "C2",
+  "name": "一笔画",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · C 线与墨",
+   "长什么样": "一根线慢慢画出山、太阳和一个小人。",
+   "适合": "讲一个人、一件事的轮廓",
+   "关键词": "一笔画、线描、生长"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/C2_%E4%B8%80%E7%AC%94%E7%94%BB.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/C2_%E4%B8%80%E7%AC%94%E7%94%BB.md",
+  "bytes": 2455,
+  "sha256": "220f17a7f5a2217a"
+ },
+ {
+  "id": "D2",
+  "name": "窗光与尘",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · D 光与天气",
+   "长什么样": "一束光从窗照进来，灰尘在光里飘。",
+   "适合": "安静、时间、老房子",
+   "关键词": "窗光、灰尘、光束"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/D2_%E7%AA%97%E5%85%89%E4%B8%8E%E5%B0%98.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/D2_%E7%AA%97%E5%85%89%E4%B8%8E%E5%B0%98.md",
+  "bytes": 2132,
+  "sha256": "1b41bf9bfe07dcc1"
+ },
+ {
+  "id": "E2",
+  "name": "剪纸层叠",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · E 图形与纸",
+   "长什么样": "一层层纸片有阴影，前快后慢地移动。",
+   "适合": "童年、故事、温柔的段落",
+   "关键词": "剪纸、纸片、层叠"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/E2_%E5%89%AA%E7%BA%B8%E5%B1%82%E5%8F%A0.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/E2_%E5%89%AA%E7%BA%B8%E5%B1%82%E5%8F%A0.md",
+  "bytes": 2320,
+  "sha256": "debcefc65f8e7c2b"
+ },
+ {
+  "id": "F2",
+  "name": "关系图",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · F 讲解",
+   "长什么样": "人和人之间的箭头一条条画出来，箭头上写着那句话。",
+   "适合": "家里的关系、因果",
+   "关键词": "节点、箭头、关系图"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/F2_%E5%85%B3%E7%B3%BB%E5%9B%BE.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/F2_%E5%85%B3%E7%B3%BB%E5%9B%BE.md",
+  "bytes": 2908,
+  "sha256": "a652eb0e3725806f"
+ },
+ {
+  "id": "G2",
+  "name": "信号故障",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · G 质感",
+   "长什么样": "画面错位、颜色分离，突然闪一下。",
+   "适合": "崩溃、混乱、话被打断",
+   "关键词": "故障、错位、干扰"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/G2_%E4%BF%A1%E5%8F%B7%E6%95%85%E9%9A%9C.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/G2_%E4%BF%A1%E5%8F%B7%E6%95%85%E9%9A%9C.md",
+  "bytes": 1805,
+  "sha256": "b30468ceaf41799c"
+ },
+ {
+  "id": "A3",
+  "name": "大字冲击",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · A 字",
+   "长什么样": "一个词一个词砸进画面，跟着节拍。",
+   "适合": "情绪爆发、金句、MV 副歌",
+   "关键词": "大字、砸下来、跟节拍"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/A3_%E5%A4%A7%E5%AD%97%E5%86%B2%E5%87%BB.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/A3_%E5%A4%A7%E5%AD%97%E5%86%B2%E5%87%BB.md",
+  "bytes": 1848,
+  "sha256": "7bc5897da2df9f69"
+ },
+ {
+  "id": "B3",
+  "name": "粒子聚形",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · B 粒子",
+   "长什么样": "粒子聚成心、房子、人，再散开。",
+   "适合": "讲具体的东西：家、关系、一个人",
+   "关键词": "聚成、形状、散开"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B3_%E7%B2%92%E5%AD%90%E8%81%9A%E5%BD%A2.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B3_%E7%B2%92%E5%AD%90%E8%81%9A%E5%BD%A2.md",
+  "bytes": 5627,
+  "sha256": "2a784814e01c2ca0"
+ },
+ {
+  "id": "C3",
+  "name": "心里的等高线",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · C 线与墨",
+   "长什么样": "像地图上的等高线，一直在起伏。",
+   "适合": "情绪起伏、心里的地形",
+   "关键词": "等高线、地形、起伏"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/C3_%E5%BF%83%E9%87%8C%E7%9A%84%E7%AD%89%E9%AB%98%E7%BA%BF.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/C3_%E5%BF%83%E9%87%8C%E7%9A%84%E7%AD%89%E9%AB%98%E7%BA%BF.md",
+  "bytes": 2481,
+  "sha256": "50f15e7492407fb5"
+ },
+ {
+  "id": "D3",
+  "name": "雪与火星",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · D 光与天气",
+   "长什么样": "雪往下落，几点火星往上飘。",
+   "适合": "告别、结束、冷里的一点热",
+   "关键词": "雪、火星、往上飘"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/D3_%E9%9B%AA%E4%B8%8E%E7%81%AB%E6%98%9F.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/D3_%E9%9B%AA%E4%B8%8E%E7%81%AB%E6%98%9F.md",
+  "bytes": 1695,
+  "sha256": "052d07b6a62354dc"
+ },
+ {
+  "id": "E3",
+  "name": "字符画",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · E 图形与纸",
+   "长什么样": "画面全是字符拼成的，像老电脑屏幕。",
+   "适合": "科技、冷、记忆碎片",
+   "关键词": "字符画、终端、像素"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/E3_%E5%AD%97%E7%AC%A6%E7%94%BB.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/E3_%E5%AD%97%E7%AC%A6%E7%94%BB.md",
+  "bytes": 1550,
+  "sha256": "1785dc0e8e263e6f"
+ },
+ {
+  "id": "F3",
+  "name": "分屏对比",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · F 讲解",
+   "长什么样": "左边以前，右边现在，中间一条线。",
+   "适合": "以前和现在、父母和孩子",
+   "关键词": "分屏、对比、左右"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/F3_%E5%88%86%E5%B1%8F%E5%AF%B9%E6%AF%94.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/F3_%E5%88%86%E5%B1%8F%E5%AF%B9%E6%AF%94.md",
+  "bytes": 2291,
+  "sha256": "d7ced5789c6503f1"
+ },
+ {
+  "id": "A4",
+  "name": "字的隧道",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · A 字",
+   "长什么样": "字排成一圈一圈，镜头往里钻。",
+   "适合": "想不通、越想越深",
+   "关键词": "隧道、旋转、往里钻"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/A4_%E5%AD%97%E7%9A%84%E9%9A%A7%E9%81%93.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/A4_%E5%AD%97%E7%9A%84%E9%9A%A7%E9%81%93.md",
+  "bytes": 1572,
+  "sha256": "9fd719ab428ad7ce"
+ },
+ {
+  "id": "B4",
+  "name": "星空连线",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · B 粒子",
+   "长什么样": "点和点连成网，中间那颗暖的是你。",
+   "适合": "人和人的关系、联结、孤独",
+   "关键词": "星座、连线、网"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B4_%E6%98%9F%E7%A9%BA%E8%BF%9E%E7%BA%BF.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B4_%E6%98%9F%E7%A9%BA%E8%BF%9E%E7%BA%BF.md",
+  "bytes": 2101,
+  "sha256": "aa4f2929d74e2e1a"
+ },
+ {
+  "id": "C4",
+  "name": "涟漪",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · C 线与墨",
+   "长什么样": "一滴落下，一圈圈荡开。",
+   "适合": "一句话的影响、余波",
+   "关键词": "涟漪、水滴、扩散"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/C4_%E6%B6%9F%E6%BC%AA.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/C4_%E6%B6%9F%E6%BC%AA.md",
+  "bytes": 1352,
+  "sha256": "2b2f3d57262f81e4"
+ },
+ {
+  "id": "D4",
+  "name": "天亮",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · D 光与天气",
+   "长什么样": "天从深蓝慢慢变暖，太阳升起来。",
+   "适合": "结尾、希望、重新开始",
+   "关键词": "日出、渐变、天亮"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/D4_%E5%A4%A9%E4%BA%AE.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/D4_%E5%A4%A9%E4%BA%AE.md",
+  "bytes": 2071,
+  "sha256": "209724b85892af65"
+ },
+ {
+  "id": "A5",
+  "name": "字散了再聚",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · A 字",
+   "长什么样": "一句话散成粒子，聚成另一句话。",
+   "适合": "转念、换一种理解",
+   "关键词": "散开、聚成、变成"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/A5_%E5%AD%97%E6%95%A3%E4%BA%86%E5%86%8D%E8%81%9A.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/A5_%E5%AD%97%E6%95%A3%E4%BA%86%E5%86%8D%E8%81%9A.md",
+  "bytes": 2734,
+  "sha256": "10f9bb992c72030f"
+ },
+ {
+  "id": "B5",
+  "name": "呼吸的圆",
+  "category": "A-G_代码样片",
+  "meta": {
+   "分类": "A–G 代码样片 · B 粒子",
+   "长什么样": "一团粒子跟着呼吸胀大、缩小。",
+   "适合": "安抚、慢下来、冥想",
+   "关键词": "呼吸、胀缩、慢"
+  },
+  "image": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B5_%E5%91%BC%E5%90%B8%E7%9A%84%E5%9C%86.jpg",
+  "file": "A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B5_%E5%91%BC%E5%90%B8%E7%9A%84%E5%9C%86.md",
+  "bytes": 1524,
+  "sha256": "487998258b95e251"
+ },
+ {
+  "id": "H1",
+  "name": "Biennale Yellow",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "暖羊皮纸底，太阳黄光晕，衬线大标题，靛蓝墨色，细线"
+  },
+  "image": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H1_Biennale%20Yellow.jpg",
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H1_Biennale%20Yellow.md",
+  "bytes": 3736,
+  "sha256": "bd3ebd66119b3e32"
+ },
+ {
+  "id": "H2",
+  "name": "BlockFrame",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "新粗野主义，粗黑边框，硬投影，糖果色点缀"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H2_BlockFrame.md",
+  "bytes": 219,
+  "sha256": "6f012dcf1094105a"
+ },
+ {
+  "id": "H3",
+  "name": "Blue Professional",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "羊皮纸底，钴蓝主色，Space Grotesk 标题"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H3_Blue%20Professional.md",
+  "bytes": 206,
+  "sha256": "dd957f36b685c799"
+ },
+ {
+  "id": "H4",
+  "name": "Bold Poster",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "倾斜的花体大字，奶油底红色强调，杂志封面感"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H4_Bold%20Poster.md",
+  "bytes": 226,
+  "sha256": "fcdf275ba727ad58"
+ },
+ {
+  "id": "H5",
+  "name": "Broadside",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "工业报纸海报，奶油色配墨色，火橙色点缀"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H5_Broadside.md",
+  "bytes": 212,
+  "sha256": "40846c4a0b2e2fdc"
+ },
+ {
+  "id": "H6",
+  "name": "Capsule",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "胶囊形状，奶油纸，糖果配色，Bodoni 衬线标题"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H6_Capsule.md",
+  "bytes": 218,
+  "sha256": "3e1419146c4dc967"
+ },
+ {
+  "id": "H7",
+  "name": "Cartesian",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "极简留白，暖羊皮纸，墨色标题，灰褐点缀，细线"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H7_Cartesian.md",
+  "bytes": 230,
+  "sha256": "9cbc4b078b66b93e"
+ },
+ {
+  "id": "H8",
+  "name": "Cobalt Grid",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "羊皮纸加钴蓝网格，Newsreader 标题"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H8_Cobalt%20Grid.md",
+  "bytes": 188,
+  "sha256": "3608a80b5e7892ae"
+ },
+ {
+  "id": "H9",
+  "name": "Coral",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "全大写 Bebas Neue 标题，奶油底珊瑚色"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H9_Coral.md",
+  "bytes": 190,
+  "sha256": "65bb45d82b8a427e"
+ },
+ {
+  "id": "H10",
+  "name": "Creative Mode",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "奶油底，饱和糖果色，Archivo Black 大字"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H10_Creative%20Mode.md",
+  "bytes": 203,
+  "sha256": "b940fc55f995be71"
+ },
+ {
+  "id": "H11",
+  "name": "Daisy Days",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "阳光花园粉彩，3px 炭灰描边，硬投影，圆体字"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H11_Daisy%20Days.md",
+  "bytes": 222,
+  "sha256": "1eb37a3330e3632c"
+ },
+ {
+  "id": "H12",
+  "name": "Editorial Forest",
+  "category": "H_现成版式",
+  "meta": {
+   "分类": "H 现成版式 · 现成版式",
+   "长什么样": "绿、粉、奶油的杂志配色，衬线标题，细线"
+  },
+  "image": null,
+  "file": "H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H12_Editorial%20Forest.md",
+  "bytes": 220,
+  "sha256": "69e0a8ca40a52e2f"
+ },
+ {
+  "id": "K1",
+  "name": "扁平矢量",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 适合做\"我\"的",
+   "长什么样": "线条粗细一致，平涂没有阴影，颜色干净明亮"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K1_%E6%89%81%E5%B9%B3%E7%9F%A2%E9%87%8F.md",
+  "bytes": 270,
+  "sha256": "2008666adc1b07b5"
+ },
+ {
+  "id": "K2",
+  "name": "Q 版",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 适合做\"我\"的",
+   "长什么样": "大头小身子，短手短脚，大眼睛，颜色软"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K2_Q%20%E7%89%88.md",
+  "bytes": 249,
+  "sha256": "cce91700945f679f"
+ },
+ {
+  "id": "K3",
+  "name": "卡哇伊",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 适合做\"我\"的",
+   "长什么样": "圆滚滚，豆豆眼，小嘴巴，粉嫩色"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K3_%E5%8D%A1%E5%93%87%E4%BC%8A.md",
+  "bytes": 226,
+  "sha256": "a1c83c0b408ff224"
+ },
+ {
+  "id": "K4",
+  "name": "极简线条小人",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 适合做\"我\"的",
+   "长什么样": "几根线就是一个人，背景空"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K4_%E6%9E%81%E7%AE%80%E7%BA%BF%E6%9D%A1%E5%B0%8F%E4%BA%BA.md",
+  "bytes": 208,
+  "sha256": "e5c6ad571f54186d"
+ },
+ {
+  "id": "K5",
+  "name": "孟菲斯扁平人",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 适合做\"我\"的",
+   "长什么样": "大公司宣传图里那种手脚很长的扁平小人"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K5_%E5%AD%9F%E8%8F%B2%E6%96%AF%E6%89%81%E5%B9%B3%E4%BA%BA.md",
+  "bytes": 203,
+  "sha256": "95d8d589c1493067"
+ },
+ {
+  "id": "K6",
+  "name": "清线漫画",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 适合做\"我\"的",
+   "长什么样": "线条均匀，平涂，像《丁丁历险记》"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K6_%E6%B8%85%E7%BA%BF%E6%BC%AB%E7%94%BB.md",
+  "bytes": 205,
+  "sha256": "1ab896e3782dddd5"
+ },
+ {
+  "id": "K7",
+  "name": "日式动画",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 适合做\"我\"的",
+   "长什么样": "大眼睛，头发有造型，线条干净，镜头感强"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K7_%E6%97%A5%E5%BC%8F%E5%8A%A8%E7%94%BB.md",
+  "bytes": 223,
+  "sha256": "766225c683dc0e25"
+ },
+ {
+  "id": "K8",
+  "name": "绘本",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 适合做\"我\"的",
+   "长什么样": "形状软，有纸的纹理，暖色"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K8_%E7%BB%98%E6%9C%AC.md",
+  "bytes": 211,
+  "sha256": "10e85f963757d55d"
+ },
+ {
+  "id": "K9",
+  "name": "涂鸦",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "线条松、歪，能看见草稿线",
+   "适合": "讲\"以前的我\"、自嘲"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K9_%E6%B6%82%E9%B8%A6.md",
+  "bytes": 205,
+  "sha256": "112fcca15eb45a3d"
+ },
+ {
+  "id": "K10",
+  "name": "粉笔黑板",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "黑底彩色粉笔，手绘的温度",
+   "适合": "讲道理、科普"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K10_%E7%B2%89%E7%AC%94%E9%BB%91%E6%9D%BF.md",
+  "bytes": 204,
+  "sha256": "e96fc017c7e442fb"
+ },
+ {
+  "id": "K11",
+  "name": "手账笔记",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "像学生笔记，有勾画、有便利贴",
+   "适合": "列方法、列步骤"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K11_%E6%89%8B%E8%B4%A6%E7%AC%94%E8%AE%B0.md",
+  "bytes": 219,
+  "sha256": "333203dbc28be3e4"
+ },
+ {
+  "id": "K12",
+  "name": "报纸四格",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "黑白线条，几格讲一个小笑话",
+   "适合": "轻松的小段子"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K12_%E6%8A%A5%E7%BA%B8%E5%9B%9B%E6%A0%BC.md",
+  "bytes": 210,
+  "sha256": "f53e0bb79915a1a4"
+ },
+ {
+  "id": "K13",
+  "name": "美漫网点",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "粗线条，网点，速度线，对比强",
+   "适合": "讲\"卖课的人\"这种带点讽刺的段落"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K13_%E7%BE%8E%E6%BC%AB%E7%BD%91%E7%82%B9.md",
+  "bytes": 242,
+  "sha256": "f7496551e0cd62ea"
+ },
+ {
+  "id": "K14",
+  "name": "波普",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "粗线，圆点，对话框，红黄蓝",
+   "适合": "抓眼球的转折"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K14_%E6%B3%A2%E6%99%AE.md",
+  "bytes": 204,
+  "sha256": "f1a3c457da564ec8"
+ },
+ {
+  "id": "K15",
+  "name": "橡皮管 1930",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "手脚像橡皮管，饼形眼睛，黑白或旧色",
+   "适合": "复古、好玩"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K15_%E6%A9%A1%E7%9A%AE%E7%AE%A1%201930.md",
+  "bytes": 233,
+  "sha256": "3e369d68c0af2ca1"
+ },
+ {
+  "id": "K16",
+  "name": "中世纪现代",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "几何、平、颜色少而大胆，像 50 年代广告",
+   "适合": "有设计感的讲解"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K16_%E4%B8%AD%E4%B8%96%E7%BA%AA%E7%8E%B0%E4%BB%A3.md",
+  "bytes": 248,
+  "sha256": "7e23ddba46c7f801"
+ },
+ {
+  "id": "K17",
+  "name": "几何",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "用圆、方、三角拼出来",
+   "适合": "讲结构、讲系统"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K17_%E5%87%A0%E4%BD%95.md",
+  "bytes": 189,
+  "sha256": "11eefa798c11288e"
+ },
+ {
+  "id": "K18",
+  "name": "水彩",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "边缘晕开，纸纹，颜色淡",
+   "适合": "讲情绪、讲回忆"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K18_%E6%B0%B4%E5%BD%A9.md",
+  "bytes": 195,
+  "sha256": "d137987a34cc918a"
+ },
+ {
+  "id": "K19",
+  "name": "厚涂",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "能看见笔触，层次丰富",
+   "适合": "情绪高的画面"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K19_%E5%8E%9A%E6%B6%82.md",
+  "bytes": 186,
+  "sha256": "9fc0bdbccae55aae"
+ },
+ {
+  "id": "K20",
+  "name": "剪纸",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "一层层纸片，边缘看得见，有一点阴影",
+   "适合": "讲故事"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K20_%E5%89%AA%E7%BA%B8.md",
+  "bytes": 219,
+  "sha256": "209e814ede6b8086"
+ },
+ {
+  "id": "K21",
+  "name": "手工纸艺",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "手作、纸工艺的质感",
+   "适合": "温暖的科普"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K21_%E6%89%8B%E5%B7%A5%E7%BA%B8%E8%89%BA.md",
+  "bytes": 183,
+  "sha256": "f73148119922eaae"
+ },
+ {
+  "id": "K22",
+  "name": "折纸",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "折出来的纸",
+   "适合": "讲变化、讲\"折叠\""
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K22_%E6%8A%98%E7%BA%B8.md",
+  "bytes": 161,
+  "sha256": "1ba1a3134e6bb316"
+ },
+ {
+  "id": "K23",
+  "name": "拼贴",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "撕边、照片、混材料",
+   "适合": "讲很多东西混在一起的段落"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K23_%E6%8B%BC%E8%B4%B4.md",
+  "bytes": 198,
+  "sha256": "be2538c569c48da0"
+ },
+ {
+  "id": "K24",
+  "name": "粘土",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "手指印，手作纹理，圆润",
+   "适合": "轻松好玩"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K24_%E7%B2%98%E5%9C%9F.md",
+  "bytes": 186,
+  "sha256": "e239494d143d9182"
+ },
+ {
+  "id": "K25",
+  "name": "皮克斯式 3D",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "比例夸张、大眼睛、圆润、质感好",
+   "适合": "角色高光时刻"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K25_%E7%9A%AE%E5%85%8B%E6%96%AF%E5%BC%8F%203D.md",
+  "bytes": 225,
+  "sha256": "878177de06a731da"
+ },
+ {
+  "id": "K26",
+  "name": "卡通渲染 3D",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "3D 模型但阴影是硬边，有黑描边",
+   "适合": "想要 3D 但要卡通感"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K26_%E5%8D%A1%E9%80%9A%E6%B8%B2%E6%9F%93%203D.md",
+  "bytes": 226,
+  "sha256": "648cb0a0fce91ee5"
+ },
+ {
+  "id": "K27",
+  "name": "低多边形",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "很少的面拼出来的 3D",
+   "适合": "科技感"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K27_%E4%BD%8E%E5%A4%9A%E8%BE%B9%E5%BD%A2.md",
+  "bytes": 177,
+  "sha256": "20ae86d4037c8d0d"
+ },
+ {
+  "id": "K28",
+  "name": "像素",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "方块像素，颜色少",
+   "适合": "游戏感、复古"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K28_%E5%83%8F%E7%B4%A0.md",
+  "bytes": 174,
+  "sha256": "da346f43b0af0b5c"
+ },
+ {
+  "id": "K29",
+  "name": "蓝图",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "技术图纸，等距视角",
+   "适合": "讲工具的结构"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K29_%E8%93%9D%E5%9B%BE.md",
+  "bytes": 180,
+  "sha256": "3c5ee24f5ee12d70"
+ },
+ {
+  "id": "K30",
+  "name": "说明书线稿",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "像宜家说明书，极简线条",
+   "适合": "讲步骤"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K30_%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%BA%BF%E7%A8%BF.md",
+  "bytes": 192,
+  "sha256": "b11627fe9c965bc8"
+ },
+ {
+  "id": "K31",
+  "name": "平铺整理",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "东西整整齐齐摆在桌面上，俯拍",
+   "适合": "展示\"我的工具箱\""
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K31_%E5%B9%B3%E9%93%BA%E6%95%B4%E7%90%86.md",
+  "bytes": 221,
+  "sha256": "420e0cba69c14e5e"
+ },
+ {
+  "id": "K32",
+  "name": "积木",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "乐高一样的积木",
+   "适合": "讲\"一块块搭起来的系统\""
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K32_%E7%A7%AF%E6%9C%A8.md",
+  "bytes": 182,
+  "sha256": "f63f5c1aaade5b03"
+ },
+ {
+  "id": "K33",
+  "name": "地铁图",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "像地铁线路图",
+   "适合": "讲流程、讲路线"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K33_%E5%9C%B0%E9%93%81%E5%9B%BE.md",
+  "bytes": 168,
+  "sha256": "918503601ab096ad"
+ },
+ {
+  "id": "K34",
+  "name": "赛博霓虹",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "深色底，霓虹光",
+   "适合": "讲未来"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K34_%E8%B5%9B%E5%8D%9A%E9%9C%93%E8%99%B9.md",
+  "bytes": 165,
+  "sha256": "d71030493afd31fb"
+ },
+ {
+  "id": "K35",
+  "name": "旧学院风",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "泛黄、棕褐、老书的感觉",
+   "适合": "讲历史"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K35_%E6%97%A7%E5%AD%A6%E9%99%A2%E9%A3%8E.md",
+  "bytes": 189,
+  "sha256": "ff29d584bda9ec23"
+ },
+ {
+  "id": "K36",
+  "name": "丝网印刷",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "套色、平涂、有点错位",
+   "适合": "有设计感的海报画面"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K36_%E4%B8%9D%E7%BD%91%E5%8D%B0%E5%88%B7.md",
+  "bytes": 201,
+  "sha256": "ba21393874cd9c42"
+ },
+ {
+  "id": "K37",
+  "name": "哥特",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "细长、尖、黑紫暗红",
+   "适合": "讲恐惧、讲黑暗面"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K37_%E5%93%A5%E7%89%B9.md",
+  "bytes": 186,
+  "sha256": "9ca50c96450ff6c0"
+ },
+ {
+  "id": "K38",
+  "name": "情景喜剧",
+  "category": "K_卡通画风",
+  "meta": {
+   "分类": "K 卡通画风 · 画面风格",
+   "长什么样": "像《辛普森一家》，平涂，动作少",
+   "适合": "生活小场景"
+  },
+  "image": null,
+  "file": "K_%E5%8D%A1%E9%80%9A%E7%94%BB%E9%A3%8E/K38_%E6%83%85%E6%99%AF%E5%96%9C%E5%89%A7.md",
+  "bytes": 219,
+  "sha256": "80fe39c35a4a926e"
+ },
+ {
+  "id": "L1",
+  "name": "字幕新闻（Caption News）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 剪辑与纪实",
+   "长什么样": "美国一年死掉 130 万箱蜜蜂，总数却涨了 6%：静音也能看懂的新闻。",
+   "适合": "不开声音也能看懂，适合竖屏版"
+  },
+  "image": "L_Lemo-Opuscar/L1_%E5%AD%97%E5%B9%95%E6%96%B0%E9%97%BB.jpg",
+  "file": "L_Lemo-Opuscar/L1_%E5%AD%97%E5%B9%95%E6%96%B0%E9%97%BB.md",
+  "bytes": 17459,
+  "sha256": "c65736dacd703ed3"
+ },
+ {
+  "id": "L2",
+  "name": "1920 年代新闻片（1920s Newsreel）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 剪辑与纪实",
+   "长什么样": "1926 年报纸说查尔斯顿会跳坏膝盖，福特工人野餐会上的孩子照跳不误。",
+   "适合": "讲\"以前\"，怀旧"
+  },
+  "image": "L_Lemo-Opuscar/L2_1920%20%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB%E7%89%87.jpg",
+  "file": "L_Lemo-Opuscar/L2_1920%20%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB%E7%89%87.md",
+  "bytes": 18017,
+  "sha256": "01474f29276d27a2"
+ },
+ {
+  "id": "L3",
+  "name": "倒计时分屏（Live Countdown Split-screen）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 剪辑与纪实",
+   "长什么样": "阿尔忒弥斯二号发射的最后一分钟，一秒不剪：格子从 1 开到 9，点火合成 1。",
+   "适合": "对比、倒计时，比如\"三个月\""
+  },
+  "image": "L_Lemo-Opuscar/L3_%E5%80%92%E8%AE%A1%E6%97%B6%E5%88%86%E5%B1%8F.jpg",
+  "file": "L_Lemo-Opuscar/L3_%E5%80%92%E8%AE%A1%E6%97%B6%E5%88%86%E5%B1%8F.md",
+  "bytes": 17372,
+  "sha256": "364e50af48183dea"
+ },
+ {
+  "id": "L4",
+  "name": "延时摄影交响（Time-lapse Symphony）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 剪辑与纪实",
+   "长什么样": "纽约的一天：延时光河、踩着十六分音符的网格，1899 年和今天并排。",
+   "适合": "时间过去、城市节奏"
+  },
+  "image": "L_Lemo-Opuscar/L4_%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E4%BA%A4%E5%93%8D.jpg",
+  "file": "L_Lemo-Opuscar/L4_%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E4%BA%A4%E5%93%8D.md",
+  "bytes": 18786,
+  "sha256": "4349f86f8fa9e156"
+ },
+ {
+  "id": "L5",
+  "name": "视觉调查（Visual Investigation）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 剪辑与纪实",
+   "长什么样": "新闻片、照片、证词和调查报告排上同一条时间轴，五路来源指向一处。",
+   "适合": "几个来源对到一条时间线上，科普里讲来龙去脉"
+  },
+  "image": "L_Lemo-Opuscar/L5_%E8%A7%86%E8%A7%89%E8%B0%83%E6%9F%A5.jpg",
+  "file": "L_Lemo-Opuscar/L5_%E8%A7%86%E8%A7%89%E8%B0%83%E6%9F%A5.md",
+  "bytes": 19345,
+  "sha256": "b5eb77a8bcb0a2f6"
+ },
+ {
+  "id": "L6",
+  "name": "构成主义蒙太奇（Constructivist Montage）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 剪辑与纪实",
+   "长什么样": "帝国大厦的小册子写着建造者，工地实拍和老照片给出答案：每天 2,500 人。",
+   "适合": "有力量的号召"
+  },
+  "image": "L_Lemo-Opuscar/L6_%E6%9E%84%E6%88%90%E4%B8%BB%E4%B9%89%E8%92%99%E5%A4%AA%E5%A5%87.jpg",
+  "file": "L_Lemo-Opuscar/L6_%E6%9E%84%E6%88%90%E4%B8%BB%E4%B9%89%E8%92%99%E5%A4%AA%E5%A5%87.md",
+  "bytes": 20430,
+  "sha256": "491d7052053c389e"
+ },
+ {
+  "id": "L7",
+  "name": "体育战术板（Sports Telestrator）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 剪辑与纪实",
+   "长什么样": "半场 0–3，费内巴切 12 分钟连进三球：冻住画面、画线、分屏、射门图。",
+   "适合": "定格、画线讲解，拆一个瞬间"
+  },
+  "image": "L_Lemo-Opuscar/L7_%E4%BD%93%E8%82%B2%E6%88%98%E6%9C%AF%E6%9D%BF.jpg",
+  "file": "L_Lemo-Opuscar/L7_%E4%BD%93%E8%82%B2%E6%88%98%E6%9C%AF%E6%9D%BF.md",
+  "bytes": 17272,
+  "sha256": "a9640af15e212770"
+ },
+ {
+  "id": "L8",
+  "name": "电视新闻包装（Broadcast News Package）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 剪辑与纪实",
+   "长什么样": "一周四条 AI 新闻，一整套电视台包装：串联单、标题条、翻牌价格表、规格卡。",
+   "适合": "新闻快讯式的开场"
+  },
+  "image": "L_Lemo-Opuscar/L8_%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E5%8C%85%E8%A3%85.jpg",
+  "file": "L_Lemo-Opuscar/L8_%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E5%8C%85%E8%A3%85.md",
+  "bytes": 20877,
+  "sha256": "293aadd184d62f33"
+ },
+ {
+  "id": "L9",
+  "name": "卫星地图简报（Satellite Briefing）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 实证影像",
+   "长什么样": "卫星照着地图去找咸海，找到的是沙漠；只有筑了坝的那一块回来了。",
+   "适合": "讲地点、范围"
+  },
+  "image": "L_Lemo-Opuscar/L9_%E5%8D%AB%E6%98%9F%E5%9C%B0%E5%9B%BE%E7%AE%80%E6%8A%A5.jpg",
+  "file": "L_Lemo-Opuscar/L9_%E5%8D%AB%E6%98%9F%E5%9C%B0%E5%9B%BE%E7%AE%80%E6%8A%A5.md",
+  "bytes": 13477,
+  "sha256": "3d3ff488c4f6ff1a"
+ },
+ {
+  "id": "L10",
+  "name": "工程方案比较墙（Engineering Briefing Board）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 实证影像",
+   "长什么样": "一条河要架桥，四种桥型在一面简报墙上逐个受检，拍板的是桥下要过的船。",
+   "适合": "几个方案放在一起比"
+  },
+  "image": "L_Lemo-Opuscar/L10_%E5%B7%A5%E7%A8%8B%E6%96%B9%E6%A1%88%E6%AF%94%E8%BE%83%E5%A2%99.jpg",
+  "file": "L_Lemo-Opuscar/L10_%E5%B7%A5%E7%A8%8B%E6%96%B9%E6%A1%88%E6%AF%94%E8%BE%83%E5%A2%99.md",
+  "bytes": 13655,
+  "sha256": "0dd7d505b9580859"
+ },
+ {
+  "id": "L11",
+  "name": "激光点云扫描（LiDAR Survey）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 实证影像",
+   "长什么样": "激光点云剥掉一片森林的树冠，露出当年农田的石墙：3.4 公里。",
+   "适合": "科技感，\"扫一遍\""
+  },
+  "image": "L_Lemo-Opuscar/L11_%E6%BF%80%E5%85%89%E7%82%B9%E4%BA%91%E6%89%AB%E6%8F%8F.jpg",
+  "file": "L_Lemo-Opuscar/L11_%E6%BF%80%E5%85%89%E7%82%B9%E4%BA%91%E6%89%AB%E6%8F%8F.md",
+  "bytes": 13454,
+  "sha256": "978079b800453f9a"
+ },
+ {
+  "id": "L12",
+  "name": "白模投影（Projection on White Model）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 实证影像",
+   "长什么样": "投影机把数据一层层刷上鹿特丹白模：从 1940 年的空洞到今天的塔楼。",
+   "适合": "把数据投到白色模型上"
+  },
+  "image": "L_Lemo-Opuscar/L12_%E7%99%BD%E6%A8%A1%E6%8A%95%E5%BD%B1.jpg",
+  "file": "L_Lemo-Opuscar/L12_%E7%99%BD%E6%A8%A1%E6%8A%95%E5%BD%B1.md",
+  "bytes": 13906,
+  "sha256": "c4666b20f8a10cc6"
+ },
+ {
+  "id": "L13",
+  "name": "数据实体化（Data Physicalization）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 实证影像",
+   "长什么样": "十二年风电和太阳能装机叠成实物，绕表盘升成两条螺旋，2021 年太阳能反超。",
+   "适合": "数字变成一堆实物"
+  },
+  "image": "L_Lemo-Opuscar/L13_%E6%95%B0%E6%8D%AE%E5%AE%9E%E4%BD%93%E5%8C%96.jpg",
+  "file": "L_Lemo-Opuscar/L13_%E6%95%B0%E6%8D%AE%E5%AE%9E%E4%BD%93%E5%8C%96.md",
+  "bytes": 13784,
+  "sha256": "1ebc77fb9a1fdfe5"
+ },
+ {
+  "id": "L14",
+  "name": "爆炸图拆解（Exploded Teardown）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 实证影像",
+   "长什么样": "开源键盘的一半在一次环绕中逐层拆开，看到主控再合拢，标上真实尺寸。",
+   "适合": "拆开看里面，比如 AI 由哪几部分组成"
+  },
+  "image": "L_Lemo-Opuscar/L14_%E7%88%86%E7%82%B8%E5%9B%BE%E6%8B%86%E8%A7%A3.jpg",
+  "file": "L_Lemo-Opuscar/L14_%E7%88%86%E7%82%B8%E5%9B%BE%E6%8B%86%E8%A7%A3.md",
+  "bytes": 13902,
+  "sha256": "0a95582170595dba"
+ },
+ {
+  "id": "L15",
+  "name": "显微镜故事（Microscope Story）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 实证影像",
+   "长什么样": "一镜从肝组织玻片推到单个细胞核，两个圆逐像素数出 2.4 倍的蓝。",
+   "适合": "一层层放大，讲眼睛、神经这类感知科普很合适"
+  },
+  "image": "L_Lemo-Opuscar/L15_%E6%98%BE%E5%BE%AE%E9%95%9C%E6%95%85%E4%BA%8B.jpg",
+  "file": "L_Lemo-Opuscar/L15_%E6%98%BE%E5%BE%AE%E9%95%9C%E6%95%85%E4%BA%8B.md",
+  "bytes": 13484,
+  "sha256": "fa845f2a068f11ae"
+ },
+ {
+  "id": "L16",
+  "name": "档案灯箱（Archive Light Table）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 实证影像",
+   "长什么样": "电报说最长飞了 57 秒；放大镜下，莱特兄弟的底片和档案说是 59 秒。",
+   "适合": "翻旧资料、回忆"
+  },
+  "image": "L_Lemo-Opuscar/L16_%E6%A1%A3%E6%A1%88%E7%81%AF%E7%AE%B1.jpg",
+  "file": "L_Lemo-Opuscar/L16_%E6%A1%A3%E6%A1%88%E7%81%AF%E7%AE%B1.md",
+  "bytes": 13634,
+  "sha256": "31993dbcbfb91311"
+ },
+ {
+  "id": "L17",
+  "name": "蜡笔儿童绘本（Crayon Picture Book）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 手绘与绘画",
+   "长什么样": "月亮失眠了，小女孩爬上屋顶给它唱摇篮曲。",
+   "适合": "温暖、童年、回忆"
+  },
+  "image": "L_Lemo-Opuscar/L17_%E8%9C%A1%E7%AC%94%E5%84%BF%E7%AB%A5%E7%BB%98%E6%9C%AC.jpg",
+  "file": "L_Lemo-Opuscar/L17_%E8%9C%A1%E7%AC%94%E5%84%BF%E7%AB%A5%E7%BB%98%E6%9C%AC.md",
+  "bytes": 11618,
+  "sha256": "b55ce58d0bbf0dfe"
+ },
+ {
+  "id": "L18",
+  "name": "水彩笔刷（Watercolor Brush）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 手绘与绘画",
+   "长什么样": "跟着降雨从澳洲红色腹地一路画到绿色海岸，一镜到底。",
+   "适合": "情绪段，温柔"
+  },
+  "image": "L_Lemo-Opuscar/L18_%E6%B0%B4%E5%BD%A9%E7%AC%94%E5%88%B7.jpg",
+  "file": "L_Lemo-Opuscar/L18_%E6%B0%B4%E5%BD%A9%E7%AC%94%E5%88%B7.md",
+  "bytes": 11373,
+  "sha256": "1991762f2d516f81"
+ },
+ {
+  "id": "L19",
+  "name": "中国水墨（Chinese Ink Wash）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 手绘与绘画",
+   "长什么样": "侠客踏水过江，一剑断流。",
+   "适合": "东方意境，和 Z1、M30 一起看"
+  },
+  "image": "L_Lemo-Opuscar/L19_%E4%B8%AD%E5%9B%BD%E6%B0%B4%E5%A2%A8.jpg",
+  "file": "L_Lemo-Opuscar/L19_%E4%B8%AD%E5%9B%BD%E6%B0%B4%E5%A2%A8.md",
+  "bytes": 11543,
+  "sha256": "837117d24d623366"
+ },
+ {
+  "id": "L20",
+  "name": "油画厚涂（Impasto Oil Painting）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 手绘与绘画",
+   "长什么样": "灰色雨中广场，第一把红伞撑开，圆舞曲把整个广场刷上颜色。",
+   "适合": "浓烈的情绪"
+  },
+  "image": "L_Lemo-Opuscar/L20_%E6%B2%B9%E7%94%BB%E5%8E%9A%E6%B6%82.jpg",
+  "file": "L_Lemo-Opuscar/L20_%E6%B2%B9%E7%94%BB%E5%8E%9A%E6%B6%82.md",
+  "bytes": 12300,
+  "sha256": "f4d5c9412f3132ce"
+ },
+ {
+  "id": "L21",
+  "name": "一笔画（One-line Drawing）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 手绘与绘画",
+   "长什么样": "一根不离纸的线画完一个人的一生，再把笔交给孩子。",
+   "适合": "一条线讲到底，和样片库 C2、M4 一起看"
+  },
+  "image": "L_Lemo-Opuscar/L21_%E4%B8%80%E7%AC%94%E7%94%BB.jpg",
+  "file": "L_Lemo-Opuscar/L21_%E4%B8%80%E7%AC%94%E7%94%BB.md",
+  "bytes": 11684,
+  "sha256": "d456f07612ffdbf7"
+ },
+ {
+  "id": "L22",
+  "name": "白板讲解（Whiteboard Explainer）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 手绘与绘画",
+   "长什么样": "手机怎么知道你在哪：GPS、原子钟，和相对论每天多出的 38 微秒。",
+   "适合": "讲道理、讲步骤，就是你发来的那条"
+  },
+  "image": "L_Lemo-Opuscar/L22_%E7%99%BD%E6%9D%BF%E8%AE%B2%E8%A7%A3.jpg",
+  "file": "L_Lemo-Opuscar/L22_%E7%99%BD%E6%9D%BF%E8%AE%B2%E8%A7%A3.md",
+  "bytes": 12005,
+  "sha256": "e578b99643d97895"
+ },
+ {
+  "id": "L23",
+  "name": "钢笔淡彩（Urban Sketch · Pen & Wash）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 手绘与绘画",
+   "长什么样": "公园只是一张钢笔速写，风把草帽吹到哪里，哪里才有颜色。",
+   "适合": "生活记录、城市速写"
+  },
+  "image": "L_Lemo-Opuscar/L23_%E9%92%A2%E7%AC%94%E6%B7%A1%E5%BD%A9.jpg",
+  "file": "L_Lemo-Opuscar/L23_%E9%92%A2%E7%AC%94%E6%B7%A1%E5%BD%A9.md",
+  "bytes": 12069,
+  "sha256": "f8822bb9eadc9878"
+ },
+ {
+  "id": "L24",
+  "name": "皮影戏（Shadow Puppetry）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 东方传统",
+   "长什么样": "十日炙烤大地，后羿张弓射日。",
+   "适合": "讲故事，和 M12 一起看"
+  },
+  "image": "L_Lemo-Opuscar/L24_%E7%9A%AE%E5%BD%B1%E6%88%8F.jpg",
+  "file": "L_Lemo-Opuscar/L24_%E7%9A%AE%E5%BD%B1%E6%88%8F.md",
+  "bytes": 13039,
+  "sha256": "ed9339a9d78bbb39"
+ },
+ {
+  "id": "L25",
+  "name": "浮世绘（Ukiyo-e）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 东方传统",
+   "长什么样": "旅人走向远山，每个镜头都是一幅版画；巨浪是高潮，结尾是远山与整幅画轴拉远。",
+   "适合": "日式、海浪"
+  },
+  "image": "L_Lemo-Opuscar/L25_%E6%B5%AE%E4%B8%96%E7%BB%98.jpg",
+  "file": "L_Lemo-Opuscar/L25_%E6%B5%AE%E4%B8%96%E7%BB%98.md",
+  "bytes": 12737,
+  "sha256": "0a75b3d1aa106646"
+ },
+ {
+  "id": "L26",
+  "name": "红色窗花剪纸（Red Paper-cut）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 东方传统",
+   "长什么样": "除夕年兽进村，小女孩剪出的大窗花照亮全村，把它吓跑。",
+   "适合": "年味、中国风"
+  },
+  "image": "L_Lemo-Opuscar/L26_%E7%BA%A2%E8%89%B2%E7%AA%97%E8%8A%B1%E5%89%AA%E7%BA%B8.jpg",
+  "file": "L_Lemo-Opuscar/L26_%E7%BA%A2%E8%89%B2%E7%AA%97%E8%8A%B1%E5%89%AA%E7%BA%B8.md",
+  "bytes": 12730,
+  "sha256": "f4875ff7a9f840bf"
+ },
+ {
+  "id": "L27",
+  "name": "纸雕灯影（Paper-cut Lightbox）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 东方传统",
+   "长什么样": "一枚月饼讲中秋的团圆与思念，纸雕灯箱层层透光。",
+   "适合": "一层层透光，温暖"
+  },
+  "image": "L_Lemo-Opuscar/L27_%E7%BA%B8%E9%9B%95%E7%81%AF%E5%BD%B1.jpg",
+  "file": "L_Lemo-Opuscar/L27_%E7%BA%B8%E9%9B%95%E7%81%AF%E5%BD%B1.md",
+  "bytes": 12412,
+  "sha256": "49707cb7b451e2d8"
+ },
+ {
+  "id": "L28",
+  "name": "Risograph 丝网印刷（Risograph Print）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 印刷与版画",
+   "长什么样": "周日早晨骑车穿过城市：面包店、公园、河边，每到一处加一版油墨，最后三版套印。",
+   "适合": "杂志感、潮"
+  },
+  "image": "L_Lemo-Opuscar/L28_Risograph%20%E4%B8%9D%E7%BD%91%E5%8D%B0%E5%88%B7.jpg",
+  "file": "L_Lemo-Opuscar/L28_Risograph%20%E4%B8%9D%E7%BD%91%E5%8D%B0%E5%88%B7.md",
+  "bytes": 12345,
+  "sha256": "f04c21710d01bfb3"
+ },
+ {
+  "id": "L29",
+  "name": "复古半调案卷（Halftone Dossier）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 印刷与版画",
+   "长什么样": "橘猫胖橘被立案审查：测试重力、凌晨跑酷，最后无罪释放。",
+   "适合": "揭秘、档案"
+  },
+  "image": "L_Lemo-Opuscar/L29_%E5%A4%8D%E5%8F%A4%E5%8D%8A%E8%B0%83%E6%A1%88%E5%8D%B7.jpg",
+  "file": "L_Lemo-Opuscar/L29_%E5%A4%8D%E5%8F%A4%E5%8D%8A%E8%B0%83%E6%A1%88%E5%8D%B7.md",
+  "bytes": 12700,
+  "sha256": "d1a1a70b0d395273"
+ },
+ {
+  "id": "L30",
+  "name": "木刻版画（Woodcut Print）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 印刷与版画",
+   "长什么样": "村子用一整个冬天铸一口钟，钟声第一次响起，雪停了。",
+   "适合": "粗犷、有力量"
+  },
+  "image": "L_Lemo-Opuscar/L30_%E6%9C%A8%E5%88%BB%E7%89%88%E7%94%BB.jpg",
+  "file": "L_Lemo-Opuscar/L30_%E6%9C%A8%E5%88%BB%E7%89%88%E7%94%BB.md",
+  "bytes": 12466,
+  "sha256": "417684eef67f67c3"
+ },
+ {
+  "id": "L31",
+  "name": "铜版画（Copperplate Engraving）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 印刷与版画",
+   "长什么样": "一张博物志图版自己刻出来：雕刀推开铜版，蜜蜂一线线成形，最后手工水彩上色。",
+   "适合": "精细，像老科普书插图"
+  },
+  "image": "L_Lemo-Opuscar/L31_%E9%93%9C%E7%89%88%E7%94%BB.jpg",
+  "file": "L_Lemo-Opuscar/L31_%E9%93%9C%E7%89%88%E7%94%BB.md",
+  "bytes": 12670,
+  "sha256": "f6c5910c9b5adc85"
+ },
+ {
+  "id": "L32",
+  "name": "丝印旅行海报（Silkscreen Travel Poster）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 印刷与版画",
+   "长什么样": "三条步道各一张丝印海报，一色一刮印出来，再沿山脊一镜到底从正午爬到黄昏。",
+   "适合": "海报、标题、封面"
+  },
+  "image": "L_Lemo-Opuscar/L32_%E4%B8%9D%E5%8D%B0%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.jpg",
+  "file": "L_Lemo-Opuscar/L32_%E4%B8%9D%E5%8D%B0%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5.md",
+  "bytes": 13350,
+  "sha256": "3b908ca415dbdf1b"
+ },
+ {
+  "id": "L33",
+  "name": "瑞士动态排版（Swiss Motion Graphics）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 图形与排版",
+   "长什么样": "一张音乐会海报按瑞士设计的五条规则自己排版，第五条是只打破一条。",
+   "适合": "干净的文字排版"
+  },
+  "image": "L_Lemo-Opuscar/L33_%E7%91%9E%E5%A3%AB%E5%8A%A8%E6%80%81%E6%8E%92%E7%89%88.jpg",
+  "file": "L_Lemo-Opuscar/L33_%E7%91%9E%E5%A3%AB%E5%8A%A8%E6%80%81%E6%8E%92%E7%89%88.md",
+  "bytes": 11013,
+  "sha256": "3aa42212e3ae31c6"
+ },
+ {
+  "id": "L34",
+  "name": "60s 间谍片头（60s Spy Title Sequence）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 图形与排版",
+   "长什么样": "虚构 1964 年间谍片的片头：追一把被偷的钥匙，几何碎片最后拼成片名。",
+   "适合": "片头、悬念"
+  },
+  "image": "L_Lemo-Opuscar/L34_60s%20%E9%97%B4%E8%B0%8D%E7%89%87%E5%A4%B4.jpg",
+  "file": "L_Lemo-Opuscar/L34_60s%20%E9%97%B4%E8%B0%8D%E7%89%87%E5%A4%B4.md",
+  "bytes": 11715,
+  "sha256": "499f12309c499589"
+ },
+ {
+  "id": "L35",
+  "name": "装饰艺术（Art Deco）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 图形与排版",
+   "长什么样": "1930 年的大饭店，门童赶在午夜前把一封信送上顶楼。",
+   "适合": "华丽"
+  },
+  "image": "L_Lemo-Opuscar/L35_%E8%A3%85%E9%A5%B0%E8%89%BA%E6%9C%AF.jpg",
+  "file": "L_Lemo-Opuscar/L35_%E8%A3%85%E9%A5%B0%E8%89%BA%E6%9C%AF.md",
+  "bytes": 12462,
+  "sha256": "4478bf1be5b3d37d"
+ },
+ {
+  "id": "L36",
+  "name": "蓝图 / 工程制图（Blueprint）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 图形与排版",
+   "长什么样": "发明家的蓝图自己画出一台接云机器，修订云线变成了真的雨云。",
+   "适合": "讲原理、讲结构"
+  },
+  "image": "L_Lemo-Opuscar/L36_%E8%93%9D%E5%9B%BE%20%C2%B7%20%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE.jpg",
+  "file": "L_Lemo-Opuscar/L36_%E8%93%9D%E5%9B%BE%20%C2%B7%20%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE.md",
+  "bytes": 12632,
+  "sha256": "6dc6f1646943b0bc"
+ },
+ {
+  "id": "L37",
+  "name": "彩色玻璃窗（Stained Glass）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 图形与排版",
+   "长什么样": "阳光从清晨移到黄昏，照到哪一格花窗，哪一格的故事就动起来。",
+   "适合": "光、庄重"
+  },
+  "image": "L_Lemo-Opuscar/L37_%E5%BD%A9%E8%89%B2%E7%8E%BB%E7%92%83%E7%AA%97.jpg",
+  "file": "L_Lemo-Opuscar/L37_%E5%BD%A9%E8%89%B2%E7%8E%BB%E7%92%83%E7%AA%97.md",
+  "bytes": 12239,
+  "sha256": "ebb0b2eb77eb649e"
+ },
+ {
+  "id": "L38",
+  "name": "象形运动图形（Pictogram Motion）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 图形与排版",
+   "长什么样": "2026 亚运会 43 个大项，几何象形人卡着节拍快闪。",
+   "适合": "小图标卡点，讲步骤、讲数字"
+  },
+  "image": "L_Lemo-Opuscar/L38_%E8%B1%A1%E5%BD%A2%E8%BF%90%E5%8A%A8%E5%9B%BE%E5%BD%A2.jpg",
+  "file": "L_Lemo-Opuscar/L38_%E8%B1%A1%E5%BD%A2%E8%BF%90%E5%8A%A8%E5%9B%BE%E5%BD%A2.md",
+  "bytes": 12397,
+  "sha256": "4b56ace4d2c1156b"
+ },
+ {
+  "id": "L39",
+  "name": "ASCII / CRT 终端（ASCII / CRT Terminal）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 图形与排版",
+   "长什么样": "月球基地的 AI 沉睡 40 年后被唤醒，用字符画出“家”来回复。",
+   "适合": "讲代码、讲 AI，和样片库 E3 字符画一起看"
+  },
+  "image": "L_Lemo-Opuscar/L39_ASCII%20%C2%B7%20CRT%20%E7%BB%88%E7%AB%AF.jpg",
+  "file": "L_Lemo-Opuscar/L39_ASCII%20%C2%B7%20CRT%20%E7%BB%88%E7%AB%AF.md",
+  "bytes": 12531,
+  "sha256": "172e12ae20bbc101"
+ },
+ {
+  "id": "L40",
+  "name": "数据叙事（Data Storytelling）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 信息与发布",
+   "长什么样": "一百年的夏季气温，图表本身就是故事。",
+   "适合": "用图表讲故事"
+  },
+  "image": "L_Lemo-Opuscar/L40_%E6%95%B0%E6%8D%AE%E5%8F%99%E4%BA%8B.jpg",
+  "file": "L_Lemo-Opuscar/L40_%E6%95%B0%E6%8D%AE%E5%8F%99%E4%BA%8B.md",
+  "bytes": 11671,
+  "sha256": "40cc774ab1d69f1e"
+ },
+ {
+  "id": "L41",
+  "name": "等距信息图（Isometric Infographic）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 信息与发布",
+   "长什么样": "一杯咖啡从种植园到你手里的旅程。",
+   "适合": "一个小世界、一套流程"
+  },
+  "image": "L_Lemo-Opuscar/L41_%E7%AD%89%E8%B7%9D%E4%BF%A1%E6%81%AF%E5%9B%BE.jpg",
+  "file": "L_Lemo-Opuscar/L41_%E7%AD%89%E8%B7%9D%E4%BF%A1%E6%81%AF%E5%9B%BE.md",
+  "bytes": 12257,
+  "sha256": "f18bbcbbff6676e6"
+ },
+ {
+  "id": "L42",
+  "name": "暗色科技发布（Dark Tech Keynote）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 信息与发布",
+   "长什么样": "虚构 app Tidy 的发布片：被埋掉的光标一键把几百个窗口归位。",
+   "适合": "发布会感"
+  },
+  "image": "L_Lemo-Opuscar/L42_%E6%9A%97%E8%89%B2%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83.jpg",
+  "file": "L_Lemo-Opuscar/L42_%E6%9A%97%E8%89%B2%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83.md",
+  "bytes": 12444,
+  "sha256": "5f529e7abc26e01e"
+ },
+ {
+  "id": "L43",
+  "name": "活体实机录屏（Living Screencast）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 信息与发布",
+   "长什么样": "像素小人 Clawd 搬进 Claude 应用，一镜到底演示 Plan 模式和自检。",
+   "适合": "录屏加一个动画角色，演示\"我\"怎么用 AI 工具"
+  },
+  "image": "L_Lemo-Opuscar/L43_%E6%B4%BB%E4%BD%93%E5%AE%9E%E6%9C%BA%E5%BD%95%E5%B1%8F.jpg",
+  "file": "L_Lemo-Opuscar/L43_%E6%B4%BB%E4%BD%93%E5%AE%9E%E6%9C%BA%E5%BD%95%E5%B1%8F.md",
+  "bytes": 11834,
+  "sha256": "56847c5bd0cbd4a5"
+ },
+ {
+  "id": "L44",
+  "name": "科幻全息界面（Sci-fi Hologram HUD）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 信息与发布",
+   "长什么样": "电助力车被扫描成全息线框，目标框依次锁定电池、电机、刹车。",
+   "适合": "未来感"
+  },
+  "image": "L_Lemo-Opuscar/L44_%E7%A7%91%E5%B9%BB%E5%85%A8%E6%81%AF%E7%95%8C%E9%9D%A2.jpg",
+  "file": "L_Lemo-Opuscar/L44_%E7%A7%91%E5%B9%BB%E5%85%A8%E6%81%AF%E7%95%8C%E9%9D%A2.md",
+  "bytes": 12121,
+  "sha256": "7214a11ba67238f7"
+ },
+ {
+  "id": "L45",
+  "name": "1930s 橡皮管卡通（1930s Rubber Hose Cartoon）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 卡通与动画",
+   "长什么样": "一只咖啡杯满厨房追一块逃跑的方糖。",
+   "适合": "复古卡通、搞笑"
+  },
+  "image": "L_Lemo-Opuscar/L45_1930s%20%E6%A9%A1%E7%9A%AE%E7%AE%A1%E5%8D%A1%E9%80%9A.jpg",
+  "file": "L_Lemo-Opuscar/L45_1930s%20%E6%A9%A1%E7%9A%AE%E7%AE%A1%E5%8D%A1%E9%80%9A.md",
+  "bytes": 13063,
+  "sha256": "2ac6fcb7ebd3b9fb"
+ },
+ {
+  "id": "L46",
+  "name": "80 年代赛璐璐动画（80s Cel Anime）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 卡通与动画",
+   "长什么样": "快递少女骑车穿过雨后霓虹都市，赶在黎明发射前送到一盘磁带。",
+   "适合": "霓虹城市、怀旧"
+  },
+  "image": "L_Lemo-Opuscar/L46_80%20%E5%B9%B4%E4%BB%A3%E8%B5%9B%E7%92%90%E7%92%90%E5%8A%A8%E7%94%BB.jpg",
+  "file": "L_Lemo-Opuscar/L46_80%20%E5%B9%B4%E4%BB%A3%E8%B5%9B%E7%92%90%E7%92%90%E5%8A%A8%E7%94%BB.md",
+  "bytes": 12947,
+  "sha256": "b52e3b3d68b592ed"
+ },
+ {
+  "id": "L47",
+  "name": "科幻情景喜剧卡通（Sci-Fi Sitcom Toon）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 卡通与动画",
+   "长什么样": "厌世天才开传送门只想买杯咖啡，却穿过越来越离谱的平行宇宙。",
+   "适合": "轻松搞笑"
+  },
+  "image": "L_Lemo-Opuscar/L47_%E7%A7%91%E5%B9%BB%E6%83%85%E6%99%AF%E5%96%9C%E5%89%A7%E5%8D%A1%E9%80%9A.jpg",
+  "file": "L_Lemo-Opuscar/L47_%E7%A7%91%E5%B9%BB%E6%83%85%E6%99%AF%E5%96%9C%E5%89%A7%E5%8D%A1%E9%80%9A.md",
+  "bytes": 13044,
+  "sha256": "dec564c3fbd201ff"
+ },
+ {
+  "id": "L48",
+  "name": "50s 扁平卡通（Mid-century Cartoon）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 卡通与动画",
+   "长什么样": "用 50 年代教育片的口吻，三步教你装好一台扫地机。",
+   "适合": "老科普片的感觉，感知科普很合适"
+  },
+  "image": "L_Lemo-Opuscar/L48_50s%20%E6%89%81%E5%B9%B3%E5%8D%A1%E9%80%9A.jpg",
+  "file": "L_Lemo-Opuscar/L48_50s%20%E6%89%81%E5%B9%B3%E5%8D%A1%E9%80%9A.md",
+  "bytes": 12916,
+  "sha256": "ab9cfe364e63f20d"
+ },
+ {
+  "id": "L49",
+  "name": "16-bit 像素 RPG（16-bit Pixel RPG）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 游戏",
+   "长什么样": "勇士在最终 Boss 门前存档，存档画面闪回一路冒险。",
+   "适合": "学习像打怪升级"
+  },
+  "image": "L_Lemo-Opuscar/L49_16-bit%20%E5%83%8F%E7%B4%A0%20RPG.jpg",
+  "file": "L_Lemo-Opuscar/L49_16-bit%20%E5%83%8F%E7%B4%A0%20RPG.md",
+  "bytes": 11555,
+  "sha256": "556895ccc31c8c5b"
+ },
+ {
+  "id": "L50",
+  "name": "HD-2D",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 游戏",
+   "长什么样": "灯塔熄灭，孙女提着最后一簇火穿过夜林、爬上风暴悬崖。",
+   "适合": "像素加光影，有电影感"
+  },
+  "image": "L_Lemo-Opuscar/L50_HD-2D.jpg",
+  "file": "L_Lemo-Opuscar/L50_HD-2D.md",
+  "bytes": 12606,
+  "sha256": "9a6ec8952676d283"
+ },
+ {
+  "id": "L51",
+  "name": "微游戏快闪（Microgame Frenzy）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 游戏",
+   "长什么样": "见习宇航员闯五秒训练营，越来越快，Boss 关亲手降落回地球。",
+   "适合": "快节奏，一连串小场景"
+  },
+  "image": "L_Lemo-Opuscar/L51_%E5%BE%AE%E6%B8%B8%E6%88%8F%E5%BF%AB%E9%97%AA.jpg",
+  "file": "L_Lemo-Opuscar/L51_%E5%BE%AE%E6%B8%B8%E6%88%8F%E5%BF%AB%E9%97%AA.md",
+  "bytes": 12857,
+  "sha256": "e3132789e9af0e7a"
+ },
+ {
+  "id": "L52",
+  "name": "综艺节奏扁平（Game Show Flat）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 游戏",
+   "长什么样": "把 AI 发展史做成一局节奏游戏，模型踩着拍登场，最后发成绩单。",
+   "适合": "综艺感"
+  },
+  "image": "L_Lemo-Opuscar/L52_%E7%BB%BC%E8%89%BA%E8%8A%82%E5%A5%8F%E6%89%81%E5%B9%B3.jpg",
+  "file": "L_Lemo-Opuscar/L52_%E7%BB%BC%E8%89%BA%E8%8A%82%E5%A5%8F%E6%89%81%E5%B9%B3.md",
+  "bytes": 12770,
+  "sha256": "cffa6c40cb6e0b30"
+ },
+ {
+  "id": "L53",
+  "name": "1920s 默片（1920s Silent Film）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 电影与时代",
+   "长什么样": "面包店学徒追一个滚走的面包，最后掰成两半分给饿肚子的小女孩。",
+   "适合": "字幕卡、怀旧"
+  },
+  "image": "L_Lemo-Opuscar/L53_1920s%20%E9%BB%98%E7%89%87.jpg",
+  "file": "L_Lemo-Opuscar/L53_1920s%20%E9%BB%98%E7%89%87.md",
+  "bytes": 11876,
+  "sha256": "54fc76c4a514c3e7"
+ },
+ {
+  "id": "L54",
+  "name": "后室 / 新怪谈（Liminal Found Footage）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 电影与时代",
+   "长什么样": "新夜班员工拍下入职第一晚：无尽的黄色办公空间，和墙上的员工守则。",
+   "适合": "不安、对未知的害怕"
+  },
+  "image": "L_Lemo-Opuscar/L54_%E5%90%8E%E5%AE%A4%20%C2%B7%20%E6%96%B0%E6%80%AA%E8%B0%88.jpg",
+  "file": "L_Lemo-Opuscar/L54_%E5%90%8E%E5%AE%A4%20%C2%B7%20%E6%96%B0%E6%80%AA%E8%B0%88.md",
+  "bytes": 12943,
+  "sha256": "6f2b37c89febe1e7"
+ },
+ {
+  "id": "L55",
+  "name": "积木玩具（Brick Toy）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 材质与 3D",
+   "长什么样": "积木宇航员用零件拼出火箭，飞向积木月亮。",
+   "适合": "一块块搭，\"搭自己的系统\""
+  },
+  "image": "L_Lemo-Opuscar/L55_%E7%A7%AF%E6%9C%A8%E7%8E%A9%E5%85%B7.jpg",
+  "file": "L_Lemo-Opuscar/L55_%E7%A7%AF%E6%9C%A8%E7%8E%A9%E5%85%B7.md",
+  "bytes": 12830,
+  "sha256": "ca7b15025adb4bbb"
+ },
+ {
+  "id": "L56",
+  "name": "纸片立体书（Paper Pop-up Book）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 材质与 3D",
+   "长什么样": "立体书在书桌上打开，小精灵 Pip 在纸片世界冒险，最后跳出书外。",
+   "适合": "翻书讲故事"
+  },
+  "image": "L_Lemo-Opuscar/L56_%E7%BA%B8%E7%89%87%E7%AB%8B%E4%BD%93%E4%B9%A6.jpg",
+  "file": "L_Lemo-Opuscar/L56_%E7%BA%B8%E7%89%87%E7%AB%8B%E4%BD%93%E4%B9%A6.md",
+  "bytes": 12387,
+  "sha256": "47f289b163cde4bd"
+ },
+ {
+  "id": "L57",
+  "name": "移轴微缩（Tilt-Shift Miniature）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 材质与 3D",
+   "长什么样": "玩具城的早高峰，一切都像模型。",
+   "适合": "小人国，俯看日常生活"
+  },
+  "image": "L_Lemo-Opuscar/L57_%E7%A7%BB%E8%BD%B4%E5%BE%AE%E7%BC%A9.jpg",
+  "file": "L_Lemo-Opuscar/L57_%E7%A7%BB%E8%BD%B4%E5%BE%AE%E7%BC%A9.md",
+  "bytes": 12337,
+  "sha256": "aed22259d63dd259"
+ },
+ {
+  "id": "L58",
+  "name": "低多边形等距（Low-poly Isometric Island）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 材质与 3D",
+   "长什么样": "空海里一格格长出小岛和村庄，每放一块响一个音符，直到星空。",
+   "适合": "小岛、小世界"
+  },
+  "image": "L_Lemo-Opuscar/L58_%E4%BD%8E%E5%A4%9A%E8%BE%B9%E5%BD%A2%E7%AD%89%E8%B7%9D.jpg",
+  "file": "L_Lemo-Opuscar/L58_%E4%BD%8E%E5%A4%9A%E8%BE%B9%E5%BD%A2%E7%AD%89%E8%B7%9D.md",
+  "bytes": 12613,
+  "sha256": "ec08b9d3a3b4badc"
+ },
+ {
+  "id": "L59",
+  "name": "玻璃质感产品（Glass Product Render）",
+  "category": "L_Lemo-Opuscar",
+  "meta": {
+   "分类": "L Lemo-Opuscar · 材质与 3D",
+   "长什么样": "虚构玻璃耳机 Aura 的开箱与特写。",
+   "适合": "高级的产品感"
+  },
+  "image": "L_Lemo-Opuscar/L59_%E7%8E%BB%E7%92%83%E8%B4%A8%E6%84%9F%E4%BA%A7%E5%93%81.jpg",
+  "file": "L_Lemo-Opuscar/L59_%E7%8E%BB%E7%92%83%E8%B4%A8%E6%84%9F%E4%BA%A7%E5%93%81.md",
+  "bytes": 12458,
+  "sha256": "31c7436068be3929"
+ },
+ {
+  "id": "M1",
+  "name": "白板手绘讲解",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 讲解类",
+   "长什么样": "白底，一只手（或一支笔）一边讲一边画，线条先画出来再上色。",
+   "适合": "讲概念、讲原理的段落。比如\"大语言模型是大脑，Harness 是手脚\"。"
+  },
+  "image": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M1_%E7%99%BD%E6%9D%BF%E6%89%8B%E7%BB%98%E8%AE%B2%E8%A7%A3.jpg",
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M1_%E7%99%BD%E6%9D%BF%E6%89%8B%E7%BB%98%E8%AE%B2%E8%A7%A3.md",
+  "bytes": 3577,
+  "sha256": "9c3b9b8f54c5daa7"
+ },
+ {
+  "id": "M2",
+  "name": "纸感手写笔记",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 讲解类",
+   "长什么样": "米白纸面，马克笔批注一笔一笔画出来，手写字，大号粗体标题字，偶尔整个画面\"啪\"一下切到深色。",
+   "适合": "列要点、讲方法、\"你可以这样做\"的段落。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M2_%E7%BA%B8%E6%84%9F%E6%89%8B%E5%86%99%E7%AC%94%E8%AE%B0.md",
+  "bytes": 893,
+  "sha256": "9b678798cf2332a2"
+ },
+ {
+  "id": "M3",
+  "name": "文字建筑（口播金句专用）",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 文字和金句类",
+   "长什么样": "只用文字。每个词有一个\"结构上的角色\"：有的是梁，有的是柱子，有的是地板。前面的词搭起来，最后一句话\"站\"在前面搭好的东西上。",
+   "适合": "结尾金句\"学习，相信自己\"。全片最值得做的一段。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M3_%E6%96%87%E5%AD%97%E5%BB%BA%E7%AD%91%EF%BC%88%E5%8F%A3%E6%92%AD%E9%87%91%E5%8F%A5%E4%B8%93%E7%94%A8%EF%BC%89.md",
+  "bytes": 1075,
+  "sha256": "138477fd3d04c7d0"
+ },
+ {
+  "id": "M4",
+  "name": "一个元素串全片",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 结构和镜头类（用来把不同风格串起来）",
+   "长什么样": "一个小东西（一个橙色圆点、一个白球）贯穿所有场景：它先是开关，再变成字母上的点，再变成曲线，再变成一个图形，最后回到结尾。",
+   "适合": "混搭风格时的\"线\"。比如可以用一个小圆点代表\"公告\"、代表\"想法\"，从头跟到尾。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M4_%E4%B8%80%E4%B8%AA%E5%85%83%E7%B4%A0%E4%B8%B2%E5%85%A8%E7%89%87.md",
+  "bytes": 963,
+  "sha256": "0cae463a6395ade0"
+ },
+ {
+  "id": "M5",
+  "name": "一镜到底",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 结构和镜头类（用来把不同风格串起来）",
+   "长什么样": "从头到尾不切镜头，每个场景都是从上一个场景里\"长\"出来的。",
+   "适合": "讲变化的段落，比如\"以前要自己推，现在坐进去它自己走\"，一个画面变到另一个画面。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M5_%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95.md",
+  "bytes": 844,
+  "sha256": "c6126639d5937e80"
+ },
+ {
+  "id": "M6",
+  "name": "苹果发布会风",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 节奏和快剪类",
+   "长什么样": "柔和、白、亮蓝、玻璃质感，镜头从不停在静止画面上切。",
+   "适合": "展示工具、展示界面的段落。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M6_%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E9%A3%8E.md",
+  "bytes": 626,
+  "sha256": "c7052b15d6a9f166"
+ },
+ {
+  "id": "M7",
+  "name": "极简卡点",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 节奏和快剪类",
+   "长什么样": "一个镜头只讲一件事，大量留白，只用一个强调色，每一刀都在重拍上。",
+   "适合": "节奏快的段落，比如\"你每天要整理的表格、你每周要写的周报……\"。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M7_%E6%9E%81%E7%AE%80%E5%8D%A1%E7%82%B9.md",
+  "bytes": 856,
+  "sha256": "1e08c4505e7ab6a0"
+ },
+ {
+  "id": "M8",
+  "name": "口播 + 逐字字幕",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "白底，一种字体，字幕跟着说话一个词一个词打出来，配真实的图片，镜头慢慢漂。",
+   "适合": "全片的主线。有人讲解、口播的片子，字幕必须对上。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M8_%E5%8F%A3%E6%92%AD%20%2B%20%E9%80%90%E5%AD%97%E5%AD%97%E5%B9%95.md",
+  "bytes": 1004,
+  "sha256": "8b63d18e6769a22f"
+ },
+ {
+  "id": "M9",
+  "name": "情绪弧线：混乱、掌控、清晰",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "全片一条弧线。开头画面乱，中间慢慢理顺，最后干干净净落在一句话上。转场靠同一个形状变过去，不硬切。",
+   "适合": "整期的结构。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M9_%E6%83%85%E7%BB%AA%E5%BC%A7%E7%BA%BF%EF%BC%9A%E6%B7%B7%E4%B9%B1%E3%80%81%E6%8E%8C%E6%8E%A7%E3%80%81%E6%B8%85%E6%99%B0.md",
+  "bytes": 888,
+  "sha256": "2d485778106e5388"
+ },
+ {
+  "id": "M10",
+  "name": "把一个抽象概念、一种情绪做成画面",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "没有具体的人和物，用形状、文字、颜色的变化表现一种感觉。",
+   "适合": "讲恐惧、焦虑、不安、\"想太多\"这种情绪的段落。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M10_%E6%8A%8A%E4%B8%80%E4%B8%AA%E6%8A%BD%E8%B1%A1%E6%A6%82%E5%BF%B5%E3%80%81%E4%B8%80%E7%A7%8D%E6%83%85%E7%BB%AA%E5%81%9A%E6%88%90%E7%94%BB%E9%9D%A2.md",
+  "bytes": 660,
+  "sha256": "e201fd11f02310ab"
+ },
+ {
+  "id": "M11",
+  "name": "人生循环",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "同一个人从小到老，最后无缝接回开头。",
+   "适合": "\"学无止境\"、\"一直在学\"这种讲长时间的段落。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M11_%E4%BA%BA%E7%94%9F%E5%BE%AA%E7%8E%AF.md",
+  "bytes": 479,
+  "sha256": "e5cb6eb6ab057faa"
+ },
+ {
+  "id": "M12",
+  "name": "剪纸皮影",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "纸剪的剪影在光后面演戏，配轻轻的声音。",
+   "适合": "讲\"家\"、讲回忆、讲温暖的段落。竖屏很合适。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M12_%E5%89%AA%E7%BA%B8%E7%9A%AE%E5%BD%B1.md",
+  "bytes": 569,
+  "sha256": "806c3befe21dde1d"
+ },
+ {
+  "id": "M13",
+  "name": "手绘定格，第一人称",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "手绘的、一帧一帧有点抖的定格动画，画面里的东西自己开口说话。",
+   "适合": "让一个东西替你说话。比如让\"那个抓公告的小工具\"自己介绍自己。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M13_%E6%89%8B%E7%BB%98%E5%AE%9A%E6%A0%BC%EF%BC%8C%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%A7%B0.md",
+  "bytes": 528,
+  "sha256": "d6e8df592b7e940b"
+ },
+ {
+  "id": "M14",
+  "name": "M14_",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 其他特别的风格"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M14_.md",
+  "bytes": 81,
+  "sha256": "e71eb3448388320d"
+ },
+ {
+  "id": "M15",
+  "name": "M15_",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 其他特别的风格"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M15_.md",
+  "bytes": 81,
+  "sha256": "db5303979c4bc15f"
+ },
+ {
+  "id": "M16",
+  "name": "M16_",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 其他特别的风格"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M16_.md",
+  "bytes": 81,
+  "sha256": "59c8763fbbd8b614"
+ },
+ {
+  "id": "M17",
+  "name": "M17_",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 其他特别的风格"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M17_.md",
+  "bytes": 81,
+  "sha256": "6d0c06e7dd4f8095"
+ },
+ {
+  "id": "M18",
+  "name": "数学/科学讲解（3Blue1Brown 那种）",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 讲解类",
+   "长什么样": "深色背景，公式和图形一点点变形、推导，讲得很清楚。",
+   "适合": "感知科普线，讲原理、讲数据。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M18_%E6%95%B0%E5%AD%A6%C2%B7%E7%A7%91%E5%AD%A6%E8%AE%B2%E8%A7%A3%EF%BC%883Blue1Brown%20%E9%82%A3%E7%A7%8D%EF%BC%89.md",
+  "bytes": 543,
+  "sha256": "daed0e04e775d366"
+ },
+ {
+  "id": "M19",
+  "name": "零基础科普",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 讲解类",
+   "长什么样": "不限画风，重点是讲法：从生活里的例子讲起，一步步讲到专业词。",
+   "适合": "感知科普线的整期，或者感受线里\"先说清楚 X 是什么\"那一段。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M19_%E9%9B%B6%E5%9F%BA%E7%A1%80%E7%A7%91%E6%99%AE.md",
+  "bytes": 741,
+  "sha256": "fb9bcb3db13e77a8"
+ },
+ {
+  "id": "M20",
+  "name": "时间线/历史",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 讲解类",
+   "长什么样": "一条时间轴往前走，每个节点弹出一件事。",
+   "适合": "\"这三个月我是怎么走过来的\"、\"AI 是怎么发展到今天的\"。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M20_%E6%97%B6%E9%97%B4%E7%BA%BF%C2%B7%E5%8E%86%E5%8F%B2.md",
+  "bytes": 701,
+  "sha256": "b7351cf4eed4f197"
+ },
+ {
+  "id": "M21",
+  "name": "原理拆解（它是怎么工作的）",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 讲解类",
+   "长什么样": "把一个东西拆开，一步一步演示里面怎么运转。",
+   "适合": "抓公告那个例子（定时、抓取、筛选、总结、提醒），讲\"它到底是怎么做到的\"。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M21_%E5%8E%9F%E7%90%86%E6%8B%86%E8%A7%A3%EF%BC%88%E5%AE%83%E6%98%AF%E6%80%8E%E4%B9%88%E5%B7%A5%E4%BD%9C%E7%9A%84%EF%BC%89.md",
+  "bytes": 764,
+  "sha256": "c0ea294487eb7c35"
+ },
+ {
+  "id": "M22",
+  "name": "配方式步骤",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 讲解类",
+   "长什么样": "像做鸡尾酒教程，从空杯子开始，每加一样东西就标出名字和分量，最后成品。",
+   "适合": "\"你只要这几步就能做出一个小工具\"这种教学段落。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M22_%E9%85%8D%E6%96%B9%E5%BC%8F%E6%AD%A5%E9%AA%A4.md",
+  "bytes": 592,
+  "sha256": "834f97b8b3cc81dd"
+ },
+ {
+  "id": "M23",
+  "name": "五幕讲解（万能讲解模板）",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 讲解类",
+   "长什么样": "五个画面讲完一件事。",
+   "适合": "一期科普的骨架，或者感受线里讲一个工具的段落。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M23_%E4%BA%94%E5%B9%95%E8%AE%B2%E8%A7%A3%EF%BC%88%E4%B8%87%E8%83%BD%E8%AE%B2%E8%A7%A3%E6%A8%A1%E6%9D%BF%EF%BC%89.md",
+  "bytes": 625,
+  "sha256": "b64e0a077c12b8e0"
+ },
+ {
+  "id": "M24",
+  "name": "四段式发布片",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 讲解类",
+   "长什么样": "大环境、痛点、解决办法、好处，四段，最后 logo 动画收尾。",
+   "适合": "介绍一个新工具、一个 skill 的段落。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M24_%E5%9B%9B%E6%AE%B5%E5%BC%8F%E5%8F%91%E5%B8%83%E7%89%87.md",
+  "bytes": 830,
+  "sha256": "e5ec737ef07d7b59"
+ },
+ {
+  "id": "M25",
+  "name": "歌词卡点",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 文字和金句类",
+   "长什么样": "歌词跟着人声和节拍一个字一个字跳出来。",
+   "适合": "你自己的歌，或者片子里有一段唱的部分。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M25_%E6%AD%8C%E8%AF%8D%E5%8D%A1%E7%82%B9.md",
+  "bytes": 414,
+  "sha256": "1a241c8929645d51"
+ },
+ {
+  "id": "M26",
+  "name": "M26_",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 其他特别的风格"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M26_.md",
+  "bytes": 81,
+  "sha256": "9b1a38dbcb12edb2"
+ },
+ {
+  "id": "M27",
+  "name": "无对白短片，声音讲一半",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "没有台词，全靠画面和声音讲故事。",
+   "适合": "片头、片尾，或者两段之间的过渡小片段。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M27_%E6%97%A0%E5%AF%B9%E7%99%BD%E7%9F%AD%E7%89%87%EF%BC%8C%E5%A3%B0%E9%9F%B3%E8%AE%B2%E4%B8%80%E5%8D%8A.md",
+  "bytes": 471,
+  "sha256": "db1ed34fd9461e65"
+ },
+ {
+  "id": "M28",
+  "name": "对称暖色的电影感空镜",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "画面左右对称，粉嫩暖色，像一个精致的小舞台。比如火车窗外四季流过，桌上一杯咖啡。",
+   "适合": "讲时间流逝、讲停下来想一想的段落。比如\"停播这段时间\"。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M28_%E5%AF%B9%E7%A7%B0%E6%9A%96%E8%89%B2%E7%9A%84%E7%94%B5%E5%BD%B1%E6%84%9F%E7%A9%BA%E9%95%9C.md",
+  "bytes": 680,
+  "sha256": "c2c6b2203e936efd"
+ },
+ {
+  "id": "M29",
+  "name": "日落天空的 3D 空镜加一句话",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "3D 场景，日落、紫色的云、海面反光，镜头慢慢飞，画面上写一句短话。",
+   "适合": "情绪最高的那一句话，比如\"现在不就是最好的时候吗\"。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M29_%E6%97%A5%E8%90%BD%E5%A4%A9%E7%A9%BA%E7%9A%84%203D%20%E7%A9%BA%E9%95%9C%E5%8A%A0%E4%B8%80%E5%8F%A5%E8%AF%9D.md",
+  "bytes": 595,
+  "sha256": "e48483cfeb3f351d"
+ },
+ {
+  "id": "M30",
+  "name": "东方意境",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "古典诗词里的画面，比如月夜、江水、楼阁，可以配可交互的网页。",
+   "适合": "讲心境、讲文化的段落，也适合做片头。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M30_%E4%B8%9C%E6%96%B9%E6%84%8F%E5%A2%83.md",
+  "bytes": 590,
+  "sha256": "720478be2e934203"
+ },
+ {
+  "id": "M31",
+  "name": "粘土定格 MV",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 情绪和氛围类（感受线最常用）",
+   "长什么样": "粘土小人一帧一帧动，手作感很强。",
+   "适合": "轻松、好玩的段落；你自己的歌也可以做成这种 MV。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M31_%E7%B2%98%E5%9C%9F%E5%AE%9A%E6%A0%BC%20MV.md",
+  "bytes": 529,
+  "sha256": "968d6c57323a534d"
+ },
+ {
+  "id": "M32",
+  "name": "竖屏快节奏 POV",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 节奏和快剪类",
+   "长什么样": "竖屏，节奏很快、很碎，第一人称视角，动作和音效都很满。",
+   "适合": "竖屏版的开头 3 秒，抓住人。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M32_%E7%AB%96%E5%B1%8F%E5%BF%AB%E8%8A%82%E5%A5%8F%20POV.md",
+  "bytes": 470,
+  "sha256": "d925fabe93d800ea"
+ },
+ {
+  "id": "M33",
+  "name": "从一个点拉远到宇宙",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 结构和镜头类（用来把不同风格串起来）",
+   "长什么样": "黑屏上一个点，慢慢展开成画面，再一直拉远，整个桌面变成太空里的一个点，再推进到另一个画面。",
+   "适合": "讲尺度、讲\"从一个小工具到一个系统\"。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M33_%E4%BB%8E%E4%B8%80%E4%B8%AA%E7%82%B9%E6%8B%89%E8%BF%9C%E5%88%B0%E5%AE%87%E5%AE%99.md",
+  "bytes": 645,
+  "sha256": "92019d4eeacb1de6"
+ },
+ {
+  "id": "M34",
+  "name": "新闻快讯盘点",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 节奏和快剪类",
+   "长什么样": "像新闻节目一样，一条一条过，每条点出看点。",
+   "适合": "以后做\"这周 AI 圈有什么新东西\"这种盘点。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M34_%E6%96%B0%E9%97%BB%E5%BF%AB%E8%AE%AF%E7%9B%98%E7%82%B9.md",
+  "bytes": 545,
+  "sha256": "4de2d4e279d17a16"
+ },
+ {
+  "id": "M35",
+  "name": "M35_",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 其他特别的风格"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M35_.md",
+  "bytes": 81,
+  "sha256": "513695128e686b22"
+ },
+ {
+  "id": "M36",
+  "name": "破框",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 文字和金句类",
+   "长什么样": "一张海报里的东西冲出了海报的边框。",
+   "适合": "\"跳出原来的想法\"、\"不再觉得跟我没关系\"这种转折。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M36_%E7%A0%B4%E6%A1%86.md",
+  "bytes": 406,
+  "sha256": "852dc384a0b10366"
+ },
+ {
+  "id": "M37",
+  "name": "Logo 慢慢拼出来（片头片尾）",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 结构和镜头类（用来把不同风格串起来）",
+   "长什么样": "碎片慢慢聚拢，拼成 logo。",
+   "适合": "每期的片头或片尾，做一次以后反复用。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M37_Logo%20%E6%85%A2%E6%85%A2%E6%8B%BC%E5%87%BA%E6%9D%A5%EF%BC%88%E7%89%87%E5%A4%B4%E7%89%87%E5%B0%BE%EF%BC%89.md",
+  "bytes": 435,
+  "sha256": "75fc9e50f5820f10"
+ },
+ {
+  "id": "M38",
+  "name": "一个形状变到底",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 结构和镜头类（用来把不同风格串起来）",
+   "长什么样": "同一个形状不停变：按钮、加载圈、播放器、滑块、开关……每次变都是鼠标真的点了一下。",
+   "适合": "一口气列很多例子的段落，比如\"整理表格、写周报、批量改文件、做自媒体\"。"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M38_%E4%B8%80%E4%B8%AA%E5%BD%A2%E7%8A%B6%E5%8F%98%E5%88%B0%E5%BA%95.md",
+  "bytes": 789,
+  "sha256": "00190e03f389d7cd"
+ },
+ {
+  "id": "M39",
+  "name": "M39_",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 其他特别的风格"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M39_.md",
+  "bytes": 81,
+  "sha256": "44b145629af79b2e"
+ },
+ {
+  "id": "M40",
+  "name": "M40_",
+  "category": "M_动态风格",
+  "meta": {
+   "分类": "M 动态风格 · 其他特别的风格"
+  },
+  "image": null,
+  "file": "M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M40_.md",
+  "bytes": 81,
+  "sha256": "a051c6addc56a3a7"
+ },
+ {
+  "id": "O1",
+  "name": "翼（Wings）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "用 three.js 搭的一战空战，按 1927 年正色片拷贝调色：天空发白、黑位很深、整体琥珀染色、片门抖动和划痕。《翼》最出名的是把摄影机绑在飞机上拍的空战，所以这里大部分机位都装在飞机上。",
+   "风格": "默片 3D 空战 · 正色片黑白 + 琥珀染色",
+   "关键词": "3D·B&W",
+   "年份": "1927/28"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O1_%E7%BF%BC.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O1_%E7%BF%BC.md",
+  "bytes": 3586,
+  "sha256": "e434e8a0f05c99e3"
+ },
+ {
+  "id": "O2",
+  "name": "百老汇旋律（The Broadway Melody）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "会动的黑金银装饰艺术歌舞海报：喷枪渐变、阶梯形台口、镀铬电容麦克风。1929 年的百老汇正是装饰艺术盛期，这部又是有声片降临的一部，所以让声波从麦克风里一圈圈放出来。",
+   "风格": "黑金银装饰艺术歌舞海报",
+   "关键词": "2D",
+   "年份": "1928/29"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O2_%E7%99%BE%E8%80%81%E6%B1%87%E6%97%8B%E5%BE%8B.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O2_%E7%99%BE%E8%80%81%E6%B1%87%E6%97%8B%E5%BE%8B.md",
+  "bytes": 3449,
+  "sha256": "0c13178334ac8a75"
+ },
+ {
+  "id": "O3",
+  "name": "西线无战事（All Quiet on the Western Front）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "珂勒惠支式木刻：大块的黑、刀刻的白轮廓、粗糙木纹，Clawd 用单独一块橙色版套印。珂勒惠支 1921–22 年的反战版画，和这部片出自同一场战争、同一种悲痛。",
+   "风格": "珂勒惠支式反战木刻",
+   "关键词": "2D·B&W",
+   "年份": "1929/30"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O3_%E8%A5%BF%E7%BA%BF%E6%97%A0%E6%88%98%E4%BA%8B.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O3_%E8%A5%BF%E7%BA%BF%E6%97%A0%E6%88%98%E4%BA%8B.md",
+  "bytes": 3284,
+  "sha256": "c0e1369d4f91f6ce"
+ },
+ {
+  "id": "O4",
+  "name": "壮志千秋（Cimarron）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "1889 年的金调色蛋白印相全景：柔焦、轻微的横向拖影、奶油高光和暖褐暗部、银盐颗粒，只有 Clawd 手工上色。片子开场就是 1889 年俄克拉何马圈地狂奔，用那一年的照片质感来拍，这一章也保持单色。",
+   "风格": "1889 棕褐蛋白印相全景",
+   "关键词": "2D·Sepia",
+   "年份": "1930/31"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O4_%E5%A3%AE%E5%BF%97%E5%8D%83%E7%A7%8B.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O4_%E5%A3%AE%E5%BF%97%E5%8D%83%E7%A7%8B.md",
+  "bytes": 3041,
+  "sha256": "5675387637d0279a"
+ },
+ {
+  "id": "O5",
+  "name": "大饭店（Grand Hotel）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "用 three.js 建的圆形大堂，按米高梅的银色黑白调色，Clawd 的橙是唯一的颜色。这部片最出名的是从顶上笔直往下拍、回廊一圈圈收进去的镜头，整个布景就按这一镜来建。",
+   "风格": "米高梅银色黑白 3D 大堂",
+   "关键词": "3D·B&W",
+   "年份": "1931/32"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O5_%E5%A4%A7%E9%A5%AD%E5%BA%97.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O5_%E5%A4%A7%E9%A5%AD%E5%BA%97.md",
+  "bytes": 3081,
+  "sha256": "821ea58d0ad46f04"
+ },
+ {
+  "id": "O6",
+  "name": "乱世春秋（Cavalcade）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "慕夏式新艺术装饰画：膨胀的褐色轮廓线、粉彩平涂、马赛克底，中心人物身后一个光环。电影开场就是 1899 年跨年夜一家人举杯迎接新世纪，所以光环做成敲十二点的钟面。",
+   "风格": "慕夏新艺术装饰画",
+   "关键词": "2D",
+   "年份": "1932/33"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O6_%E4%B9%B1%E4%B8%96%E6%98%A5%E7%A7%8B.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O6_%E4%B9%B1%E4%B8%96%E6%98%A5%E7%A7%8B.md",
+  "bytes": 3197,
+  "sha256": "38113c65af2080c5"
+ },
+ {
+  "id": "O7",
+  "name": "一夜风流（It Happened One Night）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "1934 年的黑白橡皮管卡通：粗细变化的墨线、饼切眼、白手套，赛璐璐平涂叠在灰阶水彩背景上，带胶片颗粒。和电影同一年，公路喜剧的笑点也适合卡通的节奏。",
+   "风格": "30 年代黑白橡皮管卡通",
+   "关键词": "2D·B&W",
+   "年份": "1934"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O7_%E4%B8%80%E5%A4%9C%E9%A3%8E%E6%B5%81.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O7_%E4%B8%80%E5%A4%9C%E9%A3%8E%E6%B5%81.md",
+  "bytes": 3278,
+  "sha256": "a6baf183539e1541"
+ },
+ {
+  "id": "O8",
+  "name": "叛舰喋血记（Mutiny on the Bounty）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "18 世纪英国海军部海图的铜版画：恒向线、罗盘玫瑰、水深数字、手工淡彩，邦蒂号是图上的一幅船舶插画。这部片讲的是一次航行，所以整段都留在海图上。",
+   "风格": "海军部海图铜版画",
+   "关键词": "2D",
+   "年份": "1935"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O8_%E5%8F%9B%E8%88%B0%E5%96%8B%E8%A1%80%E8%AE%B0.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O8_%E5%8F%9B%E8%88%B0%E5%96%8B%E8%A1%80%E8%AE%B0.md",
+  "bytes": 2987,
+  "sha256": "eb788ab3db804877"
+ },
+ {
+  "id": "O9",
+  "name": "歌舞大王齐格飞（The Great Ziegfeld）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "用 three.js 建的旋转螺旋“婚礼蛋糕”舞台，米高梅银色黑白：缎面、雪纺和鸵鸟羽毛衬在深黑里，只有 Clawd 是颜色。《A Pretty Girl Is Like a Melody》那座 175 级的螺旋舞台是这部片的名场面。",
+   "风格": "银色黑白 3D 螺旋婚礼蛋糕舞台",
+   "关键词": "3D·B&W",
+   "年份": "1936"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O9_%E6%AD%8C%E8%88%9E%E5%A4%A7%E7%8E%8B%E9%BD%90%E6%A0%BC%E9%A3%9E.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O9_%E6%AD%8C%E8%88%9E%E5%A4%A7%E7%8E%8B%E9%BD%90%E6%A0%BC%E9%A3%9E.md",
+  "bytes": 3176,
+  "sha256": "d8145f5dd6edd407"
+ },
+ {
+  "id": "O10",
+  "name": "左拉传（The Life of Emile Zola）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "报纸活字印刷加 1890 年代线刻插图：木活字大标题、密排铅字正文，泛黄新闻纸上的油墨外扩和缺墨，人物用排线画。这部片最有名的画面就是 1898 年 1 月 13 日《震旦报》的《我控诉》头版。",
+   "风格": "报纸活字印刷 + 线刻插图",
+   "关键词": "2D·B&W",
+   "年份": "1937"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O10_%E5%B7%A6%E6%8B%89%E4%BC%A0.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O10_%E5%B7%A6%E6%8B%89%E4%BC%A0.md",
+  "bytes": 3282,
+  "sha256": "b8703c2fcbdc80ba"
+ },
+ {
+  "id": "O11",
+  "name": "浮生若梦（You Can't Take It with You）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 默片与有声 1927–1938",
+   "长什么样": "30 年代 WPA 丝网海报：六色不透明平涂油墨、分色渐变、轻微套印错位，印在棉浆纸上。1936–39 年联邦艺术计划的海报就是这部片同年代的美国平面语言，也和第 10 部的报纸拉开距离。",
+   "风格": "WPA 丝网海报",
+   "关键词": "2D",
+   "年份": "1938"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O11_%E6%B5%AE%E7%94%9F%E8%8B%A5%E6%A2%A6.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O11_%E6%B5%AE%E7%94%9F%E8%8B%A5%E6%A2%A6.md",
+  "bytes": 3164,
+  "sha256": "f4b76fb765b8349e"
+ },
+ {
+  "id": "O12",
+  "name": "乱世佳人（Gone with the Wind）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "厚涂油画：刮刀色块、颜料堆起的棱，Technicolor 的热度——从金色烧到血红的天空、红土、黑色剪影。全片的色彩从《乱世佳人》开始降临，第一张满色画面就是夕阳下的塔拉。",
+   "风格": "Technicolor 厚涂油画",
+   "关键词": "2D",
+   "年份": "1939"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O12_%E4%B9%B1%E4%B8%96%E4%BD%B3%E4%BA%BA.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O12_%E4%B9%B1%E4%B8%96%E4%BD%B3%E4%BA%BA.md",
+  "bytes": 3533,
+  "sha256": "41104dc411f0abfb"
+ },
+ {
+  "id": "O13",
+  "name": "蝴蝶梦（Rebecca）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "粗纹纸上的炭笔画：天鹅绒般的黑、抹开的灰，月光和雾用橡皮擦出来。希区柯克的《蝴蝶梦》是一场黑白哥特梦，庄园先在雾里、后在火里，炭笔两样都画得出来。",
+   "风格": "哥特炭笔画",
+   "关键词": "2D·B&W",
+   "年份": "1940"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O13_%E8%9D%B4%E8%9D%B6%E6%A2%A6.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O13_%E8%9D%B4%E8%9D%B6%E6%A2%A6.md",
+  "bytes": 3251,
+  "sha256": "c51a07056f2ec076"
+ },
+ {
+  "id": "O14",
+  "name": "青山翠谷（How Green Was My Valley）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "用 1941 年原海报金黄加绿配色的不透明水粉：扎实的色块、煤黑的渣山、Kyffin Williams 式厚重的深色山体和断续描边。用水粉而不用木刻，和第 3 部区分开；画的是矿工唱着歌走下山谷回家。",
+   "风格": "威尔士山谷水粉",
+   "关键词": "2D",
+   "年份": "1941"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O14_%E9%9D%92%E5%B1%B1%E7%BF%A0%E8%B0%B7.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O14_%E9%9D%92%E5%B1%B1%E7%BF%A0%E8%B0%B7.md",
+  "bytes": 3173,
+  "sha256": "9bbe8f065ff5cc63"
+ },
+ {
+  "id": "O15",
+  "name": "忠勇之家（Mrs. Miniver）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "二战英国本土战线的石印海报：砖红、深绿、奶油、灰蓝的有限套色，阴影是石版蜡笔颗粒。配影片结尾：被炸穿屋顶的乡村教堂里全村唱诗，喷火式战机从破洞上方飞过。",
+   "风格": "英国战时石印海报",
+   "关键词": "2D",
+   "年份": "1942"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O15_%E5%BF%A0%E5%8B%87%E4%B9%8B%E5%AE%B6.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O15_%E5%BF%A0%E5%8B%87%E4%B9%8B%E5%AE%B6.md",
+  "bytes": 3303,
+  "sha256": "3790194269368573"
+ },
+ {
+  "id": "O16",
+  "name": "卡萨布兰卡（Casablanca）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "影片本身的样子：Arthur Edeson 的片厂黑白，画成精修剧照：带眼神光的柔焦特写、百叶窗投影、烟雾里的光柱。扮里克的 Clawd 是唯一的颜色。",
+   "风格": "好莱坞片厂柔光黑白",
+   "关键词": "2D·B&W",
+   "年份": "1943"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O16_%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O16_%E5%8D%A1%E8%90%A8%E5%B8%83%E5%85%B0%E5%8D%A1.md",
+  "bytes": 3189,
+  "sha256": "6b56437a72e1248e"
+ },
+ {
+  "id": "O17",
+  "name": "与我同行（Going My Way）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "逆光的哥特彩色玻璃：铅条拼起的色玻璃、灰调描出的人脸、沙特尔蓝和宝石红边框，彩光洒在教堂地上。奥马利神父和唱诗班嵌在窗里，头顶是金色星章。",
+   "风格": "逆光哥特彩色玻璃窗",
+   "关键词": "2D",
+   "年份": "1944"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O17_%E4%B8%8E%E6%88%91%E5%90%8C%E8%A1%8C.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O17_%E4%B8%8E%E6%88%91%E5%90%8C%E8%A1%8C.md",
+  "bytes": 3156,
+  "sha256": "d68363ba2fae83c1"
+ },
+ {
+  "id": "O18",
+  "name": "失去的周末（The Lost Weekend）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "画面是打出来的：等宽字符落在 pica 网格上，灰阶靠字符疏密和叠打，色带墨色不匀。唐抱着打字机去当铺，于是整条街由打字机打出；Clawd 用橙色色带打。",
+   "风格": "打字机字符画",
+   "关键词": "2D·B&W",
+   "年份": "1945"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O18_%E5%A4%B1%E5%8E%BB%E7%9A%84%E5%91%A8%E6%9C%AB.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O18_%E5%A4%B1%E5%8E%BB%E7%9A%84%E5%91%A8%E6%9C%AB.md",
+  "bytes": 3134,
+  "sha256": "95652ed4577b92d3"
+ },
+ {
+  "id": "O19",
+  "name": "黄金时代（The Best Years of Our Lives）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "1946 年画报的新闻摄影跨页：铜版纸上的粗黑网点、中缝折痕、叠印的图片说明。深焦里拆光的 B-17 排到地平线；Clawd 单独印在专色橙版上，是唯一的颜色。",
+   "风格": "画报新闻摄影半调跨页",
+   "关键词": "2.5D·B&W",
+   "年份": "1946"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O19_%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O19_%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3.md",
+  "bytes": 3165,
+  "sha256": "afa4a7444e79b1b9"
+ },
+ {
+  "id": "O20",
+  "name": "君子协定（Gentleman's Agreement）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "40 年代杂志插画式的石墨铅笔：先打构图线，再一遍遍平行排线，擦抹暗部、橡皮提亮。画面围绕酒店前台一次客气的拒绝逐步画出，只有 Clawd 是彩色铅笔。",
+   "风格": "40 年代杂志铅笔插画",
+   "关键词": "2D·B&W",
+   "年份": "1947"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O20_%E5%90%9B%E5%AD%90%E5%8D%8F%E5%AE%9A.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O20_%E5%90%9B%E5%AD%90%E5%8D%8F%E5%AE%9A.md",
+  "bytes": 3161,
+  "sha256": "6a7afb97f6256ba7"
+ },
+ {
+  "id": "O21",
+  "name": "王子复仇记（Hamlet）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "实时 3D 的艾尔西诺，高反差深焦黑白：体积雾、湿石头、碎成蕾丝白沫的海浪、银盐颗粒。照奥利维耶片中的城堡、雾中城垛和礁石来拍；Clawd 是唯一的颜色。",
+   "风格": "黑白 3D 雾中城堡",
+   "关键词": "3D·B&W",
+   "年份": "1948"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O21_%E7%8E%8B%E5%AD%90%E5%A4%8D%E4%BB%87%E8%AE%B0.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O21_%E7%8E%8B%E5%AD%90%E5%A4%8D%E4%BB%87%E8%AE%B0.md",
+  "bytes": 3148,
+  "sha256": "ea94953fd3999b14"
+ },
+ {
+  "id": "O22",
+  "name": "国王班底（All the King's Men）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 彩色与战争 1939–1949",
+   "长什么样": "南方竞选海报的木活字凸版：红、蓝、黑三色油墨印在米黄纸上，实地有木纹，供墨不匀，版间错位，肖像走半调网点。这是斯塔克的竞选集会，Clawd 用第四版橙墨印。",
+   "风格": "南方竞选木活字海报",
+   "关键词": "2D",
+   "年份": "1949"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O22_%E5%9B%BD%E7%8E%8B%E7%8F%AD%E5%BA%95.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O22_%E5%9B%BD%E7%8E%8B%E7%8F%AD%E5%BA%95.md",
+  "bytes": 3262,
+  "sha256": "bc1da082674c25b3"
+ },
+ {
+  "id": "O23",
+  "name": "彗星美人（All About Eve）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 宽银幕 1950–1959",
+   "长什么样": "艾尔·赫希菲尔德的百老汇漫画：粗细变化的流畅墨线、黑块对白、大量留白，每人只抓一个夸张特征。这部片讲剧场，派对就画成报纸剧场版漫画；Clawd 是唯一的颜色。",
+   "风格": "赫希菲尔德一笔画漫画",
+   "关键词": "2D·B&W",
+   "年份": "1950"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O23_%E5%BD%97%E6%98%9F%E7%BE%8E%E4%BA%BA.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O23_%E5%BD%97%E6%98%9F%E7%BE%8E%E4%BA%BA.md",
+  "bytes": 3068,
+  "sha256": "b6bb4f9d6e6af9cd"
+ },
+ {
+  "id": "O24",
+  "name": "一个美国人在巴黎（An American in Paris）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 宽银幕 1950–1959",
+   "长什么样": "拉乌尔·杜飞的水彩：快速的蓝黑墨线，底下是钴蓝、柠檬黄、玫瑰红的透明色块，线和色永远对不齐。影片结尾的芭蕾布景就是照杜飞画的，协和广场和舞者都用他的画法。",
+   "风格": "杜飞水彩芭蕾",
+   "关键词": "2D",
+   "年份": "1951"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O24_%E4%B8%80%E4%B8%AA%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%B7%B4%E9%BB%8E.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O24_%E4%B8%80%E4%B8%AA%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%B7%B4%E9%BB%8E.md",
+  "bytes": 3270,
+  "sha256": "f7fc49a3ab2f0abb"
+ },
+ {
+  "id": "O25",
+  "name": "戏王之王（The Greatest Show on Earth）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 宽银幕 1950–1959",
+   "长什么样": "Strobridge 马戏团彩色石印：铬黄、朱红、钴蓝平涂，粗黑轮廓，带网点、错版和石版颗粒。德米尔的大帐篷画成三圈海报，Clawd 扮塞巴斯蒂安做空中接人。",
+   "风格": "Strobridge 马戏团彩色石印",
+   "关键词": "2D",
+   "年份": "1952"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O25_%E6%88%8F%E7%8E%8B%E4%B9%8B%E7%8E%8B.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O25_%E6%88%8F%E7%8E%8B%E4%B9%8B%E7%8E%8B.md",
+  "bytes": 3338,
+  "sha256": "cfd4b1c83aabb53e"
+ },
+ {
+  "id": "O26",
+  "name": "乱世忠魂（From Here to Eternity）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 宽银幕 1950–1959",
+   "长什么样": "1953 年的高调黑白：硬朗阳光、压暗的天空、泛白的浪沫、映着天的湿沙，银盐颗粒和光晕。拍哈洛纳海湾浪里那一吻；坐在熔岩上吹军号的 Clawd 是唯一的颜色。",
+   "风格": "高调海滩黑白银幕",
+   "关键词": "2D·B&W",
+   "年份": "1953"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O26_%E4%B9%B1%E4%B8%96%E5%BF%A0%E9%AD%82.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O26_%E4%B9%B1%E4%B8%96%E5%BF%A0%E9%AD%82.md",
+  "bytes": 3054,
+  "sha256": "f2097d1ca6ec324a"
+ },
+ {
+  "id": "O27",
+  "name": "码头风云（On the Waterfront）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 宽银幕 1950–1959",
+   "长什么样": "本·沙恩的社会现实主义：颤抖的转印墨线，下面是错开的平涂蛋彩色块，大手长脸的工人，颜色克制在灰蓝、砖红、赭黄。沙恩画的就是码头工人和工会，正是这部片的世界。",
+   "风格": "本·沙恩社会现实主义",
+   "关键词": "2D",
+   "年份": "1954"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O27_%E7%A0%81%E5%A4%B4%E9%A3%8E%E4%BA%91.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O27_%E7%A0%81%E5%A4%B4%E9%A3%8E%E4%BA%91.md",
+  "bytes": 3270,
+  "sha256": "5d91d29f577ec03e"
+ },
+ {
+  "id": "O28",
+  "name": "君子好逑（Marty）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 宽银幕 1950–1959",
+   "长什么样": "1955 年的电视录像，在布朗克斯暖色客厅的电视里播：扫描线、荧光晕、圆角凸屏、雪花，只有 Clawd 有颜色。原作是直播电视剧，所以当电视拍。",
+   "风格": "50 年代电视显像管录像",
+   "关键词": "2D (B&W screen)",
+   "年份": "1955"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O28_%E5%90%9B%E5%AD%90%E5%A5%BD%E9%80%91.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O28_%E5%90%9B%E5%AD%90%E5%A5%BD%E9%80%91.md",
+  "bytes": 3162,
+  "sha256": "3f3c2342d466f3f0"
+ },
+ {
+  "id": "O29",
+  "name": "环游地球八十天（Around the World in 80 Days）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 宽银幕 1950–1959",
+   "长什么样": "50 年代平面几何卡通：色块和墨线错位套印、墨线断续、奶油纸上的蜡笔颗粒。本片 6 分钟的片尾动画就出自 Saul Bass，正是这种现代主义画法。",
+   "风格": "50 年代 UPA 现代主义卡通",
+   "关键词": "2D",
+   "年份": "1956"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O29_%E7%8E%AF%E6%B8%B8%E5%9C%B0%E7%90%83%E5%85%AB%E5%8D%81%E5%A4%A9.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O29_%E7%8E%AF%E6%B8%B8%E5%9C%B0%E7%90%83%E5%85%AB%E5%8D%81%E5%A4%A9.md",
+  "bytes": 3266,
+  "sha256": "6160a6c3c0a1e4e8"
+ },
+ {
+  "id": "O30",
+  "name": "桂河大桥（The Bridge on the River Kwai）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 宽银幕 1950–1959",
+   "长什么样": "钉在绘图桌上的总布置图：普鲁士蓝底上的白线、折痕、水渍和红铅笔修改。电影讲一个执意把桥造好的上校，所以把桥画成他的工程图。",
+   "风格": "氰版工程蓝图",
+   "关键词": "2D",
+   "年份": "1957"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O30_%E6%A1%82%E6%B2%B3%E5%A4%A7%E6%A1%A5.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O30_%E6%A1%82%E6%B2%B3%E5%A4%A7%E6%A1%A5.md",
+  "bytes": 3142,
+  "sha256": "b25d4c3ebd9864c3"
+ },
+ {
+  "id": "O31",
+  "name": "金粉世界（Gigi）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 宽银幕 1950–1959",
+   "长什么样": "图卢兹-罗特列克式彩色石印：大块平涂、飞白轮廓、用喷溅墨点代替网点、讽刺漫画式面孔。琪琪的高光时刻是走进马克西姆餐厅、全巴黎回头盯着她，正是罗特列克画过的巴黎。",
+   "风格": "罗特列克美好年代石印",
+   "关键词": "2D",
+   "年份": "1958"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O31_%E9%87%91%E7%B2%89%E4%B8%96%E7%95%8C.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O31_%E9%87%91%E7%B2%89%E4%B8%96%E7%95%8C.md",
+  "bytes": 3246,
+  "sha256": "69caeacaf1d1d159"
+ },
+ {
+  "id": "O32",
+  "name": "宾虚（Ben-Hur）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 宽银幕 1950–1959",
+   "长什么样": "程序生成的 3D 大竞技场，宽银幕史诗光感：沙漠烈日、沙尘、大理石和金色，特艺七彩调色加 65mm 颗粒。战车赛是全片最有名的段落，就直接拍比赛，头顶是海报上的金色巨神。",
+   "风格": "3D 大竞技场战车赛 · 65mm 史诗",
+   "关键词": "3D",
+   "年份": "1959"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O32_%E5%AE%BE%E8%99%9A.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O32_%E5%AE%BE%E8%99%9A.md",
+  "bytes": 3599,
+  "sha256": "e62e566ceff1333f"
+ },
+ {
+  "id": "O33",
+  "name": "桃色公寓（The Apartment）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 摇摆年代 1960–1969",
+   "长什么样": "Saul Bass 式的白线在黑底上滑入，搭出电影最有名的一点透视无尽办公大厅，再填上灰调。本片片头就是 Bass 做的；全画面唯一的暖色是 Clawd 和钥匙牌。",
+   "风格": "Saul Bass 线条片头 · 黑白",
+   "关键词": "2D·B&W",
+   "年份": "1960"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O33_%E6%A1%83%E8%89%B2%E5%85%AC%E5%AF%93.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O33_%E6%A1%83%E8%89%B2%E5%85%AC%E5%AF%93.md",
+  "bytes": 3013,
+  "sha256": "0f18686c2e313744"
+ },
+ {
+  "id": "O34",
+  "name": "西区故事（West Side Story）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 摇摆年代 1960–1969",
+   "长什么样": "红橙特艺七彩晚霞下的上西区 3D 街区，饱和、舞台化：红砖、之字形消防梯、屋顶水塔、能摆姿势的舞者人偶。重演电影的俯拍开场、Jets 打响指和海报上那一跃。",
+   "风格": "特艺七彩 3D 舞台",
+   "关键词": "3D",
+   "年份": "1961"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O34_%E8%A5%BF%E5%8C%BA%E6%95%85%E4%BA%8B.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O34_%E8%A5%BF%E5%8C%BA%E6%95%85%E4%BA%8B.md",
+  "bytes": 3279,
+  "sha256": "f6da0f4bbe081843"
+ },
+ {
+  "id": "O35",
+  "name": "阿拉伯的劳伦斯（Lawrence of Arabia）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 摇摆年代 1960–1969",
+   "长什么样": "看得见笔触方向的史诗海报水粉，冷暖对比强烈：琥珀色沙漠对钴蓝天空。《阿拉伯的劳伦斯》原海报就是 Howard Terpning 用这种画法画的。",
+   "风格": "Terpning 史诗海报水粉",
+   "关键词": "2D",
+   "年份": "1962"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O35_%E9%98%BF%E6%8B%89%E4%BC%AF%E7%9A%84%E5%8A%B3%E4%BC%A6%E6%96%AF.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O35_%E9%98%BF%E6%8B%89%E4%BC%AF%E7%9A%84%E5%8A%B3%E4%BC%A6%E6%96%AF.md",
+  "bytes": 3150,
+  "sha256": "02c9c9588e90d906"
+ },
+ {
+  "id": "O36",
+  "name": "汤姆·琼斯（Tom Jones）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 摇摆年代 1960–1969",
+   "长什么样": "乔治王时代的讽刺版画：霍加斯式粗细变化的刻线和有方向的排线，上面刷罗兰森式鲜艳的手工淡彩，稍稍出线，再加一个对白气泡。电影本身就在模仿霍加斯笔下的 18 世纪英国。",
+   "风格": "手工上色讽刺铜版画",
+   "关键词": "2D",
+   "年份": "1963"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O36_%E6%B1%A4%E5%A7%86%C2%B7%E7%90%BC%E6%96%AF.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O36_%E6%B1%A4%E5%A7%86%C2%B7%E7%90%BC%E6%96%AF.md",
+  "bytes": 3209,
+  "sha256": "d738122cfe427f70"
+ },
+ {
+  "id": "O37",
+  "name": "窈窕淑女（My Fair Lady）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 摇摆年代 1960–1969",
+   "长什么样": "快速、带飞白的墨线，配粉色和品红水彩晕染、甩点，四周化进白纸。1964 年原海报就是 Bob Peak 的墨线加粉彩；场景是 Cecil Beaton 设计的黑白阿斯科特。",
+   "风格": "Bob Peak 时装插画",
+   "关键词": "2D",
+   "年份": "1964"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O37_%E7%AA%88%E7%AA%95%E6%B7%91%E5%A5%B3.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O37_%E7%AA%88%E7%AA%95%E6%B7%91%E5%A5%B3.md",
+  "bytes": 3146,
+  "sha256": "151789dd8045ae6b"
+ },
+ {
+  "id": "O38",
+  "name": "音乐之声（The Sound of Music）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 摇摆年代 1960–1969",
+   "长什么样": "绘本感的 3D 程序阿尔卑斯：饱和的翠绿、钴蓝、雪白，雕塑感的山脊，棉花团积云，风吹过草地的草浪。重演开场的直升机航拍，最后落到山顶转圈的玛丽亚。",
+   "风格": "绘本感 3D 阿尔卑斯航拍",
+   "关键词": "3D",
+   "年份": "1965"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O38_%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A3%B0.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O38_%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A3%B0.md",
+  "bytes": 3210,
+  "sha256": "5c68ad07311df873"
+ },
+ {
+  "id": "O39",
+  "name": "日月精忠（A Man for All Seasons）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 摇摆年代 1960–1969",
+   "长什么样": "古典大师油画肖像：平滑罩染塑形、一根根画出的毛领、天鹅绒高光、逐环刻画的金链，再加旧光油和龟裂纹。霍尔拜因 1527 年亲手画过托马斯·莫尔，这里用的就是他的构图。",
+   "风格": "霍尔拜因都铎肖像油画",
+   "关键词": "2D",
+   "年份": "1966"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O39_%E6%97%A5%E6%9C%88%E7%B2%BE%E5%BF%A0.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O39_%E6%97%A5%E6%9C%88%E7%B2%BE%E5%BF%A0.md",
+  "bytes": 3195,
+  "sha256": "1bc393ab149377ce"
+ },
+ {
+  "id": "O40",
+  "name": "炎热的夜晚（In the Heat of the Night）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 摇摆年代 1960–1969",
+   "长什么样": "三色 Risograph 印刷：深蓝、海报橙红、荧光粉，带网点、颗粒和套色错位；光是用「少上墨」印出来的。呼应 1967 年海报的橙红热浪底和黑色剪影。",
+   "风格": "三色 Risograph 夜景",
+   "关键词": "2D",
+   "年份": "1967"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O40_%E7%82%8E%E7%83%AD%E7%9A%84%E5%A4%9C%E6%99%9A.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O40_%E7%82%8E%E7%83%AD%E7%9A%84%E5%A4%9C%E6%99%9A.md",
+  "bytes": 3189,
+  "sha256": "ca571f69e2436505"
+ },
+ {
+  "id": "O41",
+  "name": "雾都孤儿（Oliver!）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 摇摆年代 1960–1969",
+   "长什么样": "维多利亚玩具纸剧场：手工上色的石印卡纸人物留着剪刀白边，景片分层插在滑杆上，镀金台口下的烛光脚灯把影子投上景片。《雾都孤儿》是歌舞片，正好搬上维多利亚家庭小舞台。",
+   "风格": "维多利亚玩具纸剧场",
+   "关键词": "2.5D",
+   "年份": "1968"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O41_%E9%9B%BE%E9%83%BD%E5%AD%A4%E5%84%BF.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O41_%E9%9B%BE%E9%83%BD%E5%AD%A4%E5%84%BF.md",
+  "bytes": 3283,
+  "sha256": "d018b805663f879b"
+ },
+ {
+  "id": "O42",
+  "name": "午夜牛郎（Midnight Cowboy）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 摇摆年代 1960–1969",
+   "长什么样": "沃霍尔的照片丝网：黑色网点照片层印得不匀，错位地压在松散的平涂色块上，底是银色，画面重复两次、三次。片里就有沃霍尔工厂式的派对，而他画的猫王正是牛仔。",
+   "风格": "沃霍尔照片丝网 · Double Elvis",
+   "关键词": "2D",
+   "年份": "1969"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O42_%E5%8D%88%E5%A4%9C%E7%89%9B%E9%83%8E.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O42_%E5%8D%88%E5%A4%9C%E7%89%9B%E9%83%8E.md",
+  "bytes": 3355,
+  "sha256": "b4685c686883109a"
+ },
+ {
+  "id": "O43",
+  "name": "巴顿将军（Patton）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新好莱坞 1970–1979",
+   "长什么样": "仿 1940 年代美军战争债券海报的石印画法：分级平涂的褶皱、深色轮廓、网点阴影、泛黄的纸。对应《巴顿将军》开场：小小的将军站在一面占满舞台的巨幅国旗前训话。",
+   "风格": "二战战争债券石印海报",
+   "关键词": "2D",
+   "年份": "1970"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O43_%E5%B7%B4%E9%A1%BF%E5%B0%86%E5%86%9B.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O43_%E5%B7%B4%E9%A1%BF%E5%B0%86%E5%86%9B.md",
+  "bytes": 3232,
+  "sha256": "3f66dabcd2c7f6db"
+ },
+ {
+  "id": "O44",
+  "name": "法国贩毒网（The French Connection）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新好莱坞 1970–1979",
+   "长什么样": "整条布鲁克林高架铁下的大街用 3D 建出来，再调成粗颗粒 16mm：冷灰、暗部偏青、高反差、片门抖动。这部片最有名的就是高架铁下的追车，3D 才拍得出那种速度。",
+   "风格": "高架铁下追车 · 16mm 颗粒 3D",
+   "关键词": "3D",
+   "年份": "1971"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O44_%E6%B3%95%E5%9B%BD%E8%B4%A9%E6%AF%92%E7%BD%91.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O44_%E6%B3%95%E5%9B%BD%E8%B4%A9%E6%AF%92%E7%BD%91.md",
+  "bytes": 3253,
+  "sha256": "34dbe49c1bec3794"
+ },
+ {
+  "id": "O45",
+  "name": "教父（The Godfather）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新好莱坞 1970–1979",
+   "长什么样": "深琥珀和赭褐的油画，只有顶光落下的地方是暖的：暗部是透明的薄罩染，受光边缘是厚涂。重现戈登·威利斯在“I believe in America”那间书房里的顶光。",
+   "风格": "伦勃朗顶光明暗油画",
+   "关键词": "2D",
+   "年份": "1972"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O45_%E6%95%99%E7%88%B6.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O45_%E6%95%99%E7%88%B6.md",
+  "bytes": 3228,
+  "sha256": "009b8be63fc4d7bc"
+ },
+ {
+  "id": "O46",
+  "name": "骗中骗（The Sting）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新好莱坞 1970–1979",
+   "长什么样": "Leyendecker、Rockwell 一路的杂志插画：块面受光、平行笔触、利落的深色轮廓。片中章节卡就仿《星期六晚邮报》封面，1936 年的下注厅也照这个画。",
+   "风格": "《星期六晚邮报》插画",
+   "关键词": "2D",
+   "年份": "1973"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O46_%E9%AA%97%E4%B8%AD%E9%AA%97.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O46_%E9%AA%97%E4%B8%AD%E9%AA%97.md",
+  "bytes": 2986,
+  "sha256": "1ad7ba50d92ad480"
+ },
+ {
+  "id": "O47",
+  "name": "教父2（The Godfather Part II）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新好莱坞 1970–1979",
+   "长什么样": "世纪之交的调色银盐照片，手工刷色：棕褐调、柔焦、银盐颗粒、霉斑、裂角，局部淡淡的红、蓝、铜绿。画的是 1901 年少年维托抵达埃利斯岛，像 Lewis Hine 的照片。",
+   "风格": "手工上色棕褐老照片",
+   "关键词": "2.5D",
+   "年份": "1974"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O47_%E6%95%99%E7%88%B62.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O47_%E6%95%99%E7%88%B62.md",
+  "bytes": 3260,
+  "sha256": "dc9736eebc90cc57"
+ },
+ {
+  "id": "O48",
+  "name": "飞越疯人院（One Flew Over the Cuckoo's Nest）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新好莱坞 1970–1979",
+   "长什么样": "仿爱德华·霍珀的安静写实：大块平整的淡绿墙面、低角度晨光投下的硬边平行四边形、彼此隔开的人。正合《飞越疯人院》的病房：日光灯下的秩序，被一次出逃打破。",
+   "风格": "霍珀式美国写实油画",
+   "关键词": "2D",
+   "年份": "1975"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O48_%E9%A3%9E%E8%B6%8A%E7%96%AF%E4%BA%BA%E9%99%A2.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O48_%E9%A3%9E%E8%B6%8A%E7%96%AF%E4%BA%BA%E9%99%A2.md",
+  "bytes": 3104,
+  "sha256": "b5b5f8ad558e30b2"
+ },
+ {
+  "id": "O49",
+  "name": "洛奇（Rocky）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新好莱坞 1970–1979",
+   "长什么样": "清晨的费城整个做成 3D，从肉库到博物馆 72 级台阶，调成 70 年代 35mm：冷蓝天、低低的金色太阳、长影子、薄雾、细颗粒。跑上台阶和顶上的环绕升镜是这部片的记忆点。",
+   "风格": "费城台阶日出 3D · 35mm 调色",
+   "关键词": "3D",
+   "年份": "1976"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O49_%E6%B4%9B%E5%A5%87.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O49_%E6%B4%9B%E5%A5%87.md",
+  "bytes": 3299,
+  "sha256": "f32e886b0e19b257"
+ },
+ {
+  "id": "O50",
+  "name": "安妮·霍尔（Annie Hall）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新好莱坞 1970–1979",
+   "长什么样": "《纽约客》单格漫画：灵动的钢笔墨线、几块克制的淡彩、大量白纸，画下面一行手写图说。伍迪·艾伦的喜剧和这本杂志是一个调子，龙虾那场戏正好是一格笑话漫画。",
+   "风格": "《纽约客》单格漫画 · 墨线淡彩",
+   "关键词": "2D",
+   "年份": "1977"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O50_%E5%AE%89%E5%A6%AE%C2%B7%E9%9C%8D%E5%B0%94.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O50_%E5%AE%89%E5%A6%AE%C2%B7%E9%9C%8D%E5%B0%94.md",
+  "bytes": 3284,
+  "sha256": "c4b374a9d9ccedc3"
+ },
+ {
+  "id": "O51",
+  "name": "猎鹿人（The Deer Hunter）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新好莱坞 1970–1979",
+   "长什么样": "仿安德鲁·怀斯的蛋彩：干燥细密的交叉短笔，低饱和的草黄、赭褐、灰绿，草叶一根根画出来，天空苍白。怀斯是宾州画家，“一枪”猎鹿就在宾州钢铁小镇上方的山里。",
+   "风格": "安德鲁·怀斯蛋彩",
+   "关键词": "2D",
+   "年份": "1978"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O51_%E7%8C%8E%E9%B9%BF%E4%BA%BA.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O51_%E7%8C%8E%E9%B9%BF%E4%BA%BA.md",
+  "bytes": 3194,
+  "sha256": "36e9b345a870e271"
+ },
+ {
+  "id": "O52",
+  "name": "克莱默夫妇（Kramer vs. Kramer）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新好莱坞 1970–1979",
+   "长什么样": "孩子用蜡笔画的厨房：歪扭的线、用力涂进纸纹又涂出边界的颜色、标签和箭头、带笑脸的太阳。这是比利眼里他和爸爸做法式吐司的样子。",
+   "风格": "儿童蜡笔画",
+   "关键词": "2D",
+   "年份": "1979"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O52_%E5%85%8B%E8%8E%B1%E9%BB%98%E5%A4%AB%E5%A6%87.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O52_%E5%85%8B%E8%8E%B1%E9%BB%98%E5%A4%AB%E5%A6%87.md",
+  "bytes": 3252,
+  "sha256": "63b509069b9abe01"
+ },
+ {
+  "id": "O53",
+  "name": "普通人（Ordinary People）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 大片年代 1980–1989",
+   "长什么样": "层层叠色的透明水彩：湿画法的天空和湖面、水渍边线、回流花、留白的纸当高光，秋天的金和锈红配上冷灰蓝。对上影片开场那个安静又带点忧伤的 Lake Forest 秋天。",
+   "风格": "秋日透明水彩",
+   "关键词": "2D",
+   "年份": "1980"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O53_%E6%99%AE%E9%80%9A%E4%BA%BA.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O53_%E6%99%AE%E9%80%9A%E4%BA%BA.md",
+  "bytes": 3297,
+  "sha256": "1009e97f56fd33fe"
+ },
+ {
+  "id": "O54",
+  "name": "烈火战车（Chariots of Fire）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 大片年代 1980–1989",
+   "长什么样": "仿 Jean Droit 1924 巴黎奥运海报的四色石印：古典人体、有限油墨、成团的石版颗粒、参差套色。《烈火战车》讲的是 1924 年奥运，海滩长跑像那张海报活了过来。",
+   "风格": "1924 巴黎奥运石印海报",
+   "关键词": "2D",
+   "年份": "1981"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O54_%E7%83%88%E7%81%AB%E6%88%98%E8%BD%A6.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O54_%E7%83%88%E7%81%AB%E6%88%98%E8%BD%A6.md",
+  "bytes": 3297,
+  "sha256": "54c9a1b3df696b4d"
+ },
+ {
+  "id": "O55",
+  "name": "甘地传（Gandhi）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 大片年代 1980–1989",
+   "长什么样": "棉布上的手工木刻印花：靛蓝、茜草红、姜黄加黑色雕版轮廓，版缝处套色错位，染料顺着经纬渗开。手纺土布是甘地的象征，所以食盐进军就印成一块布。",
+   "风格": "拉贾斯坦手工木刻印花布",
+   "关键词": "2D",
+   "年份": "1982"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O55_%E7%94%98%E5%9C%B0%E4%BC%A0.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O55_%E7%94%98%E5%9C%B0%E4%BC%A0.md",
+  "bytes": 3122,
+  "sha256": "3df780efe944dc03"
+ },
+ {
+  "id": "O56",
+  "name": "母女情深（Terms of Endearment）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 大片年代 1980–1989",
+   "长什么样": "摊开的家庭相册，里面是褪色的宝丽来和柯达快照：发青的黑、奶油色高光、白边。其中一张宝丽来活过来，变成海滩飞车的追拍照片。《母女情深》讲的是母女三十年。",
+   "风格": "家庭相册宝丽来",
+   "关键词": "2D",
+   "年份": "1983"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O56_%E6%AF%8D%E5%A5%B3%E6%83%85%E6%B7%B1.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O56_%E6%AF%8D%E5%A5%B3%E6%83%85%E6%B7%B1.md",
+  "bytes": 3263,
+  "sha256": "4ecd0aec3e9aac34"
+ },
+ {
+  "id": "O57",
+  "name": "莫扎特传（Amadeus）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 大片年代 1980–1989",
+   "长什么样": "黑纸剪成的侧面人像镶着金边，坐满马蹄形的金色包厢和红丝绒，对着星空布景的舞台。《莫扎特传》的高光是首演之夜，一个画面装下乐池、舞台、观众和暗处的萨列里。",
+   "风格": "洛可可剪影 · 烛光金色歌剧院",
+   "关键词": "2D",
+   "年份": "1984"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O57_%E8%8E%AB%E6%89%8E%E7%89%B9%E4%BC%A0.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O57_%E8%8E%AB%E6%89%8E%E7%89%B9%E4%BC%A0.md",
+  "bytes": 3181,
+  "sha256": "d5813d26617a0d00"
+ },
+ {
+  "id": "O58",
+  "name": "走出非洲（Out of Africa）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 大片年代 1980–1989",
+   "长什么样": "实时 3D 的低空飞行：铬黄色双翼机掠过苏打湖，上万只火烈鸟惊起，琥珀色薄雾光。这部片最被记住的就是丹尼斯带凯伦飞越肯尼亚，和她向后座伸出的那只手。",
+   "风格": "3D 双翼机飞越东非裂谷",
+   "关键词": "3D",
+   "年份": "1985"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O58_%E8%B5%B0%E5%87%BA%E9%9D%9E%E6%B4%B2.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O58_%E8%B5%B0%E5%87%BA%E9%9D%9E%E6%B4%B2.md",
+  "bytes": 3277,
+  "sha256": "1d78d9a33862605f"
+ },
+ {
+  "id": "O59",
+  "name": "野战排（Platoon）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 大片年代 1980–1989",
+   "长什么样": "快而有力的钢笔线，橄榄绿、土黄、烟灰和火光橙的淡彩，速写本纸四边留白。像随军画家在现场画下的，贴近这部片从步兵眼里看越战的视角。",
+   "风格": "越战随军速写 · 钢笔淡彩",
+   "关键词": "2D",
+   "年份": "1986"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O59_%E9%87%8E%E6%88%98%E6%8E%92.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O59_%E9%87%8E%E6%88%98%E6%8E%92.md",
+  "bytes": 3233,
+  "sha256": "57152910d9cc015a"
+ },
+ {
+  "id": "O60",
+  "name": "末代皇帝（The Last Emperor）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 大片年代 1980–1989",
+   "长什么样": "绢本上的铁线描和层层渲染的石青、石绿、朱砂、泥金，界画的宫殿，几千名跪拜的百官。小皇帝的登基是清宫仪典，就用清宫画师记录仪典的画法来画。",
+   "风格": "工笔重彩 · 绢本宫廷画",
+   "关键词": "2D",
+   "年份": "1987"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O60_%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O60_%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D.md",
+  "bytes": 3243,
+  "sha256": "3d139ad32234b006"
+ },
+ {
+  "id": "O61",
+  "name": "雨人（Rain Man）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 大片年代 1980–1989",
+   "长什么样": "平滑的喷枪渐变、硬边遮罩、镀铬高光和粉绿霓虹，叠一层细细的青色计数标注。80 年代画风配上雷蒙眼里的世界：82、82、82，共 246 根牙签，还有牌桌算牌。",
+   "风格": "80 年代喷枪插画 + 雷蒙的计数",
+   "关键词": "2D",
+   "年份": "1988"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O61_%E9%9B%A8%E4%BA%BA.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O61_%E9%9B%A8%E4%BA%BA.md",
+  "bytes": 3322,
+  "sha256": "31595b5559653006"
+ },
+ {
+  "id": "O62",
+  "name": "为黛西小姐开车（Driving Miss Daisy）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 大片年代 1980–1989",
+   "长什么样": "扎实温暖的洛克威尔写实：边缘干净、笔触可见，午后阳光穿过橡树，邻居各忙各的。这部片就是 50 年代亚特兰大一辆车里的两个人，本身就像一张《星期六晚邮报》封面。",
+   "风格": "洛克威尔式油画插画",
+   "关键词": "2D",
+   "年份": "1989"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O62_%E4%B8%BA%E9%BB%9B%E8%A5%BF%E5%B0%8F%E5%A7%90%E5%BC%80%E8%BD%A6.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O62_%E4%B8%BA%E9%BB%9B%E8%A5%BF%E5%B0%8F%E5%A7%90%E5%BC%80%E8%BD%A6.md",
+  "bytes": 3453,
+  "sha256": "469befb299dca845"
+ },
+ {
+  "id": "O63",
+  "name": "与狼共舞（Dances with Wolves）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 世纪末 1990–1999",
+   "长什么样": "一个军人的野外日记：轻重有变化的铅笔线、透明水彩、泛黄的布浆纸、墨水手写和页边的铅笔批注。邓巴在片中一直写画日记，所以草原是从他的速写里活过来的。",
+   "风格": "邓巴日记 · 铅笔 + 透明水彩",
+   "关键词": "2D",
+   "年份": "1990"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O63_%E4%B8%8E%E7%8B%BC%E5%85%B1%E8%88%9E.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O63_%E4%B8%8E%E7%8B%BC%E5%85%B1%E8%88%9E.md",
+  "bytes": 3120,
+  "sha256": "a9ad027c6b13ce25"
+ },
+ {
+  "id": "O64",
+  "name": "沉默的羔羊（The Silence of the Lambs）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 世纪末 1990–1999",
+   "长什么样": "细密的铜版排线和点刻，上面薄薄地手工上色，图版编号和拉丁文标签印在泛黄的纸上。海报上的鬼脸天蛾本就该钉在标本图版上，同样冷峻的铜版画法一直延伸到莱克特的囚室。",
+   "风格": "手工上色的博物学铜版画",
+   "关键词": "2D",
+   "年份": "1991"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O64_%E6%B2%89%E9%BB%98%E7%9A%84%E7%BE%94%E7%BE%8A.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O64_%E6%B2%89%E9%BB%98%E7%9A%84%E7%BE%94%E7%BE%8A.md",
+  "bytes": 3304,
+  "sha256": "94ae3b3eae0eb29a"
+ },
+ {
+  "id": "O65",
+  "name": "不可饶恕（Unforgiven）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 世纪末 1990–1999",
+   "长什么样": "两种调子的厚涂西部油画：雷明顿金红晚霞下的平原，和他晚年被暖黄窗光点亮的蓝绿夜景。《不可饶恕》以夕阳下坟前的剪影开场和收尾，决战发生在雨夜的小镇。",
+   "风格": "雷明顿西部油画 · 晚霞与雨夜",
+   "关键词": "2D",
+   "年份": "1992"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O65_%E4%B8%8D%E5%8F%AF%E9%A5%B6%E6%81%95.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O65_%E4%B8%8D%E5%8F%AF%E9%A5%B6%E6%81%95.md",
+  "bytes": 3162,
+  "sha256": "f769176e181ab1fa"
+ },
+ {
+  "id": "O66",
+  "name": "辛德勒的名单（Schindler's List）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 世纪末 1990–1999",
+   "长什么样": "冷灰、高反差的黑白，粗颗粒，高光晕开；只有小女孩的红大衣和 Clawd 的橙色有颜色。这正是斯皮尔伯格的手法：红大衣和安息日烛火是全片仅有的彩色。",
+   "风格": "黑白胶片 · 唯一的红大衣",
+   "关键词": "2D·B&W",
+   "年份": "1993"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O66_%E8%BE%9B%E5%BE%B7%E5%8B%92%E7%9A%84%E5%90%8D%E5%8D%95.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O66_%E8%BE%9B%E5%BE%B7%E5%8B%92%E7%9A%84%E5%90%8D%E5%8D%95.md",
+  "bytes": 3342,
+  "sha256": "b6bda79b3464ee55"
+ },
+ {
+  "id": "O67",
+  "name": "阿甘正传（Forrest Gump）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 世纪末 1990–1999",
+   "长什么样": "平行折立起来的印刷卡片，白色纸芯、灰色纸板边、层与层之间的投影和浅景深，放在胡桃木书桌上。阿甘坐在长椅上把一生讲成故事，翻开一页就立起一段经历。",
+   "风格": "立体书 · 真实书桌上的纸艺",
+   "关键词": "2.5D",
+   "年份": "1994"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O67_%E9%98%BF%E7%94%98%E6%AD%A3%E4%BC%A0.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O67_%E9%98%BF%E7%94%98%E6%AD%A3%E4%BC%A0.md",
+  "bytes": 3114,
+  "sha256": "d841ae9d931c929a"
+ },
+ {
+  "id": "O68",
+  "name": "勇敢的心（Braveheart）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 世纪末 1990–1999",
+   "长什么样": "一页中世纪手抄本：带冲压点的磨光金箔、青金石蓝、朱红、哥特体字，中间一幅窗口似的战役细密画。《勇敢的心》是苏格兰传奇，片尾那声 FREEDOM 做成泥金首字母。",
+   "风格": "泥金手抄本 · 贴金细密画",
+   "关键词": "2D",
+   "年份": "1995"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O68_%E5%8B%87%E6%95%A2%E7%9A%84%E5%BF%83.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O68_%E5%8B%87%E6%95%A2%E7%9A%84%E5%BF%83.md",
+  "bytes": 3313,
+  "sha256": "07777ce5a23db008"
+ },
+ {
+  "id": "O69",
+  "name": "英国病人（The English Patient）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 世纪末 1990–1999",
+   "长什么样": "贴在旧书里的水彩速写，夹着地图、照片、便条和压花，整体是海报的琥珀褐。艾玛殊那本塞满画和笔记的希罗多德是全片的框架，镜头就穿过一张水彩进入游泳者洞穴。",
+   "风格": "探险家剪贴本水彩",
+   "关键词": "2D",
+   "年份": "1996"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O69_%E8%8B%B1%E5%9B%BD%E7%97%85%E4%BA%BA.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O69_%E8%8B%B1%E5%9B%BD%E7%97%85%E4%BA%BA.md",
+  "bytes": 3250,
+  "sha256": "9321575cd9744519"
+ },
+ {
+  "id": "O70",
+  "name": "泰坦尼克号（Titanic）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 世纪末 1990–1999",
+   "长什么样": "普鲁士蓝晒图纸上的白线立起来、长出透视，再显影成夕阳下全彩的 3D 船，一路入夜。船本身就是这部片的标志，所以船厂图纸和实景用的是同一艘模型。",
+   "风格": "蓝图显影成 3D 实景",
+   "关键词": "3D",
+   "年份": "1997"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O70_%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O70_%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7.md",
+  "bytes": 3202,
+  "sha256": "cb4fa36d9037599d"
+ },
+ {
+  "id": "O71",
+  "name": "莎翁情史（Shakespeare in Love）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 世纪末 1990–1999",
+   "长什么样": "学尼古拉斯·希利亚德的伊丽莎白时代宫廷细密画：羊皮纸上的不透明水彩、群青底、贝壳金题字、白色野蔷薇。影片发生在莎士比亚的伦敦，细密画正是那个宫廷自己的肖像形式。",
+   "风格": "希利亚德伊丽莎白细密画",
+   "关键词": "2D",
+   "年份": "1998"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O71_%E8%8E%8E%E7%BF%81%E6%83%85%E5%8F%B2.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O71_%E8%8E%8E%E7%BF%81%E6%83%85%E5%8F%B2.md",
+  "bytes": 3429,
+  "sha256": "916ee4c71792cf79"
+ },
+ {
+  "id": "O72",
+  "name": "美国丽人（American Beauty）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 世纪末 1990–1999",
+   "长什么样": "两种画面剪在一起：先是干净饱和、正面对称的郊区住宅（红门、红玫瑰），再切到带 REC 界面的低清 DV 录像。对应影片里莱斯特体面的郊区和里基拍下的那段塑料袋录像。",
+   "风格": "郊区对称电影画面 + DV 录像",
+   "关键词": "2D",
+   "年份": "1999"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O72_%E7%BE%8E%E5%9B%BD%E4%B8%BD%E4%BA%BA.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O72_%E7%BE%8E%E5%9B%BD%E4%B8%BD%E4%BA%BA.md",
+  "bytes": 3219,
+  "sha256": "65178e91b502d888"
+ },
+ {
+  "id": "O73",
+  "name": "角斗士（Gladiator）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新千年 2000–2009",
+   "长什么样": "整幅画用方形石子和玻璃嵌片铺成：轮廓边的石子顺着形体排，平面处一行行直排，金箔玻璃片会闪。影片本身就在罗马，所以斗兽场和极乐麦田都做成罗马地面马赛克。",
+   "风格": "罗马地面马赛克",
+   "关键词": "2D",
+   "年份": "2000"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O73_%E8%A7%92%E6%96%97%E5%A3%AB.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O73_%E8%A7%92%E6%96%97%E5%A3%AB.md",
+  "bytes": 3182,
+  "sha256": "57c52480f808a991"
+ },
+ {
+  "id": "O74",
+  "name": "美丽心灵（A Beautiful Mind）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新千年 2000–2009",
+   "长什么样": "两种表面上的手写数学：哥特式图书馆窗玻璃上的白色油性笔、黑板上的粉笔，数字亮起，被金线连起来。这是片中纳什看见规律的方式：是他脑中的光，不是电脑界面。",
+   "风格": "窗上公式与黑板粉笔 + 金色连线",
+   "关键词": "2D",
+   "年份": "2001"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O74_%E7%BE%8E%E4%B8%BD%E5%BF%83%E7%81%B5.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O74_%E7%BE%8E%E4%B8%BD%E5%BF%83%E7%81%B5.md",
+  "bytes": 3191,
+  "sha256": "42dcd785559cec5d"
+ },
+ {
+  "id": "O75",
+  "name": "芝加哥（Chicago）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新千年 2000–2009",
+   "长什么样": "黑色舞台被硬边聚光切开：六间牢房里是勾红边的女囚剪影，背后霓虹 C，亮片和烟雾，Clawd 在白色追光里。这是电影版的「Cell Block Tango」，用海报的红黑。",
+   "风格": "福斯舞台：红黑聚光剪影",
+   "关键词": "2D",
+   "年份": "2002"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O75_%E8%8A%9D%E5%8A%A0%E5%93%A5.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O75_%E8%8A%9D%E5%8A%A0%E5%93%A5.md",
+  "bytes": 3099,
+  "sha256": "447a47d70c3e9c9c"
+ },
+ {
+  "id": "O76",
+  "name": "指环王：王者无敌（The Lord of the Rings: The Return of the King）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新千年 2000–2009",
+   "长什么样": "柔和的水彩加铅笔风景，空气透视很深，再加一张羊皮纸上的墨线地图。电影的概念画就是艾伦·李和约翰·豪画的，所以这段旅程按三部曲最初被画出来的样子来讲。",
+   "风格": "艾伦·李式水彩 + 托尔金地图",
+   "关键词": "2D",
+   "年份": "2003"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O76_%E6%8C%87%E7%8E%AF%E7%8E%8B%EF%BC%9A%E7%8E%8B%E8%80%85%E6%97%A0%E6%95%8C.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O76_%E6%8C%87%E7%8E%AF%E7%8E%8B%EF%BC%9A%E7%8E%8B%E8%80%85%E6%97%A0%E6%95%8C.md",
+  "bytes": 3485,
+  "sha256": "5242676c0cf38274"
+ },
+ {
+  "id": "O77",
+  "name": "百万美元宝贝（Million Dollar Baby）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新千年 2000–2009",
+   "长什么样": "原创的 16-bit 街机格斗游戏画面：血条、回合计时、ROUND 1 / FIGHT!、连击数、命中停顿和巨大的 K.O.。一部拳击冠军赛的电影，变成用街机语法打完的一回合。",
+   "风格": "16-bit 像素格斗游戏",
+   "关键词": "2D",
+   "年份": "2004"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O77_%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E5%AE%9D%E8%B4%9D.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O77_%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E5%AE%9D%E8%B4%9D.md",
+  "bytes": 2971,
+  "sha256": "78498c3202ca01d6"
+ },
+ {
+  "id": "O78",
+  "name": "撞车（Crash）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新千年 2000–2009",
+   "长什么样": "用代码画的精修夜景照片：高架上白色和红色的车灯光轨、钠灯橙对霓虹青、湿路面反光、焦外光斑，还有只在光里才看得见的雪。《撞车》的结尾正是洛杉矶难得的一场雪。",
+   "风格": "洛杉矶夜景光轨 + 飘雪",
+   "关键词": "2D",
+   "年份": "2005"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O78_%E6%92%9E%E8%BD%A6.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O78_%E6%92%9E%E8%BD%A6.md",
+  "bytes": 3084,
+  "sha256": "84983ee7ab895a0e"
+ },
+ {
+  "id": "O79",
+  "name": "无间行者（The Departed）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新千年 2000–2009",
+   "长什么样": "平涂的多层喷漆模板，有喷雾毛边和流挂，漆吃进砖缝，旁边一张撕破的糊贴海报。《无间行者》最后一个镜头是老鼠爬过州议会金顶下的栏杆，街头模板涂鸦也一直爱画老鼠。",
+   "风格": "波士顿红砖墙模板涂鸦",
+   "关键词": "2D",
+   "年份": "2006"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O79_%E6%97%A0%E9%97%B4%E8%A1%8C%E8%80%85.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O79_%E6%97%A0%E9%97%B4%E8%A1%8C%E8%80%85.md",
+  "bytes": 3267,
+  "sha256": "711e5dba3d8a305c"
+ },
+ {
+  "id": "O80",
+  "name": "老无所依（No Country for Old Men）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新千年 2000–2009",
+   "长什么样": "实时 3D 的西德州黄昏荒原：太阳压在地平线上，长影子朝着镜头，低饱和的土黄和灰绿，细颗粒。照着迪金斯为科恩兄弟拍的光，和海报上逆光里提着箱子的人。",
+   "风格": "3D 西德州荒原黄昏（迪金斯光）",
+   "关键词": "3D",
+   "年份": "2007"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O80_%E8%80%81%E6%97%A0%E6%89%80%E4%BE%9D.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O80_%E8%80%81%E6%97%A0%E6%89%80%E4%BE%9D.md",
+  "bytes": 3202,
+  "sha256": "b5927157dac924bd"
+ },
+ {
+  "id": "O81",
+  "name": "贫民窟的百万富翁（Slumdog Millionaire）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新千年 2000–2009",
+   "长什么样": "蓝紫色加金色高光的电视演播室，摇头灯光束、镜头光斑；然后切到饱和橙青色的孟买屋顶。影片本身就在答题节目的最后一题和贾马尔出身的贫民窟之间来回切。",
+   "风格": "答题节目演播室 + 孟买橙青",
+   "关键词": "2D",
+   "年份": "2008"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O81_%E8%B4%AB%E6%B0%91%E7%AA%9F%E7%9A%84%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O81_%E8%B4%AB%E6%B0%91%E7%AA%9F%E7%9A%84%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81.md",
+  "bytes": 3291,
+  "sha256": "9aea7142f880e03c"
+ },
+ {
+  "id": "O82",
+  "name": "拆弹部队（The Hurt Locker）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 新千年 2000–2009",
+   "长什么样": "一页美军拆弹手册：均匀黑线、排线阴影、点描沙土、带圈编号和引线、IED 分解图，只有一点橄榄绿和沙色。《拆弹部队》讲高压下的程序，手册图就是画出来的程序。",
+   "风格": "拆弹教范线图",
+   "关键词": "2D",
+   "年份": "2009"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O82_%E6%8B%86%E5%BC%B9%E9%83%A8%E9%98%9F.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O82_%E6%8B%86%E5%BC%B9%E9%83%A8%E9%98%9F.md",
+  "bytes": 3340,
+  "sha256": "ff1c332e3fd26aca"
+ },
+ {
+  "id": "O83",
+  "name": "国王的演讲（The King's Speech）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 独立年代 2010–2019",
+   "长什么样": "墙面肌理很重的油画质感室内：罗格诊室那面冷灰绿的多层斑驳墙，再到琥珀金的软包广播间、弹簧吊着的话筒和细细的金色声波。照着 Eve Stewart 设计的墙和海报的金黄。",
+   "风格": "斑驳墙 + 金色广播间",
+   "关键词": "2D",
+   "年份": "2010"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O83_%E5%9B%BD%E7%8E%8B%E7%9A%84%E6%BC%94%E8%AE%B2.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O83_%E5%9B%BD%E7%8E%8B%E7%9A%84%E6%BC%94%E8%AE%B2.md",
+  "bytes": 3275,
+  "sha256": "97c12c903fcebb30"
+ },
+ {
+  "id": "O84",
+  "name": "艺术家（The Artist）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 独立年代 2010–2019",
+   "长什么样": "干净发亮的黑白：高光明亮、灰阶柔和，装饰艺术边框的字幕卡，轻微闪烁和颗粒；Clawd 是唯一的颜色。《艺术家》是 2011 年写给默片好莱坞的情书，所以比第 1 部更精致。",
+   "风格": "2011 精致默片黑白",
+   "关键词": "2D·B&W",
+   "年份": "2011"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O84_%E8%89%BA%E6%9C%AF%E5%AE%B6.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O84_%E8%89%BA%E6%9C%AF%E5%AE%B6.md",
+  "bytes": 3373,
+  "sha256": "d28c386ce50369f9"
+ },
+ {
+  "id": "O85",
+  "name": "逃离德黑兰（Argo）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 独立年代 2010–2019",
+   "长什么样": "摊在制片桌上的 70 年代柯比漫画：粗墨线、柯比能量泡、泛黄新闻纸上的四色网点。片中那部假科幻片用的正是柯比画的概念图，所以漫画从假史诗一路翻到真实的跑道出逃。",
+   "风格": "杰克·柯比 70 年代漫画页",
+   "关键词": "2D",
+   "年份": "2012"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O85_%E9%80%83%E7%A6%BB%E5%BE%B7%E9%BB%91%E5%85%B0.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O85_%E9%80%83%E7%A6%BB%E5%BE%B7%E9%BB%91%E5%85%B0.md",
+  "bytes": 2726,
+  "sha256": "94485321f7295084"
+ },
+ {
+  "id": "O86",
+  "name": "为奴十二年（12 Years a Slave）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 独立年代 2010–2019",
+   "长什么样": "铜框丝绒盒里的 1850 年代银版照片，从空白显影：椅子上靠着小提琴，Clawd 低头站在旁边。这是所罗门·诺瑟普那个年代的照相术，只用一件物件讲这部片，不画人。",
+   "风格": "显影中的银版老照片",
+   "关键词": "2D·B&W",
+   "年份": "2013"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O86_%E4%B8%BA%E5%A5%B4%E5%8D%81%E4%BA%8C%E5%B9%B4.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O86_%E4%B8%BA%E5%A5%B4%E5%8D%81%E4%BA%8C%E5%B9%B4.md",
+  "bytes": 2841,
+  "sha256": "6d92bc3904cf1646"
+ },
+ {
+  "id": "O87",
+  "name": "鸟人（Birdman）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 独立年代 2010–2019",
+   "长什么样": "细致的 3D 百老汇剧院后台，用手持长镜头拍：暖钨丝灯对冷日光灯，最后冲进时代广场的强光。《鸟人》最出名的就是假装一镜到底，所以这段的风格就是那条运镜。",
+   "风格": "3D 后台走廊长镜头",
+   "关键词": "3D",
+   "年份": "2014"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O87_%E9%B8%9F%E4%BA%BA.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O87_%E9%B8%9F%E4%BA%BA.md",
+  "bytes": 3319,
+  "sha256": "1e94cebb399e5fe7"
+ },
+ {
+  "id": "O88",
+  "name": "聚焦（Spotlight）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 独立年代 2010–2019",
+   "长什么样": "印成报纸网点的画面，放到缩微胶片阅读机的灰绿屏幕上：扫描线、滚动的扫描光带、玻璃上的灰尘。片中记者就在这种档案里挖出真相，换镜头也做成胶片横移。",
+   "风格": "缩微胶片阅读机 · 报纸网点",
+   "关键词": "2D",
+   "年份": "2015"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O88_%E8%81%9A%E7%84%A6.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O88_%E8%81%9A%E7%84%A6.md",
+  "bytes": 3164,
+  "sha256": "fee3d678d50ffd73"
+ },
+ {
+  "id": "O89",
+  "name": "月光男孩（Moonlight）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 独立年代 2010–2019",
+   "长什么样": "饱满的青绿、品红和月光蓝油画肖像，雕出来的头像再用顺着形体的笔触重新画一遍。直接照着片名那句「月光下，黑人男孩看起来是蓝色的」来画。",
+   "风格": "月光蓝调油画肖像",
+   "关键词": "2D",
+   "年份": "2016"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O89_%E6%9C%88%E5%85%89%E7%94%B7%E5%AD%A9.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O89_%E6%9C%88%E5%85%89%E7%94%B7%E5%AD%A9.md",
+  "bytes": 3170,
+  "sha256": "376af0b50c2833ce"
+ },
+ {
+  "id": "O90",
+  "name": "水形物语（The Shape of Water）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 独立年代 2010–2019",
+   "长什么样": "实时 3D 的被淹浴室和实验室水箱，整片浸在青绿里：流动的焦散、从上方落下的光束、气泡和几盏暖色灯。德尔·托罗这部片就泡在这种水里，所以整段在水中拍。",
+   "风格": "3D 水下青绿焦散",
+   "关键词": "3D",
+   "年份": "2017"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O90_%E6%B0%B4%E5%BD%A2%E7%89%A9%E8%AF%AD.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O90_%E6%B0%B4%E5%BD%A2%E7%89%A9%E8%AF%AD.md",
+  "bytes": 3296,
+  "sha256": "79cd19af83141014"
+ },
+ {
+  "id": "O91",
+  "name": "绿皮书（Green Book）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 独立年代 2010–2019",
+   "长什么样": "一张「南方问候」亚麻纹明信片活了过来：布纹纸、喷枪上的饱和色、镀铬上的星形闪光。影片是 1962 年穿越美国南方的公路旅行，走的正是这种明信片上的路。",
+   "风格": "60 年代亚麻纹明信片",
+   "关键词": "2D",
+   "年份": "2018"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O91_%E7%BB%BF%E7%9A%AE%E4%B9%A6.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O91_%E7%BB%BF%E7%9A%AE%E4%B9%A6.md",
+  "bytes": 3130,
+  "sha256": "fe47f46f4880cc20"
+ },
+ {
+  "id": "O92",
+  "name": "寄生虫（Parasite）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 独立年代 2010–2019",
+   "长什么样": "一张剖开首尔山坡的建筑剖面图：山顶的玻璃豪宅、地下的秘密掩体、一路通到被淹的半地下室，细线、柔和的材质色。《寄生虫》建在这种上下的阶级落差上，一张图装下整部片。",
+   "风格": "建筑剖面轴测图",
+   "关键词": "2D",
+   "年份": "2019"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O92_%E5%AF%84%E7%94%9F%E8%99%AB.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O92_%E5%AF%84%E7%94%9F%E8%99%AB.md",
+  "bytes": 3370,
+  "sha256": "3c617f45e7412019"
+ },
+ {
+  "id": "O93",
+  "name": "无依之地（Nomadland）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 此时此刻 2020–2025",
+   "长什么样": "灰紫色纸上的粉质色粉笔触，一片开阔的平原和一辆旧房车，天空从金黄变成玫瑰色再到紫色。《无依之地》就活在黄昏那条又长又空的地平线上，色粉让它安静、柔和。",
+   "风格": "魔幻时刻色粉画",
+   "关键词": "2D",
+   "年份": "2020"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O93_%E6%97%A0%E4%BE%9D%E4%B9%8B%E5%9C%B0.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O93_%E6%97%A0%E4%BE%9D%E4%B9%8B%E5%9C%B0.md",
+  "bytes": 2868,
+  "sha256": "c857e5c42291cd78"
+ },
+ {
+  "id": "O94",
+  "name": "健听女孩（CODA）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 此时此刻 2020–2025",
+   "长什么样": "橡木桌上一颗抛光的抹香鲸牙，刻着细密的黑线，点缀红、蓝、黄：格洛斯特的渔船、收网的一家人、船头唱歌的鲁比。这是影片所在的新英格兰海岸自己的民间工艺。",
+   "风格": "鲸牙骨雕（Scrimshaw）",
+   "关键词": "2D",
+   "年份": "2021"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O94_%E5%81%A5%E5%90%AC%E5%A5%B3%E5%AD%A9.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O94_%E5%81%A5%E5%90%AC%E5%A5%B3%E5%AD%A9.md",
+  "bytes": 3025,
+  "sha256": "f54cb189f0518bae"
+ },
+ {
+  "id": "O95",
+  "name": "瞬息全宇宙（Everything Everywhere All at Once）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 此时此刻 2020–2025",
+   "长什么样": "四个宇宙四种画法，全部实时光线步进：冷绿的国税局、广告光下的热狗手指钢琴、贴大眼睛石头的寂静峡谷、变成黑洞的万物贝果。像电影里一样，靠大眼睛贴纸在宇宙间跳转。",
+   "风格": "光线步进多元宇宙跳切",
+   "关键词": "3D",
+   "年份": "2022"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O95_%E7%9E%AC%E6%81%AF%E5%85%A8%E5%AE%87%E5%AE%99.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O95_%E7%9E%AC%E6%81%AF%E5%85%A8%E5%AE%87%E5%AE%99.md",
+  "bytes": 4086,
+  "sha256": "591a5b348a555d7c"
+ },
+ {
+  "id": "O96",
+  "name": "奥本海默（Oppenheimer）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 此时此刻 2020–2025",
+   "长什么样": "用实时 3D 重建黎明前的三位一体试验场：约 72 万粒子的火球、轨道和波组成的量子幻象，深蓝夜色对橙金火光，加 IMAX 式颗粒。《奥本海默》就围着这一道光展开。",
+   "风格": "3D 粒子火球 · IMAX 颗粒",
+   "关键词": "3D",
+   "年份": "2023"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O96_%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O96_%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98.md",
+  "bytes": 3459,
+  "sha256": "a3dd2b56005d0c84"
+ },
+ {
+  "id": "O97",
+  "name": "阿诺拉（Anora）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 此时此刻 2020–2025",
+   "长什么样": "粉、青、橙的霓虹灯管发着光，倒影拖在湿栈道上，落进飘雪里，加上辉光、虚焦光斑和颗粒。《阿诺拉》从布莱顿海滩的俄文霓虹走到维加斯的婚礼招牌，整段都用灯管照亮。",
+   "风格": "雪夜霓虹",
+   "关键词": "2D",
+   "年份": "2024"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O97_%E9%98%BF%E8%AF%BA%E6%8B%89.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O97_%E9%98%BF%E8%AF%BA%E6%8B%89.md",
+  "bytes": 3299,
+  "sha256": "72ea82970ec66c55"
+ },
+ {
+  "id": "O98",
+  "name": "一战再战（One Battle After Another）",
+  "category": "O_奥斯卡98部",
+  "meta": {
+   "分类": "O 奥斯卡 98 部 · 此时此刻 2020–2025",
+   "长什么样": "实时 3D 的沙漠公路，像过山车一样一起一伏，三辆车翻着一道道坡追逐，用超长焦拍，带热浪、漂白的强光和细颗粒。复刻的是这部片最有名的段落：起伏公路追车。",
+   "风格": "3D 起伏公路追车 · 长焦压缩",
+   "关键词": "3D",
+   "年份": "2025"
+  },
+  "image": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O98_%E4%B8%80%E6%88%98%E5%86%8D%E6%88%98.jpg",
+  "file": "O_%E5%A5%A5%E6%96%AF%E5%8D%A198%E9%83%A8/O98_%E4%B8%80%E6%88%98%E5%86%8D%E6%88%98.md",
+  "bytes": 3552,
+  "sha256": "10a3a4b308b4d170"
+ },
+ {
+  "id": "R1",
+  "name": "霓虹雨夜 · 电影感",
+  "category": "R_照参考学来的",
+  "meta": {
+   "分类": "R 照参考学来的 · 赛博朋克（第一批）",
+   "长什么样": "一点透视的雨夜窄街，两边挂满竖招牌，青色的雾越远越浓，街尽头一团暖光；湿地面上的倒影占了半个画面。"
+  },
+  "image": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R1_%E9%9C%93%E8%99%B9%E9%9B%A8%E5%A4%9C%20%C2%B7%20%E7%94%B5%E5%BD%B1%E6%84%9F.jpg",
+  "file": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R1_%E9%9C%93%E8%99%B9%E9%9B%A8%E5%A4%9C%20%C2%B7%20%E7%94%B5%E5%BD%B1%E6%84%9F.md",
+  "bytes": 795,
+  "sha256": "9a92da20ab172390"
+ },
+ {
+  "id": "R2",
+  "name": "80–90 年代复古日漫",
+  "category": "R_照参考学来的",
+  "meta": {
+   "分类": "R 照参考学来的 · 赛博朋克（第一批）",
+   "长什么样": "赛璐珞画的人和车在夜里的高架上飞驰，仰着看的高楼，尾灯拖出两条光带，整片像老录像带放出来的。"
+  },
+  "image": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R2_80%E2%80%9390%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E6%97%A5%E6%BC%AB.jpg",
+  "file": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R2_80%E2%80%9390%20%E5%B9%B4%E4%BB%A3%E5%A4%8D%E5%8F%A4%E6%97%A5%E6%BC%AB.md",
+  "bytes": 765,
+  "sha256": "bd3ac119f2b9527e"
+ },
+ {
+  "id": "R3",
+  "name": "美式漫画 · 潮流涂鸦",
+  "category": "R_照参考学来的",
+  "meta": {
+   "分类": "R 照参考学来的 · 赛博朋克（第一批）",
+   "长什么样": "黄底，品红和青的闪电劈开画面，网点、喷漆、往外炸的速度线；粗黑描边的人一拳打出画面，旁边一个大拟声字。"
+  },
+  "image": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R3_%E7%BE%8E%E5%BC%8F%E6%BC%AB%E7%94%BB%20%C2%B7%20%E6%BD%AE%E6%B5%81%E6%B6%82%E9%B8%A6.jpg",
+  "file": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R3_%E7%BE%8E%E5%BC%8F%E6%BC%AB%E7%94%BB%20%C2%B7%20%E6%BD%AE%E6%B5%81%E6%B6%82%E9%B8%A6.md",
+  "bytes": 747,
+  "sha256": "289c281bae051abe"
+ },
+ {
+  "id": "R4",
+  "name": "末日工业 · 暗黑科幻",
+  "category": "R_照参考学来的",
+  "meta": {
+   "分类": "R 照参考学来的 · 赛博朋克（第一批）",
+   "长什么样": "几乎只有绿；巨大的机械结构一层层叠进雾里，远处一个大圆环，顶上漏下光柱；走道上一个穿红衣、背着包的小人背对镜头。"
+  },
+  "image": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R4_%E6%9C%AB%E6%97%A5%E5%B7%A5%E4%B8%9A%20%C2%B7%20%E6%9A%97%E9%BB%91%E7%A7%91%E5%B9%BB.jpg",
+  "file": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R4_%E6%9C%AB%E6%97%A5%E5%B7%A5%E4%B8%9A%20%C2%B7%20%E6%9A%97%E9%BB%91%E7%A7%91%E5%B9%BB.md",
+  "bytes": 744,
+  "sha256": "15731a86734f81a0"
+ },
+ {
+  "id": "R5",
+  "name": "像素赛博 · 复古游戏",
+  "category": "R_照参考学来的",
+  "meta": {
+   "分类": "R 照参考学来的 · 赛博朋克（第一批）",
+   "长什么样": "俯看一条满是招牌的街，天桥横过去，街尽头一块\"不夜城\"大屏，打伞的人、小车、飞车，下着像素雨。"
+  },
+  "image": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R5_%E5%83%8F%E7%B4%A0%E8%B5%9B%E5%8D%9A%20%C2%B7%20%E5%A4%8D%E5%8F%A4%E6%B8%B8%E6%88%8F.jpg",
+  "file": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R5_%E5%83%8F%E7%B4%A0%E8%B5%9B%E5%8D%9A%20%C2%B7%20%E5%A4%8D%E5%8F%A4%E6%B8%B8%E6%88%8F.md",
+  "bytes": 801,
+  "sha256": "1b80c44b18bb91b5"
+ },
+ {
+  "id": "R6",
+  "name": "东方赛博 · 国风幻想",
+  "category": "R_照参考学来的",
+  "meta": {
+   "分类": "R 照参考学来的 · 赛博朋克（第一批）",
+   "长什么样": "纸色的天，一轮大红日头，一行鹤飞过；水边一座五层飞檐楼阁，身上挂着\"不夜城\"\"酒家\"霓虹竖招牌和一块屏，塔尖套着青色的全息光环；后面是淡墨的未来塔楼和山，电缆上挂着一串串小红灯笼；水上一叶小船、一个戴斗笠的人，倒影像水墨一样化开。"
+  },
+  "image": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R6_%E4%B8%9C%E6%96%B9%E8%B5%9B%E5%8D%9A%20%C2%B7%20%E5%9B%BD%E9%A3%8E%E5%B9%BB%E6%83%B3.jpg",
+  "file": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R6_%E4%B8%9C%E6%96%B9%E8%B5%9B%E5%8D%9A%20%C2%B7%20%E5%9B%BD%E9%A3%8E%E5%B9%BB%E6%83%B3.md",
+  "bytes": 1176,
+  "sha256": "b40f56414b17854d"
+ },
+ {
+  "id": "R7",
+  "name": "扁平插画 · 黄昏屋顶",
+  "category": "R_照参考学来的",
+  "meta": {
+   "分类": "R 照参考学来的 · 赛博朋克（第一批）",
+   "长什么样": "黄昏的大渐变天，三层平涂的城市剪影，屋顶上一块\"夜城\"大霓虹字，一个人和一只猫坐在楼边，后面一列轻轨开过。"
+  },
+  "image": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R7_%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB%20%C2%B7%20%E9%BB%84%E6%98%8F%E5%B1%8B%E9%A1%B6.jpg",
+  "file": "R_%E7%85%A7%E5%8F%82%E8%80%83%E5%AD%A6%E6%9D%A5%E7%9A%84/R7_%E6%89%81%E5%B9%B3%E6%8F%92%E7%94%BB%20%C2%B7%20%E9%BB%84%E6%98%8F%E5%B1%8B%E9%A1%B6.md",
+  "bytes": 705,
+  "sha256": "7bbbb1b65571f8ff"
+ },
+ {
+  "id": "V1",
+  "name": "逐帧手绘 / 抖动线条（Frame-by-Frame / Line Boil）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "手绘感，温暖"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V1_%E9%80%90%E5%B8%A7%E6%89%8B%E7%BB%98%20%C2%B7%20%E6%8A%96%E5%8A%A8%E7%BA%BF%E6%9D%A1.md",
+  "bytes": 7950,
+  "sha256": "ec812502f6e2bfd0"
+ },
+ {
+  "id": "V2",
+  "name": "等距 2.5D（Isometric 2.5D）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "一个小世界慢慢长出来"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V2_%E7%AD%89%E8%B7%9D%202.5D.md",
+  "bytes": 8112,
+  "sha256": "f754e945057e10ef"
+ },
+ {
+  "id": "V3",
+  "name": "扁平矢量（Flat Vector）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "扁平的\"我\"（K1）"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V3_%E6%89%81%E5%B9%B3%E7%9F%A2%E9%87%8F.md",
+  "bytes": 8378,
+  "sha256": "a6008465517479a6"
+ },
+ {
+  "id": "V4",
+  "name": "线条画（Line Art）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "一条线画下去"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V4_%E7%BA%BF%E6%9D%A1%E7%94%BB.md",
+  "bytes": 7889,
+  "sha256": "b349f0d72ffe66b6"
+ },
+ {
+  "id": "V5",
+  "name": "3D 渲染（3D Render）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "柔和的 3D，要装 Blender"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V5_3D%20%E6%B8%B2%E6%9F%93.md",
+  "bytes": 8012,
+  "sha256": "14bf0bb01d8bdf11"
+ },
+ {
+  "id": "V6",
+  "name": "形变（Shape Morph）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "一个形状接连变成 6–8 个有意义的图标，比如咖啡杯→太阳→海上日落→海鸥→纸飞机→定位针→心，和 M38 一起看"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V6_%E5%BD%A2%E5%8F%98.md",
+  "bytes": 7690,
+  "sha256": "c63e68216cbc41b9"
+ },
+ {
+  "id": "V7",
+  "name": "贴纸讲解（Sticker Explainer）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "轻松的讲解"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V7_%E8%B4%B4%E7%BA%B8%E8%AE%B2%E8%A7%A3.md",
+  "bytes": 8148,
+  "sha256": "31918e3ff5abd241"
+ },
+ {
+  "id": "V8",
+  "name": "赛博朋克界面（Cyberpunk HUD / FUI）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "科幻界面"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V8_%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E7%95%8C%E9%9D%A2.md",
+  "bytes": 7893,
+  "sha256": "a35d165df6689380"
+ },
+ {
+  "id": "V9",
+  "name": "拼贴 / 剪贴（Collage / Cut-out）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "剪报、回忆"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V9_%E6%8B%BC%E8%B4%B4%20%C2%B7%20%E5%89%AA%E8%B4%B4.md",
+  "bytes": 7875,
+  "sha256": "4d8eb2621faa8e6a"
+ },
+ {
+  "id": "V10",
+  "name": "极光与毛玻璃（Aurora & Glassmorphism）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "柔和发光，安静的段落"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V10_%E6%9E%81%E5%85%89%E4%B8%8E%E6%AF%9B%E7%8E%BB%E7%92%83.md",
+  "bytes": 7988,
+  "sha256": "cf10181147c72ed9"
+ },
+ {
+  "id": "V11",
+  "name": "包豪斯几何（Geometric Bauhaus）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "几何、设计感"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V11_%E5%8C%85%E8%B1%AA%E6%96%AF%E5%87%A0%E4%BD%95.md",
+  "bytes": 8099,
+  "sha256": "5c30fde570fc8bc7"
+ },
+ {
+  "id": "V12",
+  "name": "80 年代合成波 / VHS（80s Synthwave / VHS）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "复古霓虹、录像带"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V12_80%20%E5%B9%B4%E4%BB%A3%E5%90%88%E6%88%90%E6%B3%A2%20%C2%B7%20VHS.md",
+  "bytes": 8089,
+  "sha256": "97124d445c3e5879"
+ },
+ {
+  "id": "V13",
+  "name": "像素（Pixel Art）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "回忆、游戏感"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V13_%E5%83%8F%E7%B4%A0.md",
+  "bytes": 7723,
+  "sha256": "3eed82912a91ffca"
+ },
+ {
+  "id": "V14",
+  "name": "液态流动（Liquid Motion）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "柔软的转场、情绪流动"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V14_%E6%B6%B2%E6%80%81%E6%B5%81%E5%8A%A8.md",
+  "bytes": 7759,
+  "sha256": "92ed318f86c35c7c"
+ },
+ {
+  "id": "V15",
+  "name": "综艺花字（Variety Captions）",
+  "category": "V_mg-styles-15",
+  "meta": {
+   "分类": "V mg-styles-15 · mg-styles-15",
+   "适合": "9:16 竖屏的综艺花字，竖屏版字幕可以参考"
+  },
+  "image": null,
+  "file": "V_mg-styles-15/V15_%E7%BB%BC%E8%89%BA%E8%8A%B1%E5%AD%97.md",
+  "bytes": 8096,
+  "sha256": "ad55084d2ff0fed0"
+ },
+ {
+  "id": "X1",
+  "name": "手绘（Hand-drawn）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "讲解、记录"
+  },
+  "image": null,
+  "file": "X_code-video/X1_%E6%89%8B%E7%BB%98.md",
+  "bytes": 1970,
+  "sha256": "81b5bacea246c8e0"
+ },
+ {
+  "id": "X2",
+  "name": "品牌动态图形（Brand motion graphics）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "频道片头"
+  },
+  "image": null,
+  "file": "X_code-video/X2_%E5%93%81%E7%89%8C%E5%8A%A8%E6%80%81%E5%9B%BE%E5%BD%A2.md",
+  "bytes": 2001,
+  "sha256": "d242541e35deb31b"
+ },
+ {
+  "id": "X3",
+  "name": "沙画（Sand art）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "回忆、情绪，感受讲解很合适"
+  },
+  "image": null,
+  "file": "X_code-video/X3_%E6%B2%99%E7%94%BB.md",
+  "bytes": 1791,
+  "sha256": "e9647469bf0b4a51"
+ },
+ {
+  "id": "X4",
+  "name": "歌词 MV（Lyric music video）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "金句、配乐段"
+  },
+  "image": null,
+  "file": "X_code-video/X4_%E6%AD%8C%E8%AF%8D%20MV.md",
+  "bytes": 1966,
+  "sha256": "4e1ff1814cafaa86"
+ },
+ {
+  "id": "X5",
+  "name": "卡点素材剪辑（Beat-synced footage）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "快剪"
+  },
+  "image": null,
+  "file": "X_code-video/X5_%E5%8D%A1%E7%82%B9%E7%B4%A0%E6%9D%90%E5%89%AA%E8%BE%91.md",
+  "bytes": 2195,
+  "sha256": "c628bb9e06f50472"
+ },
+ {
+  "id": "X6",
+  "name": "界面形变（UI morph）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "演示工具"
+  },
+  "image": null,
+  "file": "X_code-video/X6_%E7%95%8C%E9%9D%A2%E5%BD%A2%E5%8F%98.md",
+  "bytes": 1615,
+  "sha256": "dc16f18f27a7bf0a"
+ },
+ {
+  "id": "X7",
+  "name": "英雄漫画（Hero comic）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "热血、转折"
+  },
+  "image": null,
+  "file": "X_code-video/X7_%E8%8B%B1%E9%9B%84%E6%BC%AB%E7%94%BB.md",
+  "bytes": 1324,
+  "sha256": "1382744e1e1ef291"
+ },
+ {
+  "id": "X8",
+  "name": "手账剪贴本（Scrapbook）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "记录这三个月"
+  },
+  "image": null,
+  "file": "X_code-video/X8_%E6%89%8B%E8%B4%A6%E5%89%AA%E8%B4%B4%E6%9C%AC.md",
+  "bytes": 1228,
+  "sha256": "5aa1fee5214590c8"
+ },
+ {
+  "id": "X9",
+  "name": "撕纸拼贴（Torn-paper collage）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "回忆、拼凑"
+  },
+  "image": null,
+  "file": "X_code-video/X9_%E6%92%95%E7%BA%B8%E6%8B%BC%E8%B4%B4.md",
+  "bytes": 1762,
+  "sha256": "1e4a931008ab8bdf"
+ },
+ {
+  "id": "X10",
+  "name": "粒子（Particles）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "氛围"
+  },
+  "image": null,
+  "file": "X_code-video/X10_%E7%B2%92%E5%AD%90.md",
+  "bytes": 1075,
+  "sha256": "7c39219706c220ee"
+ },
+ {
+  "id": "X11",
+  "name": "翻牌显示板（Split-flap board）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "机场那种翻牌，适合标题和数字"
+  },
+  "image": null,
+  "file": "X_code-video/X11_%E7%BF%BB%E7%89%8C%E6%98%BE%E7%A4%BA%E6%9D%BF.md",
+  "bytes": 1152,
+  "sha256": "c32305d36758208b"
+ },
+ {
+  "id": "X12",
+  "name": "霓虹灯牌（Neon sign）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "金句"
+  },
+  "image": null,
+  "file": "X_code-video/X12_%E9%9C%93%E8%99%B9%E7%81%AF%E7%89%8C.md",
+  "bytes": 1020,
+  "sha256": "31a85aba48f0fd5f"
+ },
+ {
+  "id": "X13",
+  "name": "16-bit 街机（16-bit arcade）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "游戏感"
+  },
+  "image": null,
+  "file": "X_code-video/X13_16-bit%20%E8%A1%97%E6%9C%BA.md",
+  "bytes": 1072,
+  "sha256": "3bb88ce21fc3743a"
+ },
+ {
+  "id": "X14",
+  "name": "CRT 终端（CRT terminal）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "讲代码、讲 AI"
+  },
+  "image": null,
+  "file": "X_code-video/X14_CRT%20%E7%BB%88%E7%AB%AF.md",
+  "bytes": 1066,
+  "sha256": "7ac205769f15f0cf"
+ },
+ {
+  "id": "X15",
+  "name": "热敏小票（Thermal receipt）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "清单、\"算一笔账\""
+  },
+  "image": null,
+  "file": "X_code-video/X15_%E7%83%AD%E6%95%8F%E5%B0%8F%E7%A5%A8.md",
+  "bytes": 1013,
+  "sha256": "2fe02d460698b921"
+ },
+ {
+  "id": "X16",
+  "name": "地铁线路图（Transit map）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "讲一路怎么走过来的，适合 04 段"
+  },
+  "image": null,
+  "file": "X_code-video/X16_%E5%9C%B0%E9%93%81%E7%BA%BF%E8%B7%AF%E5%9B%BE.md",
+  "bytes": 1047,
+  "sha256": "b4d81b9abdac7c4e"
+ },
+ {
+  "id": "X17",
+  "name": "蓝图（Blueprint）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "讲结构"
+  },
+  "image": null,
+  "file": "X_code-video/X17_%E8%93%9D%E5%9B%BE.md",
+  "bytes": 981,
+  "sha256": "f651c31fd400e9a2"
+ },
+ {
+  "id": "X18",
+  "name": "漫画书（Comic book issue）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "分格讲故事"
+  },
+  "image": null,
+  "file": "X_code-video/X18_%E6%BC%AB%E7%94%BB%E4%B9%A6.md",
+  "bytes": 4708,
+  "sha256": "5f1cdbe9829f5a74"
+ },
+ {
+  "id": "X19",
+  "name": "纪录片（Documentary）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "认真讲一件事"
+  },
+  "image": null,
+  "file": "X_code-video/X19_%E7%BA%AA%E5%BD%95%E7%89%87.md",
+  "bytes": 5821,
+  "sha256": "01bbb96ad03d23da"
+ },
+ {
+  "id": "X20",
+  "name": "博物馆展览（Museum exhibit）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "把东西一件件摆出来讲"
+  },
+  "image": null,
+  "file": "X_code-video/X20_%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B1%95%E8%A7%88.md",
+  "bytes": 5276,
+  "sha256": "000a2ee86af15214"
+ },
+ {
+  "id": "X21",
+  "name": "突发新闻（Breaking news）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "快讯开场"
+  },
+  "image": null,
+  "file": "X_code-video/X21_%E7%AA%81%E5%8F%91%E6%96%B0%E9%97%BB.md",
+  "bytes": 5374,
+  "sha256": "0ee68f6c4ec6b733"
+ },
+ {
+  "id": "X22",
+  "name": "侦探线索板（Detective board）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "把线索连起来，科普推理"
+  },
+  "image": null,
+  "file": "X_code-video/X22_%E4%BE%A6%E6%8E%A2%E7%BA%BF%E7%B4%A2%E6%9D%BF.md",
+  "bytes": 4820,
+  "sha256": "89b54fd640e365c2"
+ },
+ {
+  "id": "X23",
+  "name": "绘本（Picture storybook）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "温暖地讲故事"
+  },
+  "image": null,
+  "file": "X_code-video/X23_%E7%BB%98%E6%9C%AC.md",
+  "bytes": 5160,
+  "sha256": "4ab61462043ed5f0"
+ },
+ {
+  "id": "X24",
+  "name": "RPG 任务（RPG quest）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "学习像做任务"
+  },
+  "image": null,
+  "file": "X_code-video/X24_RPG%20%E4%BB%BB%E5%8A%A1.md",
+  "bytes": 4613,
+  "sha256": "550d62f2d2010800"
+ },
+ {
+  "id": "X25",
+  "name": "天气预报（Weather forecast）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "用天气讲情绪，感受讲解很合适"
+  },
+  "image": null,
+  "file": "X_code-video/X25_%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5.md",
+  "bytes": 4371,
+  "sha256": "f3ccf054bb27ed1c"
+ },
+ {
+  "id": "X26",
+  "name": "电视购物（Home-shopping infomercial）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "讽刺卖课的，06 段可以试"
+  },
+  "image": null,
+  "file": "X_code-video/X26_%E7%94%B5%E8%A7%86%E8%B4%AD%E7%89%A9.md",
+  "bytes": 5818,
+  "sha256": "18aa5ce046d6af22"
+ },
+ {
+  "id": "X27",
+  "name": "体育直播（Sports broadcast）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "解说感"
+  },
+  "image": null,
+  "file": "X_code-video/X27_%E4%BD%93%E8%82%B2%E7%9B%B4%E6%92%AD.md",
+  "bytes": 5696,
+  "sha256": "83db0f738b274212"
+ },
+ {
+  "id": "X28",
+  "name": "组装说明书（Assembly manual）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "讲步骤，宜家说明书那种"
+  },
+  "image": null,
+  "file": "X_code-video/X28_%E7%BB%84%E8%A3%85%E8%AF%B4%E6%98%8E%E4%B9%A6.md",
+  "bytes": 5062,
+  "sha256": "3438f084302a0a2b"
+ },
+ {
+  "id": "X29",
+  "name": "白板讲课（Whiteboard lecture）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "讲道理"
+  },
+  "image": null,
+  "file": "X_code-video/X29_%E7%99%BD%E6%9D%BF%E8%AE%B2%E8%AF%BE.md",
+  "bytes": 4404,
+  "sha256": "59799e69e0848dc7"
+ },
+ {
+  "id": "X30",
+  "name": "电影预告片（Movie trailer）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "下期预告、频道预告，11 段可以试"
+  },
+  "image": null,
+  "file": "X_code-video/X30_%E7%94%B5%E5%BD%B1%E9%A2%84%E5%91%8A%E7%89%87.md",
+  "bytes": 5209,
+  "sha256": "dced129fc0ede1c6"
+ },
+ {
+  "id": "X31",
+  "name": "数学证明讲课（Math proof lecture）",
+  "category": "X_code-video",
+  "meta": {
+   "分类": "X code-video · code-video",
+   "适合": "一步步推出结论"
+  },
+  "image": null,
+  "file": "X_code-video/X31_%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E%E8%AE%B2%E8%AF%BE.md",
+  "bytes": 5068,
+  "sha256": "42a959581c50dbf8"
+ },
+ {
+  "id": "Z1",
+  "name": "水墨",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "水墨晕染，留白，竹林 / ink wash, negative space"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z1_%E6%B0%B4%E5%A2%A8.md",
+  "bytes": 203,
+  "sha256": "c68629e044322080"
+ },
+ {
+  "id": "Z2",
+  "name": "工笔",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "细腻笔触，色彩鲜艳，牡丹 / gongbi, fine brushwork"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z2_%E5%B7%A5%E7%AC%94.md",
+  "bytes": 211,
+  "sha256": "b230995799a6728e"
+ },
+ {
+  "id": "Z3",
+  "name": "写意",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "大笔挥洒，意到笔不到 / xieyi, expressive brush"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z3_%E5%86%99%E6%84%8F.md",
+  "bytes": 201,
+  "sha256": "483bf8ef8b2fddd1"
+ },
+ {
+  "id": "Z4",
+  "name": "山水",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "壮丽山景，流水，古亭 / shan shui, mountains, pavilions"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z4_%E5%B1%B1%E6%B0%B4.md",
+  "bytes": 217,
+  "sha256": "015d2f1d4cd1216b"
+ },
+ {
+  "id": "Z5",
+  "name": "剪纸",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "红纸镂空，民间纹样 / Chinese paper cutting"
+  },
+  "image": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z5_%E5%89%AA%E7%BA%B8.jpg",
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z5_%E5%89%AA%E7%BA%B8.md",
+  "bytes": 4756,
+  "sha256": "fc73b263bac6473b"
+ },
+ {
+  "id": "Z6",
+  "name": "年画",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "红灯笼，对联，喜庆 / New Year woodblock print"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z6_%E5%B9%B4%E7%94%BB.md",
+  "bytes": 197,
+  "sha256": "39d2a4aba74bb3ab"
+ },
+ {
+  "id": "Z7",
+  "name": "皮影",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "镂空剪影，光后面演，关节能动 / shadow puppetry（动起来见 M12）"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z7_%E7%9A%AE%E5%BD%B1.md",
+  "bytes": 253,
+  "sha256": "4337ed3d97133c9e"
+ },
+ {
+  "id": "Z8",
+  "name": "敦煌",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "壁画色，飞天，矿物颜料 / Dunhuang mural"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z8_%E6%95%A6%E7%85%8C.md",
+  "bytes": 189,
+  "sha256": "db482af36f29bbe8"
+ },
+ {
+  "id": "Z9",
+  "name": "青花",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "白底蓝花，瓷器纹样 / blue and white porcelain"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z9_%E9%9D%92%E8%8A%B1.md",
+  "bytes": 197,
+  "sha256": "b12952febf66a08c"
+ },
+ {
+  "id": "Z10",
+  "name": "木版画",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "木刻线条，套色 / woodblock print"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z10_%E6%9C%A8%E7%89%88%E7%94%BB.md",
+  "bytes": 171,
+  "sha256": "221c125b8450bff1"
+ },
+ {
+  "id": "Z11",
+  "name": "京剧脸谱",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "脸谱纹样，浓烈色块 / Peking opera mask"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z11_%E4%BA%AC%E5%89%A7%E8%84%B8%E8%B0%B1.md",
+  "bytes": 190,
+  "sha256": "af489a9ba872a26a"
+ },
+ {
+  "id": "Z12",
+  "name": "书法",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "毛笔字一笔笔写出来 / calligraphy stroke animation"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z12_%E4%B9%A6%E6%B3%95.md",
+  "bytes": 206,
+  "sha256": "7ed601b7cd94bd8b"
+ },
+ {
+  "id": "Z13",
+  "name": "水墨漫画",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "毛笔线条加水墨晕染的漫画 / ink-brush comic"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z13_%E6%B0%B4%E5%A2%A8%E6%BC%AB%E7%94%BB.md",
+  "bytes": 204,
+  "sha256": "aae45700b58b6e77"
+ },
+ {
+  "id": "Z14",
+  "name": "彩铅手绘",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "彩铅排线，纸张纹理 / colored pencil on textured paper"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z14_%E5%BD%A9%E9%93%85%E6%89%8B%E7%BB%98.md",
+  "bytes": 220,
+  "sha256": "69dca6c7841a0c60"
+ },
+ {
+  "id": "Z15",
+  "name": "温暖水彩科普卡",
+  "category": "Z_中国风",
+  "meta": {
+   "分类": "Z 中国风 · 中国风",
+   "长什么样": "柔和水彩晕染，友好易懂的造型，适合做科普卡片 / warm friendly watercolor educational card"
+  },
+  "image": null,
+  "file": "Z_%E4%B8%AD%E5%9B%BD%E9%A3%8E/Z15_%E6%B8%A9%E6%9A%96%E6%B0%B4%E5%BD%A9%E7%A7%91%E6%99%AE%E5%8D%A1.md",
+  "bytes": 325,
+  "sha256": "66b88cd9007f087d"
+ }
+]
