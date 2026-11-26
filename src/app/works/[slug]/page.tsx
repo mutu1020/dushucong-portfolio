@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound, redirect } from "next/navigation";
 import { assetUrl } from "@/lib/base-path";
-import { getNextWork, getWork, works } from "@/lib/content";
+import { assetLibraryImages, getNextWork, getWork, works } from "@/lib/content";
 import { resolveFigure, resolveFigures } from "@/lib/stills";
 
 type Params = { slug: string };
@@ -37,6 +37,15 @@ export default async function WorkPage({ params }: { params: Promise<Params> }) 
   const next = getNextWork(work.slug);
   const cover = resolveFigures(work.figures)[0];
   const hasFilm = work.slug === "ai-custom-emoji";
+  const isAssetLibrary = work.slug === "asset-library";
+  const assetSpans = [
+    "md:col-span-8",
+    "md:col-span-4 md:mt-16",
+    "md:col-span-6 md:-mt-4",
+    "md:col-span-6 md:mt-10",
+    "md:col-span-5 md:col-start-2 md:mt-2",
+    "md:col-span-7 md:mt-12",
+  ];
   const frames = (work.shots ?? [])
     .map((shot) => ({ ...shot, src: shot.figure ? resolveFigure(shot.figure) : undefined }))
     .filter((shot) => shot.src);
@@ -65,6 +74,27 @@ export default async function WorkPage({ params }: { params: Promise<Params> }) 
         </ol>
         <p className="font-mono text-[11px] tracking-[0.18em] text-[#e5ca7e]">{work.code ?? work.index}</p>
       </header>
+      {isAssetLibrary ? (
+        <div className="mx-auto max-w-6xl px-4 pb-4 pt-2 sm:px-6">
+          <p className="font-mono text-[11px] tracking-[0.22em] text-[#e5ca7e]">
+            {work.index} / {work.filedAs}
+          </p>
+          <h1 className="font-drama mt-4 max-w-xl text-4xl leading-tight text-[#f6eddf] sm:text-5xl">{work.title}</h1>
+          {work.note ? <p className="mt-6 max-w-xl text-base leading-8 text-[#f6eddf]/80">{work.note}</p> : null}
+          <div className="mt-10 grid grid-cols-1 items-start gap-x-5 gap-y-8 md:grid-cols-12">
+            {assetLibraryImages.map((file, index) => (
+              <figure key={file} className={`overflow-hidden rounded-[1.35rem] bg-[#10141c] ring-1 ring-white/10 ${assetSpans[index] ?? "md:col-span-6"}`}>
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={assetUrl(file)}
+                  alt=""
+                  className={`w-full object-contain ${index === 0 ? "max-h-[72vh]" : "max-h-[52vh]"}`}
+                />
+              </figure>
+            ))}
+          </div>
+        </div>
+      ) : (
       <div className="mx-auto grid max-w-6xl items-end gap-8 px-4 pb-8 pt-2 sm:px-6 lg:grid-cols-[minmax(0,0.82fr)_minmax(0,1.18fr)]">
         {hasFilm ? (
           <video
@@ -106,8 +136,9 @@ export default async function WorkPage({ params }: { params: Promise<Params> }) 
           ) : null}
         </div>
       </div>
+      )}
 
-      {frames.length > 0 || extra.length > 0 ? (
+      {!isAssetLibrary && (frames.length > 0 || extra.length > 0) ? (
         <div className="mx-auto grid max-w-6xl gap-8 px-4 py-16 sm:px-6">
           {frames.map((shot) => (
             <figure key={shot.code} className="overflow-hidden rounded-[1.35rem] ring-1 ring-white/10">

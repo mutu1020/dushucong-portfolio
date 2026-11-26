@@ -173,7 +173,29 @@ export const works: Work[] = [
     fit: "contain",
     practice: false,
   },
+  {
+    index: "09",
+    slug: "asset-library",
+    title: "素材库",
+    navTitle: "素材库",
+    category: "素材库",
+    filedAs: "音乐与音效",
+    tone: "mist",
+    note: "网站列表和曲目封面是收集的音乐与音效素材库，不是本站署名的原创作品。",
+    cover: assetUrl("/works/asset-library/19-asset-library-01.png"),
+    fit: "contain",
+    practice: false,
+  },
 ];
+
+export const assetLibraryImages = [
+  "/works/asset-library/19-asset-library-01.png",
+  "/works/asset-library/20-asset-library-02.png",
+  "/works/asset-library/21-asset-library-03.png",
+  "/works/asset-library/22-asset-library-04.png",
+  "/works/asset-library/23-asset-library-05.png",
+  "/works/asset-library/24-asset-library-06.png",
+] as const;
 
 export const libraryModule: Work = {
   index: "08",

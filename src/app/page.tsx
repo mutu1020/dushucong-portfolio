@@ -25,11 +25,17 @@ const placements: Record<string, { span: string; shape: "portrait" | "landscape"
   "a-system-for-ideas": { span: "md:col-span-8 md:-mt-4", shape: "landscape" },
   "visual-materials": { span: "md:col-span-6 md:mt-16", shape: "portrait" },
   "style-library": { span: "md:col-span-6 md:mt-4", shape: "square" },
+  "asset-library": { span: "md:col-span-7 md:mt-14", shape: "landscape" },
 };
 
 export default function HomePage() {
   const hasQr = fs.existsSync(path.join(process.cwd(), "public", "wechat-qr.png"));
-  const reel = [...works, libraryModule];
+  const assetLibrary = works.find((work) => work.slug === "asset-library");
+  const reel = [
+    ...works.filter((work) => work.slug !== "asset-library"),
+    libraryModule,
+    ...(assetLibrary ? [assetLibrary] : []),
+  ];
 
   return (
     <div className="relative">
@@ -43,7 +49,7 @@ export default function HomePage() {
             <p className="font-mono text-[11px] tracking-[0.28em] text-[#e5ca7e]">FEATURED WORKS</p>
             <h2 className="mt-3 text-3xl text-[#f6eddf] sm:text-5xl">精选作品与工作方法</h2>
           </div>
-          <p className="font-mono text-[11px] tracking-[0.2em] text-[#f6eddf]/45">08</p>
+          <p className="font-mono text-[11px] tracking-[0.2em] text-[#f6eddf]/45">09</p>
         </div>
         <div className="mt-10 grid grid-cols-1 items-start gap-x-5 gap-y-8 md:grid-cols-12">
           {reel.map((work) => {
