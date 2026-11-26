@@ -12,7 +12,6 @@ const scenes: Record<string, string> = {
   "libtv-ai-portrait": "bg-[radial-gradient(ellipse_at_70%_15%,#7d8b9c_0%,#1c2836_46%,#050913_80%)]",
   "duxinshu-storyboard": "bg-[radial-gradient(ellipse_at_30%_70%,#4d5a40_0%,#14180f_48%,#050913_82%)]",
   "find-the-next-story": "bg-[radial-gradient(ellipse_at_80%_30%,#5a4e3c_0%,#1a1612_50%,#050913_84%)]",
-  "benshuo-pingqianpan": "bg-[radial-gradient(ellipse_at_40%_20%,#6a5a48_0%,#1a1612_52%,#050913_84%)]",
   "a-system-for-ideas": "bg-[radial-gradient(ellipse_at_50%_0%,#465066_0%,#12161e_52%,#050913_86%)]",
 };
 

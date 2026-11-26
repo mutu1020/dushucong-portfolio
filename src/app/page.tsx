@@ -4,7 +4,7 @@ import Link from "next/link";
 import { ContactDesk } from "@/components/contact-desk";
 import { FilmModule } from "@/components/film-modules";
 import { HeroPortal } from "@/components/hero-portal";
-import { SelectedReels } from "@/components/selected-reels";
+import { FilmCoverflow } from "@/components/film-coverflow";
 import {
   careerEntries,
   libraryModule,
@@ -22,7 +22,6 @@ const placements: Record<string, { span: string; shape: "portrait" | "landscape"
   "libtv-ai-portrait": { span: "md:col-span-5 md:mt-24", shape: "portrait" },
   "duxinshu-storyboard": { span: "md:col-span-5 md:-mt-10", shape: "portrait" },
   "find-the-next-story": { span: "md:col-span-7 md:mt-14", shape: "landscape" },
-  "benshuo-pingqianpan": { span: "md:col-span-4 md:mt-6", shape: "square" },
   "a-system-for-ideas": { span: "md:col-span-8 md:-mt-4", shape: "landscape" },
   "visual-materials": { span: "md:col-span-6 md:mt-16", shape: "portrait" },
   "style-library": { span: "md:col-span-6 md:mt-4", shape: "square" },
@@ -44,15 +43,13 @@ export default function HomePage() {
     <div className="relative">
       <HeroPortal />
 
-      <SelectedReels />
-
       <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-20">
         <div className="flex items-end justify-between gap-6">
           <div>
             <p className="font-mono text-[11px] tracking-[0.28em] text-[#e5ca7e]">FEATURED WORKS</p>
             <h2 className="mt-3 text-3xl text-[#f6eddf] sm:text-5xl">精选作品与工作方法</h2>
           </div>
-          <p className="font-mono text-[11px] tracking-[0.2em] text-[#f6eddf]/45">10</p>
+          <p className="font-mono text-[11px] tracking-[0.2em] text-[#f6eddf]/45">09</p>
         </div>
         <div className="mt-10 grid grid-cols-1 items-start gap-x-5 gap-y-8 md:grid-cols-12">
           {reel.map((work) => {
@@ -63,6 +60,15 @@ export default function HomePage() {
               </div>
             );
           })}
+        </div>
+      </section>
+
+      <section id="works" className="overflow-x-hidden px-4 pb-8 pt-6 sm:px-6">
+        <div className="mx-auto max-w-6xl">
+          <p className="font-mono text-[11px] tracking-[0.28em] text-[#e5ca7e]">精选影像</p>
+        </div>
+        <div className="mt-6">
+          <FilmCoverflow />
         </div>
       </section>
 

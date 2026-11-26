@@ -33,7 +33,6 @@ export function FilmModule({
   const still = work.cover ?? resolveFigures(work.figures)[0];
   const focus =
     work.slug === "find-the-next-story" ||
-    work.slug === "benshuo-pingqianpan" ||
     work.slug === "a-system-for-ideas"
       ? "object-top"
       : "object-center";

@@ -77,7 +77,6 @@ export const works: Work[] = [
     category: "已发布作品",
     filedAs: "已发布作品 / 2025",
     tone: "sand",
-    role: "本人负责选题与脚本，团队完成成片。",
     metric: { value: "70 万", label: "自然播放量 · 作品总记录" },
     figures: ["01-ai-emoji-finished-frames", "01-ai-emoji-publish-record"],
     shots: [
@@ -133,18 +132,6 @@ export const works: Work[] = [
   },
   {
     index: "05",
-    slug: "benshuo-pingqianpan",
-    title: "本土说·屏前盘",
-    navTitle: "本土说·屏前盘",
-    cardEn: "MAKE.\nMEASURE.\nRETHINK.",
-    figures: ["05-mutu-weekly-review"],
-    category: "个人实验",
-    filedAs: "个人实验 / 2026 作品集",
-    tone: "clay",
-    practice: true,
-  },
-  {
-    index: "06",
     slug: "a-system-for-ideas",
     title: "素材与知识管理",
     navTitle: "素材与知识管理",
@@ -156,7 +143,7 @@ export const works: Work[] = [
     practice: true,
   },
   {
-    index: "07",
+    index: "06",
     slug: "visual-materials",
     title: "封面与内容视觉物料",
     navTitle: "封面与内容视觉物料",
@@ -174,7 +161,7 @@ export const works: Work[] = [
     practice: false,
   },
   {
-    index: "09",
+    index: "08",
     slug: "asset-library",
     title: "素材库",
     navTitle: "素材库",
@@ -198,7 +185,7 @@ export const assetLibraryImages = [
 ] as const;
 
 export const textPortfolioModule: Work = {
-  index: "10",
+  index: "09",
   slug: "text-portfolio",
   title: "文字版作品集",
   navTitle: "文字版作品集",
@@ -212,7 +199,7 @@ export const textPortfolioModule: Work = {
 };
 
 export const libraryModule: Work = {
-  index: "08",
+  index: "07",
   slug: "style-library",
   title: "341 画风库",
   navTitle: "341 画风库",
@@ -245,7 +232,6 @@ export const profileBody = [
   "杜书从，AI 内容编导与创作者。",
   "中国传媒大学（动漫设计）。",
   "作品集收录已发布成片、专题片与分镜脚本，以及研究文案、个人实验和工作方法。",
-  "已发布成片《AI 定制表情包》写明：本人负责选题与脚本，团队完成成片。",
 ];
 
 export const careerEntries = [
@@ -271,16 +257,12 @@ export const careerEntries = [
 
 export const systemCards = [
   {
-    title: "选题与脚本",
-    body: "已发布成片里，本人负责选题与脚本，团队完成成片。",
-  },
-  {
     title: "分镜脚本",
     body: "AI「读心术」归档为分镜脚本。画面标题是 FROM IDEA TO FRAME。",
   },
   {
     title: "研究与实验",
-    body: "选题与账号研究归档为研究文案。本土说·屏前盘归档为个人实验，画面标题是 MAKE. MEASURE. RETHINK.",
+    body: "选题与账号研究归档为研究文案。",
   },
   {
     title: "素材与方法",
@@ -293,7 +275,7 @@ export const timelineEntries = [
     rail: "2025",
     title: "AI 定制表情包",
     meta: "DS-W001 · 已发布作品",
-    body: "本人负责选题与脚本，团队完成成片。自然播放量 70 万。",
+    body: "自然播放量 70 万。",
     href: "/works/ai-custom-emoji",
   },
   {
@@ -314,7 +296,7 @@ export const timelineEntries = [
     rail: "2026",
     title: "研究、实验与工作方法",
     meta: "2026 作品集",
-    body: "选题与账号研究，研究文案。本土说·屏前盘，个人实验。素材与知识管理，工作方法。",
+    body: "选题与账号研究，研究文案。素材与知识管理，工作方法。",
     href: "/#works",
   },
 ];
