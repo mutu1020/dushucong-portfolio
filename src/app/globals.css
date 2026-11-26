@@ -208,15 +208,6 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  html {
-    scroll-snap-type: y proximity;
-  }
-
-  .snap-scene {
-    scroll-snap-align: start;
-    scroll-snap-stop: always;
-  }
-
   .hero-lens {
     background:
       radial-gradient(circle at 18% 0%, rgb(206 220 255 / 55%), transparent 28%),
@@ -466,7 +457,6 @@
 
   html {
     scroll-behavior: auto;
-    scroll-snap-type: none;
   }
 
   .hero-cursor,

@@ -15,7 +15,19 @@ const scenes: Record<string, string> = {
     "bg-[radial-gradient(ellipse_at_50%_0%,#3c4658_0%,#141820_50%,#070910_86%)]",
 };
 
-export function FilmModule({ work, featured = false }: { work: Work; featured?: boolean }) {
+const frameShape = {
+  portrait: "aspect-[3/4]",
+  landscape: "aspect-[16/10]",
+  square: "aspect-square",
+} as const;
+
+export function FilmModule({
+  work,
+  shape = "landscape",
+}: {
+  work: Work;
+  shape?: keyof typeof frameShape;
+}) {
   const still = work.cover ?? resolveFigures(work.figures)[0];
   const focus =
     work.slug === "find-the-next-story" ||
@@ -27,9 +39,7 @@ export function FilmModule({ work, featured = false }: { work: Work; featured?: 
   return (
     <Link href={work.href ?? `/works/${work.slug}`} className="group block outline-none">
       <article
-        className={`film-frame relative overflow-hidden rounded-[1.35rem] ring-1 ring-white/10 ${still ? "bg-[#10141c]" : scenes[work.slug] ?? "bg-[#10141c]"} ${
-          featured ? "min-h-[88vh]" : "min-h-[86vh]"
-        }`}
+        className={`film-frame relative overflow-hidden rounded-[1.35rem] ring-1 ring-white/10 ${frameShape[shape]} ${still ? "bg-[#10141c]" : scenes[work.slug] ?? "bg-[#10141c]"}`}
       >
         {still ? (
           <div className="film-still-wrap absolute inset-0">
@@ -66,7 +76,7 @@ export function FilmModule({ work, featured = false }: { work: Work; featured?: 
           </span>
         ) : null}
         <div className="absolute inset-x-0 bottom-0 z-10 p-5 sm:p-8">
-          <h3 className="font-drama text-[clamp(2.1rem,4vw,3.6rem)] leading-none text-[#f6eddf]">{work.title}</h3>
+          <h3 className="font-drama text-[clamp(1.45rem,2.4vw,2.45rem)] leading-none text-[#f6eddf]">{work.title}</h3>
           {work.play ? <p className="mt-2 font-mono text-[11px] tracking-[0.16em] text-[#e5ca7e]">观看成片</p> : null}
           {work.note ? <p className="mt-3 max-w-xl text-sm leading-7 text-[#f6eddf]/78">{work.note}</p> : null}
           {work.role ? <p className="mt-3 max-w-xl text-sm leading-7 text-[#f6eddf]/78">{work.role}</p> : null}

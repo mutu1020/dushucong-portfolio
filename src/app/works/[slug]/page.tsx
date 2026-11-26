@@ -46,24 +46,11 @@ export default async function WorkPage({ params }: { params: Promise<Params> }) 
 
   return (
     <article className="bg-[#050913]">
-      <div className={`relative min-h-[100svh] ${cover && !hasFilm ? "" : scenes[work.slug] ?? "bg-[#050913]"}`}>
-        {cover && !hasFilm ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            src={cover}
-            alt=""
-            className={`absolute inset-0 h-full w-full ${work.fit === "contain" ? "object-contain" : "object-cover"}`}
-          />
-        ) : null}
-        <div className="vignette pointer-events-none absolute inset-0" />
-        <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(to_top,rgb(5_9_19/92%),rgb(5_9_19/28%)_46%,transparent_70%)]" />
-        <header className="absolute inset-x-0 top-0 z-10 flex items-center justify-between px-5 py-5 sm:px-8">
-          <Link href="/#works" className="font-mono text-[11px] tracking-[0.18em] text-[#f6eddf]/80">
-            ← 杜书从
-          </Link>
-          <p className="font-mono text-[11px] tracking-[0.18em] text-[#e5ca7e]">{work.code ?? work.index}</p>
-        </header>
-        <ol className="absolute right-4 top-1/2 z-10 hidden -translate-y-1/2 flex-col gap-3 md:flex">
+      <header className="flex flex-wrap items-center justify-between gap-4 px-5 py-5 sm:px-8">
+        <Link href="/#works" className="font-mono text-[11px] tracking-[0.18em] text-[#f6eddf]/80">
+          ← 杜书从
+        </Link>
+        <ol className="flex flex-wrap gap-3">
           {works.map((item) => (
             <li key={item.slug}>
               <Link
@@ -76,21 +63,36 @@ export default async function WorkPage({ params }: { params: Promise<Params> }) 
             </li>
           ))}
         </ol>
-        <div className={`relative z-10 flex min-h-[100svh] flex-col px-5 pb-16 pt-24 sm:px-10 lg:px-16 ${hasFilm ? "items-center justify-start text-center" : "justify-end"}`}>
-          {hasFilm ? (
-            <video
-              className="h-[min(72vh,820px)] w-auto max-w-[min(92vw,420px)] rounded-[1.5rem] bg-black shadow-[0_30px_80px_rgba(0,0,0,0.45)] ring-1 ring-white/20"
-              controls
-              playsInline
-              preload="metadata"
-              poster={assetUrl("/works/emoji-banana-pro-poster.jpg")}
-              src={assetUrl("/works/emoji-banana-pro.mp4")}
+        <p className="font-mono text-[11px] tracking-[0.18em] text-[#e5ca7e]">{work.code ?? work.index}</p>
+      </header>
+      <div className="mx-auto grid max-w-6xl items-end gap-8 px-4 pb-8 pt-2 sm:px-6 lg:grid-cols-[minmax(0,0.82fr)_minmax(0,1.18fr)]">
+        {hasFilm ? (
+          <video
+            className="mx-auto h-auto max-h-[68vh] w-auto max-w-full rounded-[1.5rem] bg-black shadow-[0_24px_70px_rgb(0_0_0/45%)] ring-1 ring-white/20"
+            aria-label={work.title}
+            controls
+            playsInline
+            preload="metadata"
+            poster={assetUrl("/works/emoji-banana-pro-poster.jpg")}
+            src={assetUrl("/works/emoji-banana-pro.mp4")}
+          />
+        ) : cover ? (
+          <figure className={`overflow-hidden rounded-[1.5rem] ring-1 ring-white/10 ${scenes[work.slug] ?? "bg-[#10141c]"}`}>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={cover}
+              alt=""
+              className={`max-h-[68vh] w-full ${work.fit === "contain" ? "object-contain" : "object-cover"}`}
             />
-          ) : null}
+          </figure>
+        ) : (
+          <div className={`min-h-48 rounded-[1.5rem] ${scenes[work.slug] ?? "bg-[#10141c]"}`} />
+        )}
+        <div className="lg:mb-6">
           <p className="font-mono text-[11px] tracking-[0.22em] text-[#e5ca7e]">
             {work.index} / {work.filedAs}
           </p>
-          <h1 className={`font-drama mt-4 max-w-4xl text-[#f6eddf] ${hasFilm ? "text-4xl sm:text-5xl" : "text-[clamp(3rem,8vw,6.5rem)] leading-[0.92]"}`}>{work.title}</h1>
+          <h1 className="font-drama mt-4 max-w-xl text-4xl leading-tight text-[#f6eddf] sm:text-5xl">{work.title}</h1>
           {work.cardEn ? (
             <p className="mt-4 font-mono text-[11px] tracking-[0.16em] text-[#d8bf79]">{work.cardEn.replaceAll("\n", " ")}</p>
           ) : null}
