@@ -13,6 +13,8 @@ const scenes: Record<string, string> = {
     "bg-[radial-gradient(ellipse_at_80%_30%,#4a4032_0%,#1a1612_48%,#07080c_84%)]",
   "a-system-for-ideas":
     "bg-[radial-gradient(ellipse_at_50%_0%,#3c4658_0%,#141820_50%,#070910_86%)]",
+  "text-portfolio":
+    "bg-[radial-gradient(ellipse_at_18%_12%,#4a4032_0%,#16130f_46%,#07080c_82%)]",
 };
 
 const frameShape = {

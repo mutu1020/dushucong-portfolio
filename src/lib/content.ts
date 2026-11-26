@@ -197,6 +197,20 @@ export const assetLibraryImages = [
   "/works/asset-library/24-asset-library-06.png",
 ] as const;
 
+export const textPortfolioModule: Work = {
+  index: "10",
+  slug: "text-portfolio",
+  title: "文字版作品集",
+  navTitle: "文字版作品集",
+  cardEn: "DU\nSHUCONG",
+  category: "文字版",
+  filedAs: "杜书从｜彬彬AI说作品集",
+  tone: "slate",
+  note: "把技术的新意，变成看得懂的内容。",
+  href: "/works/text-portfolio",
+  practice: false,
+};
+
 export const libraryModule: Work = {
   index: "08",
   slug: "style-library",
