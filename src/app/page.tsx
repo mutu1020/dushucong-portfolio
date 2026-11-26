@@ -4,7 +4,7 @@ import Link from "next/link";
 import { ContactDesk } from "@/components/contact-desk";
 import { FilmModule } from "@/components/film-modules";
 import { HeroPortal } from "@/components/hero-portal";
-import { assetUrl } from "@/lib/base-path";
+import { SelectedReels } from "@/components/selected-reels";
 import {
   careerEntries,
   libraryModule,
@@ -15,7 +15,6 @@ import {
   timelineEntries,
   works,
 } from "@/lib/content";
-import { resolveFigure } from "@/lib/stills";
 
 const placements: Record<string, { span: string; shape: "portrait" | "landscape" | "square" }> = {
   "ai-custom-emoji": { span: "md:col-span-7 md:mt-8", shape: "landscape" },
@@ -30,62 +29,13 @@ const placements: Record<string, { span: string; shape: "portrait" | "landscape"
 
 export default function HomePage() {
   const hasQr = fs.existsSync(path.join(process.cwd(), "public", "wechat-qr.png"));
-  const film = works.find((work) => work.slug === "ai-custom-emoji");
-  const filmStill = resolveFigure("01-ai-emoji-finished-frames");
   const reel = [...works, libraryModule];
 
   return (
     <div className="relative">
       <HeroPortal />
 
-      {film ? (
-        <section id="works" className="mx-auto max-w-6xl px-4 pb-8 pt-16 sm:px-6 sm:pt-24">
-          <div className="flex items-end justify-between gap-6">
-            <div>
-              <p className="font-mono text-[11px] tracking-[0.28em] text-[#e5ca7e]">精选影像</p>
-              <h2 className="mt-3 text-3xl text-[#f6eddf] sm:text-5xl">{film.title}</h2>
-            </div>
-            <p className="font-mono text-[11px] tracking-[0.2em] text-[#f6eddf]/45">{film.code}</p>
-          </div>
-          <div className="mt-10 grid items-start gap-8 lg:grid-cols-12">
-            <div className="lg:col-span-4 lg:mt-2 lg:max-w-[280px]">
-              <p className="font-mono text-[11px] tracking-[0.2em] text-[#f6eddf]/55">{film.filedAs}</p>
-              <video
-                className="mt-4 h-auto max-h-[56vh] w-auto max-w-full rounded-[1.25rem] bg-black shadow-[0_24px_70px_rgb(0_0_0/45%)] ring-1 ring-white/15"
-                aria-label={film.title}
-                controls
-                playsInline
-                preload="metadata"
-                poster={assetUrl("/works/emoji-banana-pro-poster.jpg")}
-                src={assetUrl("/works/emoji-banana-pro.mp4")}
-              />
-              <p className="mt-3 font-mono text-[11px] tracking-[0.16em] text-[#e5ca7e]">观看成片</p>
-            </div>
-            <div className="lg:col-span-8 lg:mt-20">
-              {filmStill ? (
-                <figure className="overflow-hidden rounded-[1.5rem] bg-[#10141c] ring-1 ring-white/10">
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={filmStill} alt="" className="max-h-[58vh] w-full object-contain" />
-                </figure>
-              ) : null}
-              <div className="mt-6 flex flex-wrap items-end justify-between gap-6">
-                <div className="max-w-xl">
-                  {film.role ? <p className="text-sm leading-7 text-[#f6eddf]/78">{film.role}</p> : null}
-                  <Link href={`/works/${film.slug}`} className="mt-4 inline-block font-mono text-[11px] tracking-[0.18em] text-[#e5ca7e]">
-                    {film.index} / {film.navTitle}
-                  </Link>
-                </div>
-                {film.metric ? (
-                  <div className="inline-flex min-w-40 flex-col rounded-2xl border border-white/15 bg-[#050913]/55 px-4 py-3">
-                    <span className="text-3xl tracking-tight text-[#f6eddf]">{film.metric.value}</span>
-                    <span className="mt-1 font-mono text-[10px] tracking-[0.14em] text-[#e5ca7e]">{film.metric.label}</span>
-                  </div>
-                ) : null}
-              </div>
-            </div>
-          </div>
-        </section>
-      ) : null}
+      <SelectedReels />
 
       <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-20">
         <div className="flex items-end justify-between gap-6">
