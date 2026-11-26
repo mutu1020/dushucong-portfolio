@@ -65,6 +65,22 @@ const dramas: Reel[] = [
     duration: "2:12",
     span: "md:col-span-6 md:col-start-4 md:mt-6",
   },
+  {
+    id: "05-ai-drama-xujian",
+    title: "AI现代剧",
+    src: "/works/films/05-ai-drama-xujian.mp4",
+    poster: "/works/films/05-ai-drama-xujian.jpg",
+    duration: "4:00",
+    span: "md:col-span-5 md:mt-12",
+  },
+  {
+    id: "08-ai-drama-gufeng-b",
+    title: "AI古风漫剧",
+    src: "/works/films/08-ai-drama-gufeng-b.mp4",
+    poster: "/works/films/08-ai-drama-gufeng-b.jpg",
+    duration: "3:42",
+    span: "md:col-span-7 md:mt-4",
+  },
 ];
 
 const shorts: Reel[] = [
