@@ -207,7 +207,7 @@ export const textPortfolioModule: Work = {
   filedAs: "杜书从｜彬彬AI说作品集",
   tone: "slate",
   note: "把技术的新意，变成看得懂的内容。",
-  href: "/works/text-portfolio",
+  href: "https://my.feishu.cn/wiki/AhsGwy2iuibTO6kYyofckdzJnRb",
   practice: false,
 };
 

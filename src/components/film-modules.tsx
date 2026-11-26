@@ -38,8 +38,10 @@ export function FilmModule({
       ? "object-top"
       : "object-center";
 
-  return (
-    <Link href={work.href ?? `/works/${work.slug}`} className="group block outline-none">
+  const href = work.href ?? `/works/${work.slug}`;
+  const external = href.startsWith("https://") || href.startsWith("http://");
+  const card = (
+    <>
       <article
         className={`film-frame relative overflow-hidden rounded-[1.35rem] ring-1 ring-white/10 ${frameShape[shape]} ${still ? "bg-[#10141c]" : scenes[work.slug] ?? "bg-[#10141c]"}`}
       >
@@ -95,6 +97,20 @@ export function FilmModule({
           ) : null}
         </div>
       </article>
+    </>
+  );
+
+  if (external) {
+    return (
+      <a href={href} target="_blank" rel="noopener noreferrer" className="group block outline-none">
+        {card}
+      </a>
+    );
+  }
+
+  return (
+    <Link href={href} className="group block outline-none">
+      {card}
     </Link>
   );
 }
