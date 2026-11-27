@@ -208,7 +208,7 @@ export const libraryModule: Work = {
   tone: "slate",
   note: "341 种风格提示词，可检索、可复制；193 张静帧。",
   href: "/library/index.html",
-  cover: assetUrl("/library/代码动画/风格提示词/Z_中国风/Z5_剪纸.jpg"),
+  cover: assetUrl("/works/341-library-cover.png"),
   practice: false,
 };
 
