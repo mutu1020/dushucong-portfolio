@@ -298,6 +298,10 @@
   transform: translateY(3px);
 }
 
+.coverflow-stage {
+  perspective: 1400px;
+}
+
 .film-frame {
   transition:
     transform 0.8s cubic-bezier(0.16, 0.84, 0.24, 1),
