@@ -2,10 +2,10 @@ import fs from "node:fs";
 import path from "node:path";
 import Link from "next/link";
 import { ContactDesk } from "@/components/contact-desk";
-import { FilmModule } from "@/components/film-modules";
 import { HeroPortal } from "@/components/hero-portal";
 import { FilmCoverflow } from "@/components/film-coverflow";
 import { MethodBoards } from "@/components/method-boards";
+import { ScurveGallery, type GalleryPanel } from "@/components/scurve-gallery";
 import {
   careerEntries,
   libraryModule,
@@ -16,51 +16,68 @@ import {
   textPortfolioModule,
   timelineEntries,
   works,
+  type Work,
 } from "@/lib/content";
+import { resolveFigures } from "@/lib/stills";
 
-const placements: Record<string, { span: string; shape: "portrait" | "landscape" | "square" }> = {
-  "ai-custom-emoji": { span: "md:col-span-7 md:mt-8", shape: "landscape" },
-  "libtv-ai-portrait": { span: "md:col-span-5 md:mt-24", shape: "portrait" },
-  "duxinshu-storyboard": { span: "md:col-span-5 md:-mt-10", shape: "portrait" },
-  "find-the-next-story": { span: "md:col-span-7 md:mt-14", shape: "landscape" },
-  "a-system-for-ideas": { span: "md:col-span-8 md:-mt-4", shape: "landscape" },
-  "visual-materials": { span: "md:col-span-6 md:mt-16", shape: "portrait" },
-  "style-library": { span: "md:col-span-6 md:mt-4", shape: "square" },
-  "asset-library": { span: "md:col-span-7 md:mt-14", shape: "landscape" },
-  "text-portfolio": { span: "md:col-span-5 md:mt-20", shape: "portrait" },
-};
+const featuredOrder = [
+  "ai-custom-emoji",
+  "libtv-ai-portrait",
+  "duxinshu-storyboard",
+  "find-the-next-story",
+  "a-system-for-ideas",
+  "style-library",
+  "visual-materials",
+  "asset-library",
+];
+
+function coverFor(work: Work) {
+  return work.cover || resolveFigures(work.figures)[0] || "";
+}
 
 export default function HomePage() {
   const hasQr = fs.existsSync(path.join(process.cwd(), "public", "wechat-qr.png"));
-  const assetLibrary = works.find((work) => work.slug === "asset-library");
-  const reel = [
-    ...works.filter((work) => work.slug !== "asset-library"),
-    libraryModule,
-    ...(assetLibrary ? [assetLibrary] : []),
-    textPortfolioModule,
-  ];
+  const catalog = new Map<string, Work>([
+    ...works.map((work) => [work.slug, work] as const),
+    [libraryModule.slug, libraryModule],
+  ]);
+  const panels: GalleryPanel[] = featuredOrder.flatMap((slug) => {
+    const work = catalog.get(slug);
+    const image = work ? coverFor(work) : "";
+    if (!work || !image) return [];
+    return [
+      {
+        id: work.slug,
+        title: work.title,
+        href: work.href ?? `/works/${work.slug}`,
+        image,
+        external: Boolean(work.href?.startsWith("http")),
+        metric: work.metric,
+      },
+    ];
+  });
 
   return (
     <div className="relative">
       <HeroPortal />
 
-      <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-20">
-        <div className="flex items-end justify-between gap-6">
+      <section className="overflow-x-hidden py-16 sm:py-20">
+        <div className="mx-auto flex max-w-6xl items-end justify-between gap-6 px-4 sm:px-6">
           <div>
             <p className="font-mono text-[11px] tracking-[0.28em] text-[#e5ca7e]">FEATURED WORKS</p>
             <h2 className="mt-3 text-3xl text-[#f6eddf] sm:text-5xl">精选作品与工作方法</h2>
           </div>
-          <p className="font-mono text-[11px] tracking-[0.2em] text-[#f6eddf]/45">09</p>
+          <a
+            href={textPortfolioModule.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="shrink-0 font-mono text-[11px] tracking-[0.16em] text-[#e5ca7e]"
+          >
+            {textPortfolioModule.title}
+          </a>
         </div>
-        <div className="mt-10 grid grid-cols-1 items-start gap-x-5 gap-y-8 md:grid-cols-12">
-          {reel.map((work) => {
-            const place = placements[work.slug] ?? { span: "md:col-span-6", shape: "landscape" as const };
-            return (
-              <div key={work.slug} className={place.span}>
-                <FilmModule work={work} shape={place.shape} />
-              </div>
-            );
-          })}
+        <div className="mt-6">
+          <ScurveGallery panels={panels} />
         </div>
       </section>
 
