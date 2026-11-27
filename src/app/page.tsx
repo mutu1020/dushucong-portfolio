@@ -83,7 +83,7 @@ export default function HomePage() {
 
       <section id="works" className="overflow-x-hidden px-4 pb-8 pt-6 sm:px-6">
         <div className="mx-auto max-w-6xl">
-          <p className="font-mono text-[11px] tracking-[0.28em] text-[#e5ca7e]">精选影像</p>
+          <p className="font-mono text-[11px] tracking-[0.28em] text-[#e5ca7e]">《AIGC作品短片》</p>
         </div>
         <div className="mt-6">
           <FilmCoverflow />
@@ -91,7 +91,10 @@ export default function HomePage() {
       </section>
 
       <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6">
-        <MethodBoards />
+        <p className="font-mono text-[11px] tracking-[0.28em] text-[#e5ca7e]">《完整工作流》</p>
+        <div className="mt-6">
+          <MethodBoards />
+        </div>
       </section>
 
       <section id="profile" className="reveal-block bg-[#f3efe4] text-[#1b1915]">
