@@ -4,7 +4,8 @@ import Link from "next/link";
 import { ContactDesk } from "@/components/contact-desk";
 import { FilmModule } from "@/components/film-modules";
 import { HeroPortal } from "@/components/hero-portal";
-import { FilmCoverflow } from "@/components/film-coverflow";
+import { FilmGrid } from "@/components/film-grid";
+import { MethodBoards } from "@/components/method-boards";
 import {
   careerEntries,
   libraryModule,
@@ -16,18 +17,6 @@ import {
   timelineEntries,
   works,
 } from "@/lib/content";
-
-const placements: Record<string, { span: string; shape: "portrait" | "landscape" | "square" }> = {
-  "ai-custom-emoji": { span: "md:col-span-7 md:mt-8", shape: "landscape" },
-  "libtv-ai-portrait": { span: "md:col-span-5 md:mt-24", shape: "portrait" },
-  "duxinshu-storyboard": { span: "md:col-span-5 md:-mt-10", shape: "portrait" },
-  "find-the-next-story": { span: "md:col-span-7 md:mt-14", shape: "landscape" },
-  "a-system-for-ideas": { span: "md:col-span-8 md:-mt-4", shape: "landscape" },
-  "visual-materials": { span: "md:col-span-6 md:mt-16", shape: "portrait" },
-  "style-library": { span: "md:col-span-6 md:mt-4", shape: "square" },
-  "asset-library": { span: "md:col-span-7 md:mt-14", shape: "landscape" },
-  "text-portfolio": { span: "md:col-span-5 md:mt-20", shape: "portrait" },
-};
 
 export default function HomePage() {
   const hasQr = fs.existsSync(path.join(process.cwd(), "public", "wechat-qr.png"));
@@ -51,15 +40,10 @@ export default function HomePage() {
           </div>
           <p className="font-mono text-[11px] tracking-[0.2em] text-[#f6eddf]/45">09</p>
         </div>
-        <div className="mt-10 grid grid-cols-1 items-start gap-x-5 gap-y-8 md:grid-cols-12">
-          {reel.map((work) => {
-            const place = placements[work.slug] ?? { span: "md:col-span-6", shape: "landscape" as const };
-            return (
-              <div key={work.slug} className={place.span}>
-                <FilmModule work={work} shape={place.shape} />
-              </div>
-            );
-          })}
+        <div className="mt-10 grid grid-cols-1 gap-6 md:grid-cols-2">
+          {reel.map((work) => (
+            <FilmModule key={work.slug} work={work} shape="landscape" />
+          ))}
         </div>
       </section>
 
@@ -67,9 +51,13 @@ export default function HomePage() {
         <div className="mx-auto max-w-6xl">
           <p className="font-mono text-[11px] tracking-[0.28em] text-[#e5ca7e]">精选影像</p>
         </div>
-        <div className="mt-6">
-          <FilmCoverflow />
+        <div className="mx-auto mt-6 max-w-6xl">
+          <FilmGrid />
         </div>
+      </section>
+
+      <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6">
+        <MethodBoards />
       </section>
 
       <section id="profile" className="reveal-block bg-[#f3efe4] text-[#1b1915]">
